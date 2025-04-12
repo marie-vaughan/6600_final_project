@@ -196,8 +196,8 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,34,64,https://i.scdn.co/image/ab67616d0000b273045514e3ed4e1767a7c3ece5,indie folk
 0VEFy5MsBiq0u2lWL0OwOd,Ohms,Deftones,2020-09-25,10,61,https://i.scdn.co/image/ab67616d0000b27366c9f5d6f13bfc9abedc1056,nu metal
 4Y5lQYgpDrkyru90jltD5a,B4 The Storm,Internet Money,2020-08-28,17,66,https://i.scdn.co/image/ab67616d0000b273c4adc981dc6656e52c916088,rap
-51J0jGO3pUZGe3g2XS8zEh,Lullaby at the Movies - Lullaby Renditions of the Greatest Movie Musicals - Featuring Lullabies of all your Disney Favorites ! ( Best of ),Sleepyheadz,2020-03-11,26,65,https://i.scdn.co/image/ab67616d0000b273446e525ce55f626b91cd86af,Unknown
-0eG8Pkyoc91BZ7s7bsBtNi,Frère Jacques,Adelmar Borrego,2020-01-31,3,65,https://i.scdn.co/image/ab67616d0000b2730c9ef77b37c210ab8ba448ae,Unknown
+51J0jGO3pUZGe3g2XS8zEh,Lullaby at the Movies - Lullaby Renditions of the Greatest Movie Musicals - Featuring Lullabies of all your Disney Favorites ! ( Best of ),Sleepyheadz,2020-03-11,26,65,https://i.scdn.co/image/ab67616d0000b273446e525ce55f626b91cd86af,kids
+0eG8Pkyoc91BZ7s7bsBtNi,Frère Jacques,Adelmar Borrego,2020-01-31,3,65,https://i.scdn.co/image/ab67616d0000b2730c9ef77b37c210ab8ba448ae,kids
 5OVxLrOoXXD2HSKkQNqhQW,Songs to Break Up To,Wild Rivers,2020-05-01,6,62,https://i.scdn.co/image/ab67616d0000b273b81e9c59c2ccdf2df994611e,folk
 25gJpQKgXxT5CrMitr0DQO,On Me,Lil Baby,2020-12-04,1,61,https://i.scdn.co/image/ab67616d0000b2738de3ce24866dcc8ffddbebac,rap
 7KHTE99FaDr8r7V8BZG7WN,For Abby,JAWNY,2020-10-27,10,67,https://i.scdn.co/image/ab67616d0000b273bf076bd9b8ad8facbb19f473,indie
@@ -224,7 +224,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7fZKtzZAsfH0kzeTivu5TG,Slime & B,Chris Brown,2020-05-08,13,65,https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc,hip-hop
 3rxj1eHjamXQyJHLVPOpHm,Julie and the Phantoms: Season 1 (From the Netflix Original Series),Julie and the Phantoms Cast,2020-09-10,15,64,https://i.scdn.co/image/ab67616d0000b273b51d34b240a45a9223f7291b,pop
 6DOZI2LfBRYHRhZV21LrOu,Eenie Meenie EP,Sean Kingston,2020-02-28,3,57,https://i.scdn.co/image/ab67616d0000b273ca8d656fa57db4cce117f53b,rnb
-4fTl2mfUnklRLFpU0yubXU,100 Baby Lullabies : Bedtime Lullaby Music : The Very Best Sleep Songs & Piano Nursery Rhymes for Babies & Children,Sleepyheadz,2020-03-27,100,64,https://i.scdn.co/image/ab67616d0000b273a7d03c749c5e8e274b7cae82,Unknown
+4fTl2mfUnklRLFpU0yubXU,100 Baby Lullabies : Bedtime Lullaby Music : The Very Best Sleep Songs & Piano Nursery Rhymes for Babies & Children,Sleepyheadz,2020-03-27,100,64,https://i.scdn.co/image/ab67616d0000b273a7d03c749c5e8e274b7cae82,kids
 6lJqLqRmWGmsw8aLEoSlZ9,One and Only,Sheff G,2020-05-15,12,61,https://i.scdn.co/image/ab67616d0000b273ad8cc1fba73c2360ba0ff182,king billionheir
 0D7yJonn41qsrIQ7YdWk2z,Nicotine,Trevor Daniel,2020-03-26,10,66,https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5,pop
 6xS6mQz1fQZ6eZE654J15I,Por Primera Vez,Camilo,2020-04-17,10,72,https://i.scdn.co/image/ab67616d0000b273b4da01f3f98d18af9432e3dd,latin
@@ -265,14 +265,14 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 65YAjLCn7Jp33nJpOxIPMe,to hell with it,PinkPantheress,2021-10-15,10,76,https://i.scdn.co/image/ab67616d0000b27312c2eefb1d28509c632d915d,2-step
 5TkaDC4mYSLBvdG6UrIB0v,CINEMA,The Marías,2021-06-25,13,75,https://i.scdn.co/image/ab67616d0000b273ec93734d42345154b422c8d5,dream pop
 576UTio7xgY7YUxrHMzxeI,F*CK LOVE 3+: OVER YOU,The Kid LAROI,2021-07-27,35,77,https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a,emo rap
-19xQ3Y3XrQz88UeM1lfe1d,528 Hz Positive Transformation,Spiritual Frequencies,2021-10-01,25,75,https://i.scdn.co/image/ab67616d0000b273247fccfcd4e0d90cfd161a77,Unknown
+19xQ3Y3XrQz88UeM1lfe1d,528 Hz Positive Transformation,Spiritual Frequencies,2021-10-01,25,75,https://i.scdn.co/image/ab67616d0000b273247fccfcd4e0d90cfd161a77,relaxed
 4SD2UxRO9OgeSCQK0PN7cC,This Place Will Become Your Tomb,Sleep Token,2021-09-24,12,73,https://i.scdn.co/image/ab67616d0000b27336afd3d53b6dcc59f3563cf9,progressive metal
 25L8ck3KGcmCo3901ztPzR,Encanto (Original Motion Picture Soundtrack),Lin-Manuel Miranda,2021-11-19,44,73,https://i.scdn.co/image/ab67616d0000b273e1ac646ed6f25125e2a77229,soundtrack
 5dGWwsZ9iB2Xc3UKR0gif2,Justice,Justin Bieber,2021-03-19,16,80,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431,my top songs
 2HOETaIk01hB0glxrTVk39,Dreams & Calmness,X.L.T,2021-08-16,2,74,https://i.scdn.co/image/ab67616d0000b273d4a4c9d1667d1d514d217677,rain
 6zp8MKrhIwSdZojADmIDim,Sailing Soul(s),Jhené Aiko,2021-03-19,16,70,https://i.scdn.co/image/ab67616d0000b273832acae590753bd6e2c42b7f,love at first listen
 4yeyKUHbsCyfW4sLM8zFlV,Thunderstorm Sounds for Sleep,Pure Relaxing Vibes,2021-04-28,8,72,https://i.scdn.co/image/ab67616d0000b2732c85d86143435c8b8cf5060b,nature sounds
-0dfp6KTXG4H8S5Zl5yKXOK,528 Hz Miracle Tone,Spiritual Frequencies,2021-10-01,25,74,https://i.scdn.co/image/ab67616d0000b27377e5d213c73c2e60270ad995,Unknown
+0dfp6KTXG4H8S5Zl5yKXOK,528 Hz Miracle Tone,Spiritual Frequencies,2021-10-01,25,74,https://i.scdn.co/image/ab67616d0000b27377e5d213c73c2e60270ad995,relaxed
 6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),Taylor Swift,2021-01-07,17,74,https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6,folk
 3dgsCZMswt6TWbsKcMgoO2,Long Term Effects of SUFFERING,$uicideboy$,2021-08-13,13,70,https://i.scdn.co/image/ab67616d0000b273b25093d7ccdce4a848988f9e,g59
 0KC9H4iFOOWiKEa5IzKKOE,OK ORCHESTRA,AJR,2021-03-26,13,67,https://i.scdn.co/image/ab67616d0000b2730b2dd5b222295ed11c07954c,pop
@@ -310,7 +310,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 2wwCc6fcyhp1tfY3J6Javr,Blue Banisters,Lana Del Rey,2021-10-22,15,72,https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e,soft rock
 4ssppGN0Qy4OeJTUDr1Etd,"Sincerely, Kentrell",YoungBoy Never Broke Again,2021-09-24,23,66,https://i.scdn.co/image/ab67616d0000b2734fc2bc1fbb295ceabbf5a658,melodic hip-hop
 6SpT5TOPIInmmwLyCcCAXX,Trip At Knight,Trippie Redd,2021-08-21,18,68,https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4,electronic trap
-6ZKRu38HcgmoIaJwj61XgD,Every Night White Noise,The Noisy Outdoors,2021-08-30,2,71,https://i.scdn.co/image/ab67616d0000b2734622c2444aa74d4dccc34072,Unknown
+6ZKRu38HcgmoIaJwj61XgD,Every Night White Noise,The Noisy Outdoors,2021-08-30,2,71,https://i.scdn.co/image/ab67616d0000b2734622c2444aa74d4dccc34072,relaxed
 0ccEYmcKK8UKt5zZ0lGgJ7,PLAYBOY,Tory Lanez,2021-03-05,12,69,https://i.scdn.co/image/ab67616d0000b2736cb77fdd20d0377bc978a380,rnb
 5CS8E6JVACItYto4OOJoPW,KG0516,KAROL G,2021-03-26,16,76,https://i.scdn.co/image/ab67616d0000b273ae28c8f2748587cc2a33d6c2,reggaeton
 4ke6cauk7sHuydZCrkgD7s,Bluey the Album (Music from the Original TV Series),Bluey,2021-01-22,17,67,https://i.scdn.co/image/ab67616d0000b27319ae9f2ac27cfa4de951e56e,australian
@@ -357,7 +357,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 0BA1h18jGi9tQ4iUAacLMG,WAKE UP LUCKI,LUCKI,2021-12-03,12,62,https://i.scdn.co/image/ab67616d0000b273d0896c7e9b84d1c06e35771b,trap
 15BnishwaiZhh0ZY3fnxMN,SoulFly (Deluxe Version),Rod Wave,2021-08-20,28,62,https://i.scdn.co/image/ab67616d0000b2731234ddd76451088911b0d79f,rap
 4TATXEH2tnZVTqlyURoWUR,A Mis 20,Natanael Cano,2021-05-28,11,74,https://i.scdn.co/image/ab67616d0000b2738ba65480eb96fff16634644c,corridos tumbados
-5mFo23J7LOWQA9kHw97DVH,Thunder and Rain Sounds to Fall Asleep,Pure Sleeping Vibes,2021-04-25,10,65,https://i.scdn.co/image/ab67616d0000b27317d99dbeecb48398cf5eaeb0,Unknown
+5mFo23J7LOWQA9kHw97DVH,Thunder and Rain Sounds to Fall Asleep,Pure Sleeping Vibes,2021-04-25,10,65,https://i.scdn.co/image/ab67616d0000b27317d99dbeecb48398cf5eaeb0,relaxed
 3Us0eofAYq7tRuaH7A56i0,Don't Lose Hope,Cochren & Co.,2021-01-22,13,63,https://i.scdn.co/image/ab67616d0000b27333db60e275ff72a4aba719ac,christian
 7KF1Ain9mYYlg5M46g0i4A,Teatro d'ira - Vol. I,Måneskin,2021-03-19,8,75,https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21,rock
 3mXV6PyuDWzsKW4zAHiZWk,10 Hours of Continuous Thunderstorm Sounds,Rain Radiance,2021-01-10,100,64,https://i.scdn.co/image/ab67616d0000b27361d6dae5e8aab6cbfdc3d768,ambient
@@ -371,7 +371,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 4E691gbRgo2Zb6ToII2DWO,Absolutely,Dijon,2021-11-05,12,65,https://i.scdn.co/image/ab67616d0000b273a68442f97c3ad2dcba0beae6,seen live
 1XKOXluL7TbCpPVsX4dqXv,Dum and Dummer 2,Young Dolph,2021-03-26,20,61,https://i.scdn.co/image/ab67616d0000b273b3afd4ead5b9e3940f3abbf7,trap
 1UtMaTZl4kau9NSFqc8wHp,"Del Barrio Hasta Aquí, Vol. 2",Fuerza Regida,2021-12-31,16,66,https://i.scdn.co/image/ab67616d0000b2737d8afedc581ca940ed25207d,mexico
-6dj4GkmM3xo8bjb2F47Kvn,Rain and Thunder Sounds for Sleep,Pure Sleeping Vibes,2021-10-04,10,63,https://i.scdn.co/image/ab67616d0000b2734e45e9013e62a72ef1522528,Unknown
+6dj4GkmM3xo8bjb2F47Kvn,Rain and Thunder Sounds for Sleep,Pure Sleeping Vibes,2021-10-04,10,63,https://i.scdn.co/image/ab67616d0000b2734e45e9013e62a72ef1522528,relaxed
 1uD1kdwTWH1DZQZqGKz6rY,Jubilee,Japanese Breakfast,2021-06-04,10,63,https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373,chamber pop
 558tpdCejjVQNFAumRAeQj,NOEASY,Stray Kids,2021-08-23,14,71,https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc,k-pop
 57ttk3xzHMWLr6CGrEa8F3,TEMPORARY HIGHS IN THE VIOLET SKIES,Snoh Aalegra,2021-07-09,15,63,https://i.scdn.co/image/ab67616d0000b2732802d4dbc9dfd83ba79290ca,rnb
@@ -392,7 +392,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 5L5evi5tJPh8WaEFAQp7Tp,The Highlights,The Weeknd,2021-02-05,18,72,https://i.scdn.co/image/ab67616d0000b27312a76d1b13ef07188f7dfbc9,rnb
 0X24VcVf6nQJ52c5QmncsO,$ad Boyz 4 Life,Junior H,2021-02-12,16,69,https://i.scdn.co/image/ab67616d0000b273aa4f60844b01638e7d3bb34c,folk
 1Rty2CL0UZeJWeCcCiXmhg,Lost Souls,Caskets,2021-08-13,11,64,https://i.scdn.co/image/ab67616d0000b2736bbd5c58e7be013e8e83dcb3,post-hardcore
-2NquGCNpNSIPCTY3McXqdl,Baby Love - Lullaby Love Songs for You and Your Baby,Sleepyheadz,2021-01-29,22,66,https://i.scdn.co/image/ab67616d0000b273bf1770cfbcfb198aed4cfd98,Unknown
+2NquGCNpNSIPCTY3McXqdl,Baby Love - Lullaby Love Songs for You and Your Baby,Sleepyheadz,2021-01-29,22,66,https://i.scdn.co/image/ab67616d0000b273bf1770cfbcfb198aed4cfd98,kids
 26LsyqIbRQJzO1TPE5icl2,4L,Yeat,2021-06-10,20,64,https://i.scdn.co/image/ab67616d0000b2732a2ca1ad79dd181c31e08c81,rage
 7chfI1mMxWQ2TRoARYLixg,Relaxing Thunder and Rain,Pure Relaxing Vibes,2021-05-03,9,63,https://i.scdn.co/image/ab67616d0000b273f7350bc63c1a31d68245d9fb,nature sounds
 69p42ovQdwmYPLUsAQpeNn,if i could make it go quiet,girl in red,2021-04-30,11,66,https://i.scdn.co/image/ab67616d0000b27348de97658631644cc60f3c8d,indie pop
@@ -408,14 +408,14 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 76TCh1UTFZMjIsHWZphYKD,Tranquility,Somnolence,2021-05-28,2,65,https://i.scdn.co/image/ab67616d0000b27314d728d83105e4f711718208,experimental
 6E8lxwX7KMAO9nCx4A5tAR,TV,Tai Verdes,2021-05-20,13,63,https://i.scdn.co/image/ab67616d0000b2738af9053a02067f1ac65e8f62,indie
 73YA428yr1quWSDEVuJXe5,Minari (Original Motion Picture Soundtrack),Emile Mosseri,2021-02-12,16,66,https://i.scdn.co/image/ab67616d0000b2733294a406fab193381a1ff13a,soundtrack
-7FtankGXHvGLTAfWz5zDpc,Calm Sleep (Noise),NatuREM,2021-10-26,8,65,https://i.scdn.co/image/ab67616d0000b27328a527aabcac7dc9476a3549,Unknown
+7FtankGXHvGLTAfWz5zDpc,Calm Sleep (Noise),NatuREM,2021-10-26,8,65,https://i.scdn.co/image/ab67616d0000b27328a527aabcac7dc9476a3549,relaxed
 0BYiDyfOOhzFrX9ENunvbk,For You,Parmalee,2021-07-30,13,60,https://i.scdn.co/image/ab67616d0000b273939ca581598e75a3d2491371,country
 7kjLKy9JLbwM9F7eDQEnd2,The Battle at Garden’s Gate,Greta Van Fleet,2021-04-16,12,62,https://i.scdn.co/image/ab67616d0000b273339cc033bcc476d11dffba4c,rock
 396EJBtUzseofX2YCBJVvM,Women In Music Pt. III,HAIM,2021-02-19,18,59,https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19,indie pop
 5DMfgmlbRD0HeUi5QQgOAD,The D.O.A. Tape,Kay Flock,2021-11-05,8,64,https://i.scdn.co/image/ab67616d0000b2735cac00af5116ce64fc85d727,bronx drill
 7ofTvnRj5Q1UYXLNfRWeDo,Nature,AtomFlow,2021-09-13,5,65,https://i.scdn.co/image/ab67616d0000b273335c20ac85b9bb27c684c115,instrumental
 11GmvpYnbgK0rSryPaV5BP,JOSE,J Balvin,2021-09-10,24,70,https://i.scdn.co/image/ab67616d0000b273922a7339d969b5f0262580f5,reggaeton
-4ReLyNKP6q9McH4V9nu7z3,The Deep White Noise,Universal Waves,2021-06-10,4,64,https://i.scdn.co/image/ab67616d0000b273c642dae5e8ce18bdd93c25c5,Unknown
+4ReLyNKP6q9McH4V9nu7z3,The Deep White Noise,Universal Waves,2021-06-10,4,64,https://i.scdn.co/image/ab67616d0000b273c642dae5e8ce18bdd93c25c5,relaxed
 2momrvUqAMigmBoOOKuavE,NEGATIVE,EKKSTACY,2021-11-12,7,64,https://i.scdn.co/image/ab67616d0000b2738a4281dc0abc2b840e65bcfe,emo
 6h3QqAyUznHmGJj90J3WZl,If I Were the Devil,Colby Acuff,2021-02-15,10,59,https://i.scdn.co/image/ab67616d0000b273b969cb65e61ab0dc71634f46,country
 7n23fjZTviIUnHyvZGQjni,The Melodic Blue,Baby Keem,2021-09-22,19,62,https://i.scdn.co/image/ab67616d0000b2733bcf586e8df6f8ef4a36ca3c,baby keem
@@ -453,7 +453,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 0JeyP8r2hBxYIoxXv11XiX,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,19,70,https://i.scdn.co/image/ab67616d0000b273ccdddb2e5349ea0608c3e016,pop
 2erc2EZKdtXpObRw9FALik,Shottaz 4Eva,MO3,2021-04-09,12,57,https://i.scdn.co/image/ab67616d0000b27312d9e0eb53e981e0e2672240,king billionheir
 2XtDT9YT729iLxWjuTMtrR,Batman,LPB Poody,2021-02-12,1,59,https://i.scdn.co/image/ab67616d0000b273eb05db2aafb810d71d918a55,florida
-63JLhZdWWlSldDCyScZ3wB,Ride the Cyclone: The Musical (World Premiere Cast Recording),Brooke Maxwell,2021-05-07,23,60,https://i.scdn.co/image/ab67616d0000b27343dc9cee9ed41afd182001ec,Unknown
+63JLhZdWWlSldDCyScZ3wB,Ride the Cyclone: The Musical (World Premiere Cast Recording),Brooke Maxwell,2021-05-07,23,60,https://i.scdn.co/image/ab67616d0000b27343dc9cee9ed41afd182001ec,kids
 2i5NyX1puwpGt7tmaP5sEg,The Life Of Pi'erre 5,Pi’erre Bourne,2021-06-11,16,60,https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db,transitions
 4QLAtpLNUsHEYrcHXmMIZZ,STAY (with Justin Bieber),The Kid LAROI,2021-07-09,1,69,https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5,pop rap
 1WfIjwnJ0aHiWCSkeSSeuV,Euphories,Videoclub,2021-01-29,13,71,https://i.scdn.co/image/ab67616d0000b2737fbf93cea6780bfa0399a62c,synthpop
@@ -579,7 +579,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7M842DMhYVALrXsw3ty7B3,I'm Good (Blue),David Guetta,2022-08-26,2,76,https://i.scdn.co/image/ab67616d0000b273933c036cd61cd40d3f17a9c4,house
 3trAc3cGjtbFXbljFVdzZG,Offering,Cults,2022-10-26,13,69,https://i.scdn.co/image/ab67616d0000b273d0349cd631791ca446be337a,poptron
 5UgaQfAOaOdfLxFClw8EWa,Stereotype,Cole Swindell,2022-04-08,13,64,https://i.scdn.co/image/ab67616d0000b27392264c5483fa95ddf7df26e0,country
-5sk7NGcbl17JL2OtXsokiQ,Baby Lullabies with Soothing Night-time Sounds,Nursery Rhymes ABC,2022-01-07,24,70,https://i.scdn.co/image/ab67616d0000b273b40d92258a26570db546a85e,Unknown
+5sk7NGcbl17JL2OtXsokiQ,Baby Lullabies with Soothing Night-time Sounds,Nursery Rhymes ABC,2022-01-07,24,70,https://i.scdn.co/image/ab67616d0000b273b40d92258a26570db546a85e,kids
 3fIxJzinc2MADbgfkLrmYY,Good God!,Rio Romeo,2022-09-23,5,70,https://i.scdn.co/image/ab67616d0000b273502345ddf02b0fe85ad15830,indie
 0d1BFY8z15vye3KjtLvF3u,2 Alivë,Yeat,2022-02-18,20,67,https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db,rage
 7dFnP4kqkS8va6P0UiVKaW,Dañado (Deluxe),Ivan Cornejo,2022-12-02,10,66,https://i.scdn.co/image/ab67616d0000b2733cccd751c7df01a5f91866ca,latin
@@ -593,7 +593,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7dfTBn7wtgKEchVmyipBl1,Different Man,Kane Brown,2022-09-09,17,64,https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36,country
 32hskBTJCQ3rmYAsUmol3Q,My Jesus,Anne Wilson,2022-04-22,15,63,https://i.scdn.co/image/ab67616d0000b2739af6ae8103a276a51a343eaf,linedance catalan
 1HMLpmZAnNyl9pxvOnTovV,NewJeans 1st EP 'New Jeans',NewJeans,2022-08-01,4,74,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209,eargasm
-2xRdy4MW4oGVAWRxitkm5s,528 Hz Miracle Transformation,Spiritual Frequencies,2022-02-07,20,65,https://i.scdn.co/image/ab67616d0000b2737b7670b93e031f6d405eb68c,Unknown
+2xRdy4MW4oGVAWRxitkm5s,528 Hz Miracle Transformation,Spiritual Frequencies,2022-02-07,20,65,https://i.scdn.co/image/ab67616d0000b2737b7670b93e031f6d405eb68c,relaxed
 1ZCsPUZ7j9dTqjhU2I36tw,The Last Slimeto,YoungBoy Never Broke Again,2022-08-05,30,63,https://i.scdn.co/image/ab67616d0000b2738040b02e84bbe74b846286e8,mumble crap
 1WVIJaAboRSwJOe4u0n0Q7,GABRIEL,keshi,2022-03-25,12,73,https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb,Lo-Fi
 1GI8XiKz756eajoeB4onFU,717 Tapes the Album,Warren Zeiders,2022-09-30,15,64,https://i.scdn.co/image/ab67616d0000b273f6240de9bdba49e0cf4769da,country
@@ -614,7 +614,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 5oPbg0vSyjXWguR2CDRVod,Rain and Thunder,Pure Relaxing Vibes,2022-09-12,8,64,https://i.scdn.co/image/ab67616d0000b2730b42700a318b8983d3ccaa79,nature sounds
 5FGZeAnAbmC0MJD597764o,Leave The Light On,Bailey Zimmerman,2022-10-14,9,62,https://i.scdn.co/image/ab67616d0000b2730b11474886b9d16abdeaedf9,country
 04PEOM6kIEeq9lRp1asNP2,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",OneRepublic,2022-05-13,1,72,https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13,rock
-7By7Jo2T4WuFDwzW7MRc02,Noise Waterfalls,Misa Bee,2022-01-18,4,72,https://i.scdn.co/image/ab67616d0000b27329b92fe30b2d4231988e58d3,Unknown
+7By7Jo2T4WuFDwzW7MRc02,Noise Waterfalls,Misa Bee,2022-01-18,4,72,https://i.scdn.co/image/ab67616d0000b27329b92fe30b2d4231988e58d3,relaxed
 6twfTQ122kNcHAUXjFbe8a,SUBJECT TO CHANGE,Kelsea Ballerini,2022-09-23,15,62,https://i.scdn.co/image/ab67616d0000b2737de9d89cc5220c52c731db5c,country
 2XurGuugADHAwF8gEYjtMA,SPIT IN MY FACE!,ThxSoMch,2022-12-20,1,69,https://i.scdn.co/image/ab67616d0000b27360ddc59c8d590a37cf2348f3,rap
 4oBQy4W1A2N6pL9MjHmwmS,Jersey Giant,Evan Honer,2022-12-16,1,62,https://i.scdn.co/image/ab67616d0000b273ab62af64282c5a9dca84d493,country
@@ -622,7 +622,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 447C0uIwKJY0AXGkR6Bfa1,Wisdom,Stick Figure,2022-09-09,14,62,https://i.scdn.co/image/ab67616d0000b2739550e26961358efe32cd89ac,love
 1kLWQJYzHP0kX6peGevMkC,"Anyways, Life’s Great…",GloRilla,2022-11-11,9,62,https://i.scdn.co/image/ab67616d0000b27377b82f970494b304d4957318,rap
 6SjY4WK6VMFYEINGVOHzGa,TRUE POWER,I Prevail,2022-08-19,15,64,https://i.scdn.co/image/ab67616d0000b273fdf16e6dc8b69f3e7c2b258b,post-hardcore
-1dtL9OXNS29pMfz7uXD6BH,"HNOS ESPINOZA, Vol. 4",Hermanos Espinoza,2022-12-17,5,64,https://i.scdn.co/image/ab67616d0000b27347a99dade06e1adc057c341d,Unknown
+1dtL9OXNS29pMfz7uXD6BH,"HNOS ESPINOZA, Vol. 4",Hermanos Espinoza,2022-12-17,5,64,https://i.scdn.co/image/ab67616d0000b27347a99dade06e1adc057c341d,latin
 4OmjabUN2BY5HPsJo4HMPc,Love For You,LOVELI LORI,2022-05-21,1,68,https://i.scdn.co/image/ab67616d0000b27374a94c8c0c6b1e9f38ff7cfe,indie
 3DCLmgvu8dwEyJ3MpBcNka,Marvelous,Yung Gravy,2022-10-28,15,64,https://i.scdn.co/image/ab67616d0000b2734684ae99ac25a39d60e0a23b,rap
 3WmjP2w94BdrRraDmCHosq,In My Room,Chance Peña,2022-05-06,1,66,https://i.scdn.co/image/ab67616d0000b27398e1b4a825e7fc7bb9526214,folk
@@ -630,7 +630,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7tWcsQLHpvXnUPN1jsSaGw,Planet Zero,Shinedown,2022-07-01,20,62,https://i.scdn.co/image/ab67616d0000b27343e8a35289397f6010638c3c,hard rock
 4sShdTo9jO2RGLgDkZBgN8,Country Stuff The Album,Walker Hayes,2022-01-21,13,62,https://i.scdn.co/image/ab67616d0000b273cc1ed62132516aabf6ef8751,country
 7KtyUeiJidoZO0ybxBXw0Q,Melt My Eyez See Your Future,Denzel Curry,2022-03-25,14,64,https://i.scdn.co/image/ab67616d0000b2735b924aa009b61b6b9d831eec,boom bap
-6oxEgz8aIaZ62WeUlApe0c,Gentle White Noise,Natura Ferox,2022-04-18,1,68,https://i.scdn.co/image/ab67616d0000b273f863754d410abe34af3a14a2,Unknown
+6oxEgz8aIaZ62WeUlApe0c,Gentle White Noise,Natura Ferox,2022-04-18,1,68,https://i.scdn.co/image/ab67616d0000b273f863754d410abe34af3a14a2,relaxed
 4eKHRNqEMM5rNIXfx7GpmF,IN DIMES WE TRUST,Mike Dimes,2022-03-08,12,61,https://i.scdn.co/image/ab67616d0000b273ed44dfd0ee9b576891bbdab4,rap
 3fn4HfVz5dhmE0PG24rh6h,IMPERA,Ghost,2022-03-11,12,67,https://i.scdn.co/image/ab67616d0000b27339df655040aa0f194c6d2972,heavy metal
 496ZJLyTSWnlxctO5EYZFy,Ultra Relaxing Music for Sleep,Silent Rhythm,2022-03-02,4,62,https://i.scdn.co/image/ab67616d0000b273df44455933077ed472437b3d,chillout
@@ -649,13 +649,13 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 4LVa9bljQRvLYpWr8qyaXs,Takin' It Back,Meghan Trainor,2022-10-21,16,69,https://i.scdn.co/image/ab67616d0000b2731a4f1ada93881da4ca8060ff,doo-wop
 6MVsBi4m5eAzfjb6C3JKwp,Sorry 4 The Wait,Lil Wayne,2022-01-14,16,60,https://i.scdn.co/image/ab67616d0000b273300af6c15e091795c7997d86,rap
 0FrC9lzgVhziJenigsrXdl,Jack In The Box,j-hope,2022-07-15,10,71,https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2,boom bap
-77UGfdTasZzZkMbeC8lYCg,Lean Noise,Hovar,2022-01-11,4,64,https://i.scdn.co/image/ab67616d0000b273769acaad5e4009938809bfa2,Unknown
+77UGfdTasZzZkMbeC8lYCg,Lean Noise,Hovar,2022-01-11,4,64,https://i.scdn.co/image/ab67616d0000b273769acaad5e4009938809bfa2,relaxed
 0vRN2oePynCSTspdY9NDsM,7220,Lil Durk,2022-03-11,17,63,https://i.scdn.co/image/ab67616d0000b2739984d05ec46e029f7b942aca,hip-hop
 2cGaAQaMGg1i4Jbo76mJhR,777 Hz Attract Positivity,Miracle Tones,2022-03-25,5,64,https://i.scdn.co/image/ab67616d0000b273114fd517045d7a392ed0d18a,ambient
 5seABmIu2cnoRMDoVHZvOD,Hell Paso,Koe Wetzel,2022-09-16,13,59,https://i.scdn.co/image/ab67616d0000b2732b60caf8f9fe64482b987bf0,country
 3UXrliH0JUQvcaLnBD8Txz,SKZ-REPLAY,Stray Kids,2022-12-21,25,69,https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df,k-pop
 1GYvmeraQXDxxSC9T3RDvM,House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition],House Of Pain,2022-07-22,22,66,https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb,Hip-Hop
-5dCsAdOnWwZpo4jj8iS3yx,Prueba De Fuego,Hermanos Espinoza,2022-10-29,1,65,https://i.scdn.co/image/ab67616d0000b273eba190ab73fa6530ec6ed342,Unknown
+5dCsAdOnWwZpo4jj8iS3yx,Prueba De Fuego,Hermanos Espinoza,2022-10-29,1,65,https://i.scdn.co/image/ab67616d0000b273eba190ab73fa6530ec6ed342,latin
 1DcQpe3ondjWgdqetg847H,romanticism,jaydes,2022-04-30,4,61,https://i.scdn.co/image/ab67616d0000b2735b8cf129ca82cd8cad407331,ambient
 4GlriazgsYPXES2XYkb4gb,SAGITARIO,El Alfa,2022-11-22,18,67,https://i.scdn.co/image/ab67616d0000b2733242fdd0d5f5c1dfe49ce924,Reggaeton
 0hm7PiBu72tRliLqLfiKy1,We're Not Here to Be Loved,Fleshwater,2022-11-04,9,60,https://i.scdn.co/image/ab67616d0000b2735e6a9cd045fa8da9ba2fe81a,shoegaze
@@ -663,10 +663,10 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 2Gb2plO2TkNRIgoCuJGm7C,Waiting to Spill,The Backseat Lovers,2022-10-28,10,60,https://i.scdn.co/image/ab67616d0000b27371bdd42995c7b1ee2951ca5d,indie rock
 59hIIDzaPSH5O3QSz4zX0t,Only Built For Infinity Links,Quavo,2022-10-07,18,65,https://i.scdn.co/image/ab67616d0000b273ffe5b62233340cb6d453fc2f,rap
 2tQ8dsmr0EpIJ5FFyUMQES,Oysters In My Pocket,Royel Otis,2022-03-10,1,65,https://i.scdn.co/image/ab67616d0000b27343e43cc5bad5dcb157ee3609,seen live
-714mJftPiiqG2gcVQgrbjU,White Noise Comfort,Evomin,2022-02-15,4,64,https://i.scdn.co/image/ab67616d0000b273508a6f80eecf7065d781394b,Unknown
+714mJftPiiqG2gcVQgrbjU,White Noise Comfort,Evomin,2022-02-15,4,64,https://i.scdn.co/image/ab67616d0000b273508a6f80eecf7065d781394b,relaxed
 0tQDck9jmRmZNuXh1j3wJI,New Drank,LUCKI,2022-03-31,1,60,https://i.scdn.co/image/ab67616d0000b2732da8225958fa95e47ec85685,male vocals
 6ViO9Wx6dWzeUq6DmGTaHl,I NEVER LIKED YOU,Future,2022-05-02,22,63,https://i.scdn.co/image/ab67616d0000b2737e83b7d94b668d9ea94fe7ec,hip-hop
-2ecO4JampVxMRviNZzCAPE,Quédate Conmigo,Edicion Especial,2022-06-10,7,68,https://i.scdn.co/image/ab67616d0000b2735e10b57398252da4cb5a9ebe,Unknown
+2ecO4JampVxMRviNZzCAPE,Quédate Conmigo,Edicion Especial,2022-06-10,7,68,https://i.scdn.co/image/ab67616d0000b2735e10b57398252da4cb5a9ebe,latin
 2yI4m5Yu2tl8v0It5P9WVz,WHO CARES?,Rex Orange County,2022-03-11,11,68,https://i.scdn.co/image/ab67616d0000b2735b656d32ea6b0b9c54c2d2e0,indie pop
 63HJKqg9tMk2eJyQezaTes,ALFA & OMEGA,Alfredo Olivas,2022-09-30,12,74,https://i.scdn.co/image/ab67616d0000b2734ad368f24e056b99f00fb0af,mexico
 261LWEVYViMXijB95mAty3,2000,Joey Bada$$,2022-07-22,14,63,https://i.scdn.co/image/ab67616d0000b273aacc3ddf3bfa01f4bd44cacc,jazz rap
@@ -682,7 +682,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 777K2ytcKbDsX0AZ2y8CBS,Everything I Know About Love,Laufey,2022-10-14,16,63,https://i.scdn.co/image/ab67616d0000b27377b9aeb46d46a39699ac4b77,jazz
 50DbtjQmnPnB92Mf7yxQt4,PRE5L,Key Glock,2022-11-17,5,60,https://i.scdn.co/image/ab67616d0000b273e634bd400f0ed0ed5a6f0164,trap
 2b2GHWESCWEuHiCZ2Skedp,Calm Down (with Selena Gomez),Rema,2022-08-25,1,70,https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf,afrobeats
-6VUONBGFiGg8rrHmbLVzmb,White Dreams,Mentatranque,2022-04-22,2,64,https://i.scdn.co/image/ab67616d0000b273d1a0ab1a2ac96862fbc4490d,Unknown
+6VUONBGFiGg8rrHmbLVzmb,White Dreams,Mentatranque,2022-04-22,2,64,https://i.scdn.co/image/ab67616d0000b273d1a0ab1a2ac96862fbc4490d,relaxed
 17cNWP1FoUxSTwr3ki8MnX,The Hardest Love,Dean Lewis,2022-11-04,10,69,https://i.scdn.co/image/ab67616d0000b273991f6658282ef028f93b11e0,indie
 4894htPwC6zoiuTqUQwn4I,Midnights (3am Edition),Taylor Swift,2022-10-21,20,63,https://i.scdn.co/image/ab67616d0000b2734a97c76d7b4f6530f439c249,midnights
 6J0q4a7WkkI6OvlZC4rLpi,CONTINGENTE,Junior H,2022-11-23,12,72,https://i.scdn.co/image/ab67616d0000b273b9ae53847e3a92d54d045e2b,trap
@@ -693,12 +693,12 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 12rmOldDu38qQzOohFV9Yw,888 Hz Abundance Gate,Miracle Tones,2022-07-01,5,62,https://i.scdn.co/image/ab67616d0000b273d4e5fbc42a1de3d8be0940de,ambient
 5uLm9XqpibzmIaFUz80jLb,Get Rollin',Nickelback,2022-11-18,11,63,https://i.scdn.co/image/ab67616d0000b2737cc94a378ddaa06230c983f7,metal
 1kjfMVBNhsDeRyAu9zbLfF,OzuTochi,Ozuna,2022-10-07,18,70,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45,Reggaeton
-0pWegX0x0Fa9dr4bcEbOok,Quiet Moments,Little Starflower,2022-07-08,18,69,https://i.scdn.co/image/ab67616d0000b273c0ffba18b0509931ff97967c,Unknown
+0pWegX0x0Fa9dr4bcEbOok,Quiet Moments,Little Starflower,2022-07-08,18,69,https://i.scdn.co/image/ab67616d0000b273c0ffba18b0509931ff97967c,kids
 5yRjJl7zzslQpbCX76s6Vi,El Gavilán,Luis R Conriquez,2022-10-21,1,66,https://i.scdn.co/image/ab67616d0000b27373121cd21df28ab1603cbaeb,mexico
 2ccGlDnYg0D9qAZHDq55Vm,I Can't Let Go,Suki Waterhouse,2022-05-06,10,62,https://i.scdn.co/image/ab67616d0000b273499abd71f3d723ab3d3e0bfa,indie rock
 6jbtHi5R0jMXoliU2OS0lo,MOTOMAMI,ROSALÍA,2022-03-18,16,70,https://i.scdn.co/image/ab67616d0000b2730c179967a265de0fc76382fe,pop
 3EP2uvI3t1m5UCCSA1iTtV,Orange Blood,Mt. Joy,2022-06-17,10,59,https://i.scdn.co/image/ab67616d0000b273e8f427e22592b343cd3108a6,folk
-16RjMIDd3s4ktAW5s5c2Hp,Classical Baby : Classical Lullabies for Babies,Nursery Rhymes ABC,2022-04-22,24,65,https://i.scdn.co/image/ab67616d0000b273079c4375da1257304b8be2cf,Unknown
+16RjMIDd3s4ktAW5s5c2Hp,Classical Baby : Classical Lullabies for Babies,Nursery Rhymes ABC,2022-04-22,24,65,https://i.scdn.co/image/ab67616d0000b273079c4375da1257304b8be2cf,kids
 7JH7pr10sJV9caUhk3ORyK,Sigan Hablando,Fuerza Regida,2022-12-28,13,66,https://i.scdn.co/image/ab67616d0000b2735f3aef5159749e4b61686670,mexican
 7IwNnCKW6m3QjtFacKtzxd,Deep Low Frequencies for Sleeping,Silent Rhythm,2022-12-05,4,60,https://i.scdn.co/image/ab67616d0000b2739f83f202a39a490012d4c95b,chillout
 4rcinMUHEWOxpIwJo2sf22,Laurel Hell,Mitski,2022-02-04,11,63,https://i.scdn.co/image/ab67616d0000b273d8041a531487d0e0e4cfb41f,seen live
@@ -710,7 +710,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 4muEF5biWb506ZojGMfHb7,Kyougen,Ado,2022-01-26,14,67,https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560,j-pop
 3ZGZNsbL4jY4pnOxxlYOCG,We Were Cowboys,Kameron Marlowe,2022-08-26,16,59,https://i.scdn.co/image/ab67616d0000b27306398f80ac3788e02d6b028b,country
 0DY5kJhDXPfDjVdSKNvWlL,Dark Sun,Dayseeker,2022-11-04,11,60,https://i.scdn.co/image/ab67616d0000b273386e4e938647ef307de72919,synthpop
-4hAIiM2Tn4YFAQ18f9Hfot,Tranquil White Noise,Panoramia,2022-09-30,4,64,https://i.scdn.co/image/ab67616d0000b273c55d28c097d4faf55a2d057b,Unknown
+4hAIiM2Tn4YFAQ18f9Hfot,Tranquil White Noise,Panoramia,2022-09-30,4,64,https://i.scdn.co/image/ab67616d0000b273c55d28c097d4faf55a2d057b,relaxed
 6XV76W17coHAKFdeyiGT08,hypochondriac,brakence,2022-12-02,13,60,https://i.scdn.co/image/ab67616d0000b27398f622b722bb7dea65ca0acf,hyperpop
 1cHm86on0UXY0KepCk1xui,Shameless,Avenoir,2022-08-19,1,62,https://i.scdn.co/image/ab67616d0000b2736f7537be3ad088ea4177394a,alternative rnb
 4uoeBpJ631QyWNHw9GqTEn,young forever,Nessa Barrett,2022-10-14,13,64,https://i.scdn.co/image/ab67616d0000b273fe6b11174f7eaddd74e870e0,pop
@@ -725,12 +725,12 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 4i2Cb9v7g9ieShCgf1gakk,Up and Away,Σtella,2022-06-17,10,65,https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba,indie
 2xO5zlCGNyap7Jx1ED3HgG,AfterLife,Five Finger Death Punch,2022-08-19,12,62,https://i.scdn.co/image/ab67616d0000b2732876e0647769b340d08d9b99,alternative metal
 4ohh1zQ4yybSK9FS7LLyDE,Dance Fever,Florence + The Machine,2022-05-13,14,63,https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186,indie
-7izx6fRu7oJnc608X5wG70,Out Cold with White Noise,Valdervande,2022-08-28,2,63,https://i.scdn.co/image/ab67616d0000b2738973cc9a1566a1a0264e2292,Unknown
+7izx6fRu7oJnc608X5wG70,Out Cold with White Noise,Valdervande,2022-08-28,2,63,https://i.scdn.co/image/ab67616d0000b2738973cc9a1566a1a0264e2292,relaxed
 5q2iMctlDvEMYVIawF6Vop,Actual Life 3 (January 1 - September 9 2022),Fred again..,2022-10-28,13,67,https://i.scdn.co/image/ab67616d0000b2737622b889949b07f15c6b57e2,garage house
 0FYx1eAmRmf8v2b83MtvQe,Peaceful Flow of White Noise,Klangspiel,2022-07-17,2,63,https://i.scdn.co/image/ab67616d0000b273b995bd862ce88f3c976a7926,white noise
 305fd6KSKY40Yjgwvm2ck6,rapunzel,Dhruv,2022-01-21,8,70,https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842,jazz
 31L7J7AO993tSBxAunoeoa,SIXDO,Feid,2022-12-02,6,70,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99,Reggaeton
-7y17IKdJ8sgnE1l38ov0xb,Relaxing Brown Noise 256 Hz,Jane Color,2022-07-15,2,61,https://i.scdn.co/image/ab67616d0000b273de97c8a952ebdcf4c4e47008,Unknown
+7y17IKdJ8sgnE1l38ov0xb,Relaxing Brown Noise 256 Hz,Jane Color,2022-07-15,2,61,https://i.scdn.co/image/ab67616d0000b273de97c8a952ebdcf4c4e47008,relaxed
 3cN3mENkACWuRCDOuQUtfw,Remember That You Will Die,Polyphia,2022-10-28,12,62,https://i.scdn.co/image/ab67616d0000b273a2d8391f5021568d253a4eef,progressive metal
 7eC4wtMG1I2Jtk4FDWbkKC,ESQUEMAS,Becky G,2022-05-13,14,67,https://i.scdn.co/image/ab67616d0000b273518859dcb13382116f450073,latin
 1GyQLjSuRSi6jcnn8YOusV,RUNRUNRUN,Dutch Melrose,2022-03-25,1,65,https://i.scdn.co/image/ab67616d0000b2739bd54573540bccf89ed1b2f7,pop
@@ -835,7 +835,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7GRLkZUNmRNsplRsUsCPop,AMAR (Deluxe),BigXthaPlug,2023-04-28,17,67,https://i.scdn.co/image/ab67616d0000b273000f7f91ba323992dadf2f3e,Hip-Hop
 3AafSrFIbJPH6BJHiJm1Cd,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,2023-07-13,1,76,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e,peter
 6uoGeT623i76TwlgYFfe42,Hood Hottest Princess,Sexyy Red,2023-06-09,11,68,https://i.scdn.co/image/ab67616d0000b27338f8e4adcb8668df34ce1660,mother
-45CPZsTjYpn8I3A5KI7iR7,Deep Sleep Brown Noise,Bits & Noise,2023-06-02,3,70,https://i.scdn.co/image/ab67616d0000b27397af45273086957147f1edcf,Unknown
+45CPZsTjYpn8I3A5KI7iR7,Deep Sleep Brown Noise,Bits & Noise,2023-06-02,3,70,https://i.scdn.co/image/ab67616d0000b27397af45273086957147f1edcf,relaxed
 70hX7IYqmUGV97OXs2v848,One Wayne G,Mac DeMarco,2023-04-21,199,69,https://i.scdn.co/image/ab67616d0000b27340461e96808378ae2787a7e4,ambient
 507VZINfvVEAyrcPbJuOVU,Nata Montana,Natanael Cano,2023-06-30,15,77,https://i.scdn.co/image/ab67616d0000b273e2e093427065eaca9e2f2970,Corridos tumbados
 6VCO0fDBGbRW8mCEvV95af,Lovin On Me,Jack Harlow,2023-11-10,1,71,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8,rap
@@ -850,7 +850,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 16GDL2iCmBKN5tmf3pbiZ7,Excuse The Mess,Ella Langley,2023-05-19,8,67,https://i.scdn.co/image/ab67616d0000b2735af0621852c2181c63954c20,country
 2rLVMQbIw1C8JHmad6H0Pk,the way things go,beabadoobee,2023-07-18,1,69,https://i.scdn.co/image/ab67616d0000b2739c835164f2d56dae7ee8a402,seen live
 2yHTMVFGHODKJOjVL1hLgk,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),Olivia Rodrigo,2023-11-17,17,70,https://i.scdn.co/image/ab67616d0000b27322ad9f1afdbeeceaf0c91686,country
-3qEdeCHgnT9mpqSTjDMQuw,Calm Sleep Music for Kids,Relaxing Music For Kids,2023-07-27,10,72,https://i.scdn.co/image/ab67616d0000b27377e0bed028f2e8de09b93a7d,Unknown
+3qEdeCHgnT9mpqSTjDMQuw,Calm Sleep Music for Kids,Relaxing Music For Kids,2023-07-27,10,72,https://i.scdn.co/image/ab67616d0000b27377e0bed028f2e8de09b93a7d,kids
 73VuXbDamMLEdq8Yzd79dM,Appaloosa Bones,Gregory Alan Isakov,2023-08-18,11,69,https://i.scdn.co/image/ab67616d0000b2738352ba18a72a0ebd8cab2e5f,vinyl
 4XahqkOmEsKLKEhBpX8DAe,Dial Drunk (with Post Malone),Noah Kahan,2023-07-18,1,68,https://i.scdn.co/image/ab67616d0000b273f519f148d88bf65074b4a3a9,indie
 6vKVBLTsQW5wXOzmOIkPVZ,s*x m*ney dr*gs,LUCKI,2023-07-07,15,65,https://i.scdn.co/image/ab67616d0000b273280708f5f195a036c788cf40,trap
@@ -863,7 +863,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 1bBez9PNvkJPW08bU7NYta,Scarlet,Doja Cat,2023-09-20,15,71,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb,pop
 7gA8QSNSZvHUYC9feFpeLj,Pineapple Sunrise,Beach Weather,2023-03-03,11,73,https://i.scdn.co/image/ab67616d0000b273037e3cc2b0c60ecb5ee7eca5,indie
 49vCWZ0yKkRvfetjsYVLnx,Glockoma 2 (Deluxe),Key Glock,2023-06-23,23,66,https://i.scdn.co/image/ab67616d0000b2739c6589cb7500fa8e6f343990,trap
-7I35dC3g7n1Uv7h1Yn7EXA,Memorias <3,emmanuellcortess_,2023-07-28,9,70,https://i.scdn.co/image/ab67616d0000b27302f41f10ba56cc9009cbe5f1,Unknown
+7I35dC3g7n1Uv7h1Yn7EXA,Memorias <3,emmanuellcortess_,2023-07-28,9,70,https://i.scdn.co/image/ab67616d0000b27302f41f10ba56cc9009cbe5f1,latin
 6ciIG1XKTlVIn0Yl8rvsce,Almost Healed,Lil Durk,2023-05-26,21,67,https://i.scdn.co/image/ab67616d0000b2736234c2c6d4bb935839ac4719,rap
 2Sl8X3Uu2N4B2pVa9y5U29,If Looks Could Kill,Destroy Lonely,2023-05-05,26,68,https://i.scdn.co/image/ab67616d0000b2735887b3f4481d39becbebffbc,trap
 2D1j7mjB55lvygjMmYgTYT,Ghetto Fabulous,Rich Amiri,2023-11-17,14,68,https://i.scdn.co/image/ab67616d0000b2732c2ada65af543cc22f7676d2,rap
@@ -925,7 +925,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 3PUA3xAHTsDAp11oAb33Mv,Memory Lane,Old Dominion,2023-10-06,18,62,https://i.scdn.co/image/ab67616d0000b273c100cc02484948b0d12b6802,country
 5HV1423uFq5uNui7tZBBas,I No Longer Fear The Razor Guarding My Heel (V),$uicideboy$,2023-08-11,3,63,https://i.scdn.co/image/ab67616d0000b2739ae2d5f3220065aaf33ad145,cloud rap
 3Pel3gWsPxVpZVrciU0Fm6,5-STAR,Stray Kids,2023-06-02,12,71,https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882,kpop
-4BOvqhg5PqjPwBF8eZfBRf,Soft Rain,Soft Soundscapes,2023-12-21,19,67,https://i.scdn.co/image/ab67616d0000b273171ac312fb8ea8d7c3086e26,Unknown
+4BOvqhg5PqjPwBF8eZfBRf,Soft Rain,Soft Soundscapes,2023-12-21,19,67,https://i.scdn.co/image/ab67616d0000b273171ac312fb8ea8d7c3086e26,relaxed
 2KUaR4K36tSliwAoUA1gcs,RUSH!,Måneskin,2023-01-20,17,74,https://i.scdn.co/image/ab67616d0000b273c1b211b5fcdef31be5f806df,rock
 2WLF2MEPy84iUHEkSElL4Z,Dance Mode!,Bluey,2023-04-21,17,64,https://i.scdn.co/image/ab67616d0000b2731ccfea3f92d87379bcd39489,australian
 2Msefc9DYHFMTNY6zuCOIm,Vampire Empire,Big Thief,2023-07-19,1,65,https://i.scdn.co/image/ab67616d0000b273eecd1d634a7a122d37f2538e,seen live
@@ -965,7 +965,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 0rwbMKjNkp4ehQTwf9V2Jk,Oppenheimer (Original Motion Picture Soundtrack),Ludwig Göransson,2023-07-21,24,68,https://i.scdn.co/image/ab67616d0000b273af634982d9b15de3c77f7dd9,soundtrack
 1f2q2JQ3GFwIrWch2JLC0u,MAÑANA SERÁ BONITO (BICHOTA SEASON),KAROL G,2023-08-11,10,70,https://i.scdn.co/image/ab67616d0000b2734a8c1bbd60d89887c5016245,reggaeton
 54dZypaXHAIDzBe9ujAZ63,Paint The Town Red,Doja Cat,2023-08-04,1,69,https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30,pop
-0VSQtAxsuUSEKmIfQnPhbD,Tranquil Brown Noise,Noise Eternity,2023-06-02,3,63,https://i.scdn.co/image/ab67616d0000b273f88867a25de01aefef12cd3d,Unknown
+0VSQtAxsuUSEKmIfQnPhbD,Tranquil Brown Noise,Noise Eternity,2023-06-02,3,63,https://i.scdn.co/image/ab67616d0000b273f88867a25de01aefef12cd3d,relaxed
 2VJD6kU8nmxXVrScRyddqV,Halo,Bakar,2023-09-21,11,65,https://i.scdn.co/image/ab67616d0000b273864f946221840eced94a2243,french rap
 2gys1pKIbiL523OHH6H59P,Ugly Duck,Hotel Ugly,2023-03-24,10,63,https://i.scdn.co/image/ab67616d0000b2737fb628fda119ba96280f883c,indie
 7aq7a226T631f2w1Vs1vXx,The Album,Jonas Brothers,2023-05-12,12,64,https://i.scdn.co/image/ab67616d0000b273d75f493d74959a7b02b369c8,pop
@@ -988,7 +988,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 3Mm1P5CEEAiuJqBclr2EyU,Ella Baila Sola,Eslabon Armado,2023-03-16,1,66,https://i.scdn.co/image/ab67616d0000b2732071a0c79802d9375a53bfef,Corridos tumbados
 6tG8sCK4htJOLjlWwb7gZB,This Is Why,Paramore,2023-02-10,10,64,https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4,rock
 1a5idDFSq90ej8CzQC7YDc,Blame My Ex,The Beaches,2023-09-15,10,63,https://i.scdn.co/image/ab67616d0000b273b031aad441b2c4eb2efadf7c,indie rock
-583ihCp81vt2nhHzMKOqVh,Ghibli Songs on Piano,Yashida Miyota,2023-05-26,25,63,https://i.scdn.co/image/ab67616d0000b273e75e694c53bb2ee192b3f90f,Unknown
+583ihCp81vt2nhHzMKOqVh,Ghibli Songs on Piano,Yashida Miyota,2023-05-26,25,63,https://i.scdn.co/image/ab67616d0000b273e75e694c53bb2ee192b3f90f,kids
 2HxzXLKO0AvkScWYHSspQc,Stumblin' In,CYRIL,2023-11-10,1,74,https://i.scdn.co/image/ab67616d0000b2739a903819d8a5d3c80c47734c,downtempo
 6vxo1Nywp8r7B0p9avT0SM,"Golden Child, Chapter 3",Autumn!,2023-03-31,24,59,https://i.scdn.co/image/ab67616d0000b273edc353a73ff6b56eecfa51c2,plugg
 6iyBE8qGDt42MyBvtPNuMk,Glue Song (feat. Clairo),beabadoobee,2023-04-17,1,65,https://i.scdn.co/image/ab67616d0000b2734ed4cd453322102dafa3e3ec,seen live
@@ -1094,7 +1094,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 4OZ6nCbn8w0cHr1m0qiD2s,Kansas Anymore,ROLE MODEL,2024-07-19,13,72,https://i.scdn.co/image/ab67616d0000b27317cb032bf1840aae7efa3859,singer-songwriter
 3IGZmUJql41Q2FSIBweSsz,HOP,Stray Kids,2024-12-13,12,79,https://i.scdn.co/image/ab67616d0000b273841695ed5f1525227ac5ddf0,kpop
 0DsMhU0ERzMt6xvtGpgXvW,EPIC: The Thunder Saga (Official Concept Album),Jorge Rivera-Herrans,2024-07-04,5,73,https://i.scdn.co/image/ab67616d0000b27357f349cadd503d500afca227,puerto rico
-1vNUD9sUBRHFFQiwYZm232,Loco,Neton Vega,2024-12-20,1,77,https://i.scdn.co/image/ab67616d0000b273c16bc1be28cd9728172a77f8,Unknown
+1vNUD9sUBRHFFQiwYZm232,Loco,Neton Vega,2024-12-20,1,77,https://i.scdn.co/image/ab67616d0000b273c16bc1be28cd9728172a77f8,latin
 4R6FV9NSzhPihHR0h4pI93,From Zero,Linkin Park,2024-11-15,11,82,https://i.scdn.co/image/ab67616d0000b273b11a5489e8cb11dd22b930a0,rock
 6FkCugnh8o4VjxMMw4xlRC,No One Noticed (Extended),The Marías,2024-11-15,2,72,https://i.scdn.co/image/ab67616d0000b273930087aba0907f1b0f291230,dream pop
 0I3cC1B19vTlERLgrYkeU9,Goodbye Horses,ian,2024-10-18,13,71,https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c,trap
@@ -1172,7 +1172,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 4f2G7uAWqzpOPwEfCDV87A,F-1 Trillion: Long Bed,Post Malone,2024-08-16,27,69,https://i.scdn.co/image/ab67616d0000b273e17e51543be87943285b65ad,country
 0smFKY0XK0r0L3qR5qtoB0,Daydreams,Calmly,2024-01-05,6,70,https://i.scdn.co/image/ab67616d0000b273ed9cb5a3b039649e41e719da,indie
 3x3G6TKWWgRS1vWp03FoNb,Mr Beat The Road,BossMan Dlow,2024-03-15,17,66,https://i.scdn.co/image/ab67616d0000b2738fe24c3289268d8ff4534eb3,hip-hop
-2fWrCSB2orMusovFYFN2UW,Along the Coast,Ocean Therapy,2024-05-29,44,67,https://i.scdn.co/image/ab67616d0000b273040ac5bef4ce5016512361c3,Unknown
+2fWrCSB2orMusovFYFN2UW,Along the Coast,Ocean Therapy,2024-05-29,44,67,https://i.scdn.co/image/ab67616d0000b273040ac5bef4ce5016512361c3,relaxed
 5QsVRNOKVMCeVAIUoOQJ13,TYLA +,Tyla,2024-10-11,17,76,https://i.scdn.co/image/ab67616d0000b27334d2121bebebc1e7d9a0c369,rnb
 5oT8PMXGWiPlhcl930fkII,100 GIGS,Drake,2024-08-30,3,71,https://i.scdn.co/image/ab67616d0000b273e955f0f0a0471ace604ecdf6,rap
 4utJOX1ShFfRa6oQA1ADh0,PATTERNS,Kelsea Ballerini,2024-10-25,15,65,https://i.scdn.co/image/ab67616d0000b27368fbd6a5563cbe3a6450a4e3,country
@@ -1188,18 +1188,18 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 6WkOBnYkj6y5iSr14uhUZF,Si No Quieres No,Luis R Conriquez,2024-03-10,1,73,https://i.scdn.co/image/ab67616d0000b2735c7365ca8cfaf7d80136c656,mexico
 60s0PMYFJhe34io9HuyUXf,Whatever She Wants,Bryson Tiller,2024-02-13,1,68,https://i.scdn.co/image/ab67616d0000b2731aba7b448d35bd576ceac182,rnb
 2xpgb8R0BXVS2e1XnXI9xZ,pretty,Artemas,2024-02-09,13,72,https://i.scdn.co/image/ab67616d0000b273fabe0943f6dd962a792b42a1,cypriot
-4H1w1CHnlXxBECfw1onjt0,Sleep Therapy,Friede,2024-06-14,50,68,https://i.scdn.co/image/ab67616d0000b2737b048f43a8cf769d50cef4e8,Unknown
+4H1w1CHnlXxBECfw1onjt0,Sleep Therapy,Friede,2024-06-14,50,68,https://i.scdn.co/image/ab67616d0000b2737b048f43a8cf769d50cef4e8,relaxed
 7awBKnBq0qRLNyD5lI47R0,Eternal Atake 2,Lil Uzi Vert,2024-11-01,16,67,https://i.scdn.co/image/ab67616d0000b2730e4e16d910115fead3e83496,nitrous
 2L5fQG5lbyMkG6iyNNj3uR,Texas Technician,That Mexican OT,2024-03-01,16,65,https://i.scdn.co/image/ab67616d0000b2731e486934cf878a270cd5775a,rap
 1hmlhl74JfLyUqmqtCwvFb,Bewitched: The Goddess Edition,Laufey,2024-04-26,18,69,https://i.scdn.co/image/ab67616d0000b27313832cc69a78c53b18a8bc10,jazz
-1Gb6uPgp27bC8IufoVyS7x,Under The Stars,Rola Young,2024-11-29,24,68,https://i.scdn.co/image/ab67616d0000b273bbb1aa91ac2742a77aa76c7b,Unknown
+1Gb6uPgp27bC8IufoVyS7x,Under The Stars,Rola Young,2024-11-29,24,68,https://i.scdn.co/image/ab67616d0000b273bbb1aa91ac2742a77aa76c7b,relaxed
 4LP7dD3panB9oryXnMBqJW,House Again,Hudson Westbrook,2024-10-18,1,65,https://i.scdn.co/image/ab67616d0000b2738844e0ad56622b7cd24c31f3,country
 2j74DNrJ8TgnMEukERqnnm,BAD ASS F*CKING KID,Nettspend,2024-12-06,15,67,https://i.scdn.co/image/ab67616d0000b273796f9b36c012f78028b31914,juggin
 0xyBpeAAr8E86J7GH1SNUR,Presidente,Gabito Ballesteros,2024-10-21,1,76,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d,mexico
 5yc8yPsnUud3i8v9Ran8oQ,two,bbno$,2024-10-04,2,72,https://i.scdn.co/image/ab67616d0000b27351c9a03736674f07f081d940,rap
 64SX9Efb2JGW3rJFE1ZddJ,Model,Wallows,2024-05-24,12,67,https://i.scdn.co/image/ab67616d0000b273249ebe9bf12368d022324d95,indie
 4wfwJUghbK2z2iaz65U7VS,MUSE (WANDER ver.),Jimin,2024-07-23,10,77,https://i.scdn.co/image/ab67616d0000b27382601539d4a27061ad90eacb,k-pop
-0cbajB7MSCNKScSLDQLSjb,The Bluey Bedtime Collection,Alexandre Alekhine,2024-10-26,21,67,https://i.scdn.co/image/ab67616d0000b27316e85b7890d728ad207cc8c7,Unknown
+0cbajB7MSCNKScSLDQLSjb,The Bluey Bedtime Collection,Alexandre Alekhine,2024-10-26,21,67,https://i.scdn.co/image/ab67616d0000b27316e85b7890d728ad207cc8c7,kids
 140NIeh2n6kSX9BHAsvlwy,Home,Good Neighbours,2024-01-17,1,70,https://i.scdn.co/image/ab67616d0000b273a1cbd333da5cc7ae8f5981fb,indie
 5AQc0yFXRcdUdko4sZ1fW9,MUSE (WONDER ver.),Jimin,2024-07-23,10,76,https://i.scdn.co/image/ab67616d0000b273f150d9f2e5e8148e5032fd7d,k-pop
 4jspFDAccGCrmwgfFGgCKI,Inner Peace,Calmly,2024-01-07,5,69,https://i.scdn.co/image/ab67616d0000b273652e494d37eea2d8abcc2482,indie
@@ -1215,7 +1215,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 5wkYyTtAUS2Wi6pHYpdsSU,"Boca Chueca, Vol. 1",Carin Leon,2024-05-30,19,76,https://i.scdn.co/image/ab67616d0000b273b28b55cc0ac0ad1131ece780,mexico
 6Yw4204wbgmpsGTzjXBhYD,Big Dawgs,Hanumankind,2024-07-09,1,72,https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea,rap
 4IyuAih9GeO1k7ktWPnnDw,ANIMALS ONLY (ICE COLD),BabyChiefDoit,2024-11-08,18,64,https://i.scdn.co/image/ab67616d0000b2733387b5939676944ed3b0f801,drill
-7bbz3rXYWKPW2Hq8mTaDen,ROSONES,Jorsshh,2024-11-15,1,73,https://i.scdn.co/image/ab67616d0000b2733ad59c0dc625065abeef8bed,Unknown
+7bbz3rXYWKPW2Hq8mTaDen,ROSONES,Jorsshh,2024-11-15,1,73,https://i.scdn.co/image/ab67616d0000b2733ad59c0dc625065abeef8bed,latin
 2e84J8SHBibKvaOmwqcVCZ,Views,Calmly,2024-03-10,6,69,https://i.scdn.co/image/ab67616d0000b2738923ab7933a6433b5ff94906,indie
 02GDaShX8vOw5tcak3OXow,Fathers & Sons,Luke Combs,2024-06-14,12,68,https://i.scdn.co/image/ab67616d0000b27317b23f31a918e6566a947f44,country
 74JuKBkLUssHnghX4WusJw,Fable,Gigi Perez,2024-10-25,2,69,https://i.scdn.co/image/ab67616d0000b273c75075d69305d9561a8b9fc2,indie
@@ -1238,7 +1238,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 44U3Xm9U4Krj0Iv5w7kuTK,ONDEADO$,Calle 24,2024-12-12,24,73,https://i.scdn.co/image/ab67616d0000b273b864e4a51005c9b49c6c12d3,mexico
 3C3t2bKhwEL3wdKioqWUDh,TIMELESS,KAYTRANADA,2024-06-07,21,68,https://i.scdn.co/image/ab67616d0000b2733d1996a2dc962e53e12cb7cb,seen live
 6YHaDmwYvX8vREotCZTV6g,Love Me Not / Love Is Blind,Ravyn Lenae,2024-05-03,2,71,https://i.scdn.co/image/ab67616d0000b2735511ceaa955a2bfd9ae90c21,rnb
-6kvBev4PFHNvLzWn3IMpEh,Todo a Su Tiempo,Neton Vega,2024-09-27,1,73,https://i.scdn.co/image/ab67616d0000b273693b59436e283c3ca2d8b248,Unknown
+6kvBev4PFHNvLzWn3IMpEh,Todo a Su Tiempo,Neton Vega,2024-09-27,1,73,https://i.scdn.co/image/ab67616d0000b273693b59436e283c3ca2d8b248,latin
 2Z3lIfc06B7YV1ZN9oZCdS,Twisters: The Album,Various Artists,2024-07-19,29,65,https://i.scdn.co/image/ab67616d0000b2738021cab8fad7700fdaaf86d8,country
 6tDerbhPTlX8pa0hyRStZG,About A Woman,Thomas Rhett,2024-08-23,14,66,https://i.scdn.co/image/ab67616d0000b2730be8321d194b379cc1a3fe24,country
 538vEfAgLJ6g2I8ubuOlap,CRAZY,LE SSERAFIM,2024-08-30,5,73,https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4,kpop
@@ -1314,7 +1314,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7g5wCQaNe5whwaTqczqw0b,Corazón Partío (Remix),Alejandro Sanz,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273e9c77cd787e44b9e501e9aa7,spanish
 4VLsXuqjyzluaFMTvY8Rjw,MONTAGEM ALMAS PERDIDAS,S4nri0,2025-04-04,2,0,https://i.scdn.co/image/ab67616d0000b273dbe967b5771f8eae4d7b6c79,USA
 2oyx4uoKSsqsOQ3eZUtmJY,EGO,Ogryzek,2025-04-04,4,0,https://i.scdn.co/image/ab67616d0000b2737b7533038e9cae31416c9c44,polish
-6SRK19vCyNaT2p88vi6EeY,Querido Rey,La Receta,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2733ae1cdfa26ec3d3772952146,Unknown
+6SRK19vCyNaT2p88vi6EeY,Querido Rey,La Receta,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2733ae1cdfa26ec3d3772952146,latin
 08wjiwKy6cukaVIhVY226l,i am what i am,my head is empty,2025-04-04,2,0,https://i.scdn.co/image/ab67616d0000b273075aced2a3b30c9e1365b12e,ambient
 54NJBlqnXaOgGBzTykWKs8,STARDUST,1nonly,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273f6964e367bab868a0d568887,USA
 1HAp0AKixPZpzh6sCbX8Bl,Los Acosta: Música Sin Fronteras,Los Acosta,2025-04-04,20,0,https://i.scdn.co/image/ab67616d0000b273c892e9a0c2ce4bb41cdba03a,ROMANTICO GRUPERO
@@ -1337,7 +1337,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 1TNPKEmo5TSj8NpXpDgMsf,All I Know,Rudimental,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273b49c06ad21eb3676299728b6,seen live
 4Ir00tMIHPGuBUReSPjJkv,nine minutes of sleep,leadwave,2025-04-04,4,0,https://i.scdn.co/image/ab67616d0000b2734f2da3f6b96c14ba9e203714,ambient
 14jZsLakgI8TLW8PMdkFxC,Drip Drip,R3HAB,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273a3089835a4976c502a85329b,House
-6yyJ6QyHfEO6ssyX1msaU5,KRUSH INFERNAL,DYGO,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b27394564d77fc7bed0d69fb7b20,Unknown
+6yyJ6QyHfEO6ssyX1msaU5,KRUSH INFERNAL,DYGO,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b27394564d77fc7bed0d69fb7b20,latin
 2vXMbdXFYO76reD2MBuWrq,Vacilon (Techno Mix),Marnik,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273eaa6e468184fbcd30ec7157d,electronic
 0ppnB0H3A1eI22tlXIvBsO,VAMPIRE OUT THE CRYPT,REDZED,2025-04-03,1,7,https://i.scdn.co/image/ab67616d0000b27375353f852e7c80f78d16b44b,Czech
 2iYLGQ5pypH737g75mx4yf,Despedida,iñigo quintero,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273e56c2c58a65825af6a5f34fd,spain
@@ -1348,24 +1348,24 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 1mbJLUQAEGlAFx1bLBhi2D,Banda Pequeños Musical: Música Sin Fronteras,Banda Pequeños Musical,2025-04-04,20,0,https://i.scdn.co/image/ab67616d0000b2731c846cf0a8fccab60ef80cbd,BANDA
 6MI2T4rtHwIMv2NOR5gkea,Afterlife,Michael Schulte,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273275772c5d586aa23e2a4691a,german
 12a6nYFLfVAdruHi64tJVX,48 Rhymes,Karan Aujla,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2738d850214bdd320856fb9c4c2,Hip-Hop
-7akPu39Oexg6a3z48tt7gP,ABSTRATO,vtze archive,2025-04-04,3,0,https://i.scdn.co/image/ab67616d0000b27314d72191353b8c7719ba143f,Unknown
+7akPu39Oexg6a3z48tt7gP,ABSTRATO,vtze archive,2025-04-04,3,0,https://i.scdn.co/image/ab67616d0000b27314d72191353b8c7719ba143f,latin
 5Ty2YHRfK7nSJAWdovHMFP,¿Qué Significa El Amor?,Carlos Rivera,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273f372985c6b2ce379199a6d00,latin
 7q0bO6LlJPJC2C0n1rXxXm,raze,slxughter,2025-04-04,3,0,https://i.scdn.co/image/ab67616d0000b273a1020b2d62d9bc32eea1fc72,russian
 3aPk0LChKmVjZv5cto6GUF,NUBES,De La Rose,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2736d96c503dcc2efc6c6dc07c7,pop
 7y9Aj1jhBIXwafYJCqO9C2,SYSHORIZON,MoonDeity,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273dbe03a793a13131ec061a863,phonk
-22AduRkTE22CHgejiVQsno,FUNK PRISMA,h6itam,2025-04-04,5,0,https://i.scdn.co/image/ab67616d0000b273b596223c3c4f472d0622508a,Unknown
+22AduRkTE22CHgejiVQsno,FUNK PRISMA,h6itam,2025-04-04,5,0,https://i.scdn.co/image/ab67616d0000b273b596223c3c4f472d0622508a,funk
 4zcR2kmwgFtBxHwBLrnCzl,"Life, Death And Dennis Hopper",The Waterboys,2025-04-04,25,0,https://i.scdn.co/image/ab67616d0000b273d58188f80ec29d346a010f5d,folk rock
 5BeUSfq76DbX6j7a9ScVQc,ASTRO FUNK,Slowboy,2025-04-04,4,0,https://i.scdn.co/image/ab67616d0000b273daae3025b384f95649eee306,Norway
 54eEhTwifxlSOK3YUPrYkI,"Same Process (Inspiré du film ""Zion"")",Blaiz Fayah,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273d6d088e7fbe7f621c6bc50d9,reggae
 5DtOVJRwY4p4UeECbBcdFT,Born 2 Lose,Sematary,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273c13e03e76dbcd2e487514f04,SEMATARY GRAVE MAN FROM THE HAUNTED MOUND REAL NAZGUL SKINCARVER KEEPER OF DA TREES HAUNTED MOUND LORD
 3r0ndkuSHpjQqQFloiQZvQ,Hometown Glory,dreamsoda,2025-04-03,3,0,https://i.scdn.co/image/ab67616d0000b273f512503558f529a35b3c13a6,Absolute Bangers
-0fhV4LeHf6kiWBFRxvR5Qj,Guided Meditation - Deep Sleep,Slumberjacks,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273ed12b25323e356b0e3e19474,Unknown
+0fhV4LeHf6kiWBFRxvR5Qj,Guided Meditation - Deep Sleep,Slumberjacks,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273ed12b25323e356b0e3e19474,relaxed
 096QUbxwfkyCv56E6WtUFw,Mi Polvo Favorito,Yaisel LM,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b27315b95523a58be531c972e5f0,rap
-09Aokx8V7rLKT41KCD1Ind,DIABLO OBSCURO,satirin,2025-04-04,5,0,https://i.scdn.co/image/ab67616d0000b273a82270a23b8c0c1c1fd3022b,Unknown
+09Aokx8V7rLKT41KCD1Ind,DIABLO OBSCURO,satirin,2025-04-04,5,0,https://i.scdn.co/image/ab67616d0000b273a82270a23b8c0c1c1fd3022b,latin
 488zb78OzFFnY5SbJBPDHZ,Jyota Wali Maiya Teri Sada Hi Jai - Navratri Special Devi Bhajans,Hariharan,2025-04-03,10,0,https://i.scdn.co/image/ab67616d0000b27392fbc8ef5ceae1675b198c58,hariharan
 4qefEfwkmVFCFU3BYEmKJB,Hvor Var Jeg Endt,Christopher,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b27364bfb1c848e72a1495d48e7b,danish
 3KInG7eL6jCransZ9rDx19,Sufrimientos Sin Fin,Elvis Martinez,2025-04-02,1,0,https://i.scdn.co/image/ab67616d0000b2736161d6c6e7a985b567927dfb,bachata
-3UCNmAyO3Kwl5kI0ccmZVK,CINDERELLA,Eme MalaFe,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273cc192e9d4a4a1f57d6b8df30,Unknown
+3UCNmAyO3Kwl5kI0ccmZVK,CINDERELLA,Eme MalaFe,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273cc192e9d4a4a1f57d6b8df30,kids
 6ogchQJ5LK6OXqTEPkp269,Deja Vu,JONY,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2732010d3661374ac3b09552db8,azerbaijan
 71vwCX7a3u9uZlNwvKme6p,Rock This Place,Nicolas Julian,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2739e32af7088b4a63c41ad657b,electronic
 6iUtD5MIUzHt8KGUtBcDLJ,Спокойной ночи,MACAN,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2734f4ea2129d75216daa82a3cc,Hip-Hop
@@ -1393,7 +1393,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 7k38beNu5vSwqt4TSi4FBZ,Run Run,Alfons,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273fa7dd34e0dc02cf1cd8e5d6f,electronic
 5OWv5ibsR5dLj4bccQ7NgR,Homem de Negócios,MC LUUKY,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b27324bf3caf5fdc53e0e351c3ad,brazil
 5Q1cxcDF9gkizwPnxIU0Ei,So We Stay,Busy Signal,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273a3657660e285af3d867d62dd,dancehall
-3ZgFmnpdR7O8sX6USTzWDE,Shakur (Deluxe),T.I BLAZE,2025-04-04,15,0,https://i.scdn.co/image/ab67616d0000b27367cae9d7eca129ac0797317a,Unknown
+3ZgFmnpdR7O8sX6USTzWDE,Shakur (Deluxe),T.I BLAZE,2025-04-04,15,0,https://i.scdn.co/image/ab67616d0000b27367cae9d7eca129ac0797317a,latin
 2wEMznvTKDgaFxuePqEgQP,Viva La Vida,Deepend,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b27338e76f2052a4537e1192c512,deep house
 5XyQiU6uGEXoQqx9fjVXU9,Mi Reina,Hamilton,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2737d28a8efbda5d97d8e323a19,Drum and bass
 26QK8Uzkiiye71lsuuazHv,De Carona com Matheus e Kauan,Matheus & Kauan,2025-04-03,20,0,https://i.scdn.co/image/ab67616d0000b2733c22f0d918bb390ba4008cd6,sertanejo
@@ -1405,19 +1405,19 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 2aUCgf9EvnN6WzZuJpyU5Y,U Want It,KVSH,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2736ca4b1a185137563c5f5eafc,eletronic
 7rfgXqaaScMYXTo9aIXZak,Ambag,Gloc-9,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2735e60846c4e823cd93431da3c,rap
 1ypTFEY0nlC2nSl74hPNM3,天球(そら)のMúsica,Ave Mujica,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273682bc7eed0036e4774005b06,Gothic Metal
-2Y7T7rbkePgi2qujIrmuzW,ESO,Luis Brown,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273370d5fedcf51d7b0cad9ba97,Unknown
+2Y7T7rbkePgi2qujIrmuzW,ESO,Luis Brown,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273370d5fedcf51d7b0cad9ba97,latin
 02ZWoIr1kWHZAlgEBBJxTn,"Светом (Original Soundtrack ""С самых низов"")",Basta,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273103d46e99f50320de2133e1d,a cappella
 0wdRgWsWCwOgwGUaa8CBfF,Estos últimos días,El Mató a un Policía Motorizado,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b27340787172693d1a177f530c05,argentina
 3CTTcXuoGRc5jX3pOyFsST,Ôm Em Thật Lâu,MONO,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2734a7655026a9e80a95afba515,post-rock
-17ToM6ABzOQ8mTe584gbCZ,улыбка,volhey,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273f2dd0c794cc153ff2315638a,Unknown
+17ToM6ABzOQ8mTe584gbCZ,улыбка,volhey,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273f2dd0c794cc153ff2315638a,russian
 1Ch6jiykjgAzeOSP86bewH,Mix Yarita: Mis cuernos / Corta Venas (En Vivo),Corazón Serrano,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273d70d1872deb7cbd5c79d5359,female vocalists
 2QekhLfZJBOpOH1r8UGt4V,Frérot,Nej,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273d74a4feb5069996028d13721,female vocalists
 1kZEQQOVpVnjKVKyW1rkFC,Foda-se O Amor,Mc Menor Do Alvorada,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273ae82714438d52c159f8c269a,brazil
 5C7oTQxWSRwx7vp5vIucxi,BALLERINA CAPPUCINA FUNK,HARDX,2025-04-04,6,0,https://i.scdn.co/image/ab67616d0000b2734c28520de8a308297dd82c3c,remix
-24rhDqD27MbZMKDEynYEgk,Stumblin' In,Mecdoux,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2738c8bf2ab12e3cb7d993e1c0e,Unknown
+24rhDqD27MbZMKDEynYEgk,Stumblin' In,Mecdoux,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2738c8bf2ab12e3cb7d993e1c0e,dance
 6hSLtNZWkDxCESz8zE7mhP,Dance With Me,Tom Gregory,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2739a7342d96a45e48fbf633593,indie
 4f8rfrrpWWgR5t1iHXYyTw,Meravigliosa (feat. Stadio),Guè,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2733b3bd48b5f2b3d779991eb9f,Hip-Hop
-14jY8Unpn7B8HgWwkYORZR,Dime Dime,Renzo ED,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273fa3cf6964f21486b562cbf11,Unknown
+14jY8Unpn7B8HgWwkYORZR,Dime Dime,Renzo ED,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273fa3cf6964f21486b562cbf11,latin
 6Q6xrQPM0ouEVccdQhyAaU,Kaju Katli,Nakash Aziz,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2733a048f5b1b99b55576259d4c,Indian
 4RAdAWGmLGmpwSn6MxMmAU,Cafeteria,G Sounds,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2730c786d1d892865c065a70c12,lofi
 3sPfAXGAWWWrocI8e8xteJ,Go My Best Friend,Demarco,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2736a70f6027136e81708977072,dancehall
@@ -1446,7 +1446,7 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 0aSUdhZA53QNrR3uERvnFU,As Is,Roy Kim,2025-04-02,2,20,https://i.scdn.co/image/ab67616d0000b27355f0f4a36daa57bb7c4bf03f,folk
 42ImQjBCPMpzqDSHsq9hx3,Paradise,LUNAX,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273ee3f28f7b50c4a2fad9b46e9,House
 3jf4hE1DY8n3eE8p7KpBVO,Gigante,Leiva,2025-04-04,14,0,https://i.scdn.co/image/ab67616d0000b273dd84548212e7eec9d18e9603,rock
-13IeYEgXYi7beh38rgZg7B,All Senses,Cardi Mist,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273acb4eaa6a0804fb07aa1a886,Unknown
+13IeYEgXYi7beh38rgZg7B,All Senses,Cardi Mist,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273acb4eaa6a0804fb07aa1a886,rap
 2vkwB6CmvkQPjcPXUdfXgw,In alto mare (REMIX),Loredana Bertè,2025-04-04,3,0,https://i.scdn.co/image/ab67616d0000b2738a7194d6bff3f7678f308883,italian
 2TPANvT33Btxc1596fjAwe,Mi Ami Mi Odi,Elodie,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2735a5c3a2d87e2e73880329613,pop
 2TPANvT33Btxc1596fjAwe,Mi Ami Mi Odi,Elodie,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b2735a5c3a2d87e2e73880329613,pop
@@ -1479,12 +1479,12 @@ album_id,album_name,artist_name,release_date,total_tracks,popularity,image_url,g
 6zxGjaK1Ujwr54UuwTvPiW,BAZA,SQWOZ BAB,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2735ea5e5deafe5c91de3d0b0bd,Hip-Hop
 6s29SD51M3n6A6nBoEPNgd,Kautamu Flani (feat. Vijana Barubaru),Bensoul,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273826937a1744538a95aabbe0e,Kenyan
 2JMlGyZaC14bdu4ucEwSsi,Fausse couche,Lynda,2025-04-03,1,0,https://i.scdn.co/image/ab67616d0000b273c9128b019c47849c5c9bbfd5,pop
-05xMiDYYKjQ6jt8AYgyCGr,Skuta Baba (Remix Pack),WOODBLOCK DJS,2025-04-04,4,0,https://i.scdn.co/image/ab67616d0000b273f2fb3551f31acc9330ee97f5,Unknown
+05xMiDYYKjQ6jt8AYgyCGr,Skuta Baba (Remix Pack),WOODBLOCK DJS,2025-04-04,4,0,https://i.scdn.co/image/ab67616d0000b273f2fb3551f31acc9330ee97f5,latin
 57SEZ8Lq7D30KuA6aDWdLk,Coleção de Pagodes #1: Mônica Soares,Vitor Limma,2025-04-04,2,0,https://i.scdn.co/image/ab67616d0000b273cc9bc3c365932dd7dfab2545,Unknown
 4hHGcXMRxGT0wvMUXv3lu2,REAL BAD THINGS,Natte Visstick,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273610c56c90d2db85a7ff2b3a8,techno
 47f98WzF1SUMz76YVDwa4L,GÉ LEAK,Genezio,2025-04-02,6,29,https://i.scdn.co/image/ab67616d0000b2734786109ade341ebdacd69e11,Unknown
 09OHaLWm1Z5rTB5L6NKHcV,LAYERED,C JAMM,2025-04-04,2,0,https://i.scdn.co/image/ab67616d0000b273a534e8ce6f9bc8b75d686b25,Hip-Hop
-4Zfn6R4fDHmbrFgTeFQAaQ,Tropa do Kevin,MC GP,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273f517db497bd88870c1ea2153,Unknown
+4Zfn6R4fDHmbrFgTeFQAaQ,Tropa do Kevin,MC GP,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273f517db497bd88870c1ea2153,latin
 3nxuJRjSzIxjiRs9u7bLxF,Pedaço de Ilusão,Jorge Aragão,2025-04-02,1,0,https://i.scdn.co/image/ab67616d0000b273b02b96603a4eefb1afebcb87,samba
 3R9SndcM89m7kAcIOlv54O,Badman Control,Interplanetary Criminal,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b2733d3059d25c085bcf5dd0e7ee,UK Garage
 5cMID2amurDWBcw5z6Npl1,Amor é Ilusão,MC Ryan SP,2025-04-04,1,0,https://i.scdn.co/image/ab67616d0000b273b380fd9601574fe336307a07,rap
