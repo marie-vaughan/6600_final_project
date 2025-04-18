@@ -1,0 +1,1601 @@
+image,label,confidence,box
+image_811.jpg,FACE_FEMALE,0.7941,"[275, 189, 160, 159]"
+image_811.jpg,none_detected,0,
+image_193.jpg,FACE_FEMALE,0.4903,"[466, 208, 173, 211]"
+image_193.jpg,FACE_FEMALE,0.3482,"[46, 249, 182, 187]"
+image_193.jpg,none_detected,0,
+image_144.jpg,FACE_FEMALE,0.7247,"[205, 250, 241, 245]"
+image_144.jpg,none_detected,0,
+image_1072.jpg,FACE_FEMALE,0.5197,"[181, 194, 339, 353]"
+image_1072.jpg,none_detected,0,
+image_29.jpg,FACE_FEMALE,0.7688,"[117, 166, 336, 361]"
+image_29.jpg,none_detected,0,
+image_352.jpg,FACE_FEMALE,0.5746,"[57, 276, 34, 32]"
+image_352.jpg,FEET_EXPOSED,0.3402,"[36, 489, 41, 39]"
+image_352.jpg,none_detected,0,
+image_1106.jpg,FACE_FEMALE,0.8766,"[261, 127, 164, 169]"
+image_1106.jpg,none_detected,0,
+image_568.jpg,FACE_FEMALE,0.3924,"[282, 217, 68, 64]"
+image_568.jpg,none_detected,0,
+image_540.jpg,FACE_FEMALE,0.7233,"[121, 163, 438, 451]"
+image_540.jpg,none_detected,0,
+image_1476.jpg,FACE_FEMALE,0.7954,"[404, 241, 103, 102]"
+image_1476.jpg,FACE_FEMALE,0.3342,"[173, 255, 176, 171]"
+image_1476.jpg,none_detected,0,
+image_1462.jpg,FACE_FEMALE,0.6515,"[145, 125, 128, 117]"
+image_1462.jpg,FACE_MALE,0.6004,"[368, 140, 114, 106]"
+image_1462.jpg,FACE_FEMALE,0.5037,"[87, 283, 69, 60]"
+image_1462.jpg,none_detected,0,
+image_781.jpg,FACE_FEMALE,0.635,"[213, 308, 219, 220]"
+image_781.jpg,none_detected,0,
+image_795.jpg,FACE_MALE,0.5107,"[351, 21, 67, 66]"
+image_795.jpg,FEET_COVERED,0.4055,"[340, 561, 119, 78]"
+image_795.jpg,none_detected,0,
+image_742.jpg,FACE_FEMALE,0.8565,"[263, 148, 134, 135]"
+image_742.jpg,none_detected,0,
+image_756.jpg,FACE_FEMALE,0.7874,"[233, 171, 153, 162]"
+image_756.jpg,ARMPITS_EXPOSED,0.5708,"[383, 448, 63, 86]"
+image_756.jpg,FEMALE_BREAST_COVERED,0.316,"[274, 450, 140, 124]"
+image_756.jpg,none_detected,0,
+image_757.jpg,FACE_FEMALE,0.3067,"[228, 182, 122, 136]"
+image_757.jpg,none_detected,0,
+image_794.jpg,FACE_FEMALE,0.6831,"[192, 110, 99, 92]"
+image_794.jpg,none_detected,0,
+image_780.jpg,FEMALE_BREAST_COVERED,0.798,"[173, 82, 80, 77]"
+image_780.jpg,FEMALE_BREAST_COVERED,0.7602,"[92, 77, 85, 78]"
+image_780.jpg,FACE_FEMALE,0.7465,"[435, 0, 88, 38]"
+image_780.jpg,FEMALE_BREAST_COVERED,0.7295,"[355, 91, 87, 90]"
+image_780.jpg,FEMALE_BREAST_COVERED,0.707,"[435, 95, 81, 88]"
+image_780.jpg,ARMPITS_EXPOSED,0.6437,"[79, 54, 33, 51]"
+image_780.jpg,ARMPITS_EXPOSED,0.547,"[347, 77, 37, 50]"
+image_780.jpg,FACE_MALE,0.5039,"[253, 254, 88, 81]"
+image_780.jpg,ARMPITS_EXPOSED,0.4876,"[234, 63, 32, 44]"
+image_780.jpg,FEMALE_BREAST_COVERED,0.4325,"[243, 398, 80, 76]"
+image_780.jpg,BELLY_COVERED,0.4069,"[95, 185, 113, 96]"
+image_780.jpg,FEMALE_BREAST_COVERED,0.3413,"[316, 365, 74, 71]"
+image_780.jpg,FEMALE_GENITALIA_COVERED,0.3358,"[135, 307, 59, 56]"
+image_780.jpg,FACE_FEMALE,0.3268,"[136, 0, 97, 25]"
+image_780.jpg,none_detected,0,
+image_1477.jpg,FACE_MALE,0.294,"[305, 77, 108, 105]"
+image_1477.jpg,none_detected,0,
+image_227.jpg,FACE_FEMALE,0.7963,"[278, 227, 87, 76]"
+image_227.jpg,FEMALE_BREAST_COVERED,0.322,"[310, 77, 90, 71]"
+image_227.jpg,FEMALE_BREAST_COVERED,0.2583,"[243, 90, 94, 72]"
+image_227.jpg,none_detected,0,
+image_541.jpg,FACE_FEMALE,0.7946,"[342, 188, 70, 69]"
+image_541.jpg,FEMALE_BREAST_COVERED,0.5403,"[378, 299, 82, 79]"
+image_541.jpg,FEET_COVERED,0.4776,"[424, 513, 137, 126]"
+image_541.jpg,none_detected,0,
+image_596.jpg,FACE_MALE,0.4247,"[351, 143, 101, 93]"
+image_596.jpg,none_detected,0,
+image_347.jpg,FACE_FEMALE,0.7108,"[132, 105, 81, 82]"
+image_347.jpg,none_detected,0,
+image_390.jpg,FACE_FEMALE,0.5202,"[124, 241, 271, 263]"
+image_390.jpg,none_detected,0,
+image_28.jpg,FACE_FEMALE,0.7189,"[235, 256, 155, 129]"
+image_28.jpg,none_detected,0,
+image_1073.jpg,FACE_FEMALE,0.4847,"[405, 295, 29, 30]"
+image_1073.jpg,FACE_FEMALE,0.4354,"[503, 298, 31, 28]"
+image_1073.jpg,FACE_FEMALE,0.3924,"[220, 299, 25, 26]"
+image_1073.jpg,FACE_FEMALE,0.2996,"[118, 299, 29, 27]"
+image_1073.jpg,none_detected,0,
+image_1067.jpg,BUTTOCKS_EXPOSED,0.5983,"[300, 288, 100, 76]"
+image_1067.jpg,ARMPITS_EXPOSED,0.4949,"[297, 210, 26, 34]"
+image_1067.jpg,ARMPITS_EXPOSED,0.4336,"[378, 207, 23, 31]"
+image_1067.jpg,BELLY_EXPOSED,0.3174,"[322, 238, 58, 51]"
+image_1067.jpg,FEET_EXPOSED,0.2682,"[182, 497, 74, 62]"
+image_1067.jpg,none_detected,0,
+image_145.jpg,FACE_FEMALE,0.6994,"[417, 258, 87, 87]"
+image_145.jpg,none_detected,0,
+image_623.jpg,FACE_FEMALE,0.503,"[199, 122, 98, 97]"
+image_623.jpg,none_detected,0,
+image_179.jpg,FACE_FEMALE,0.6838,"[197, 155, 189, 183]"
+image_179.jpg,none_detected,0,
+image_804.jpg,FACE_FEMALE,0.7796,"[220, 178, 364, 353]"
+image_804.jpg,none_detected,0,
+image_810.jpg,FACE_FEMALE,0.8259,"[246, 235, 162, 167]"
+image_810.jpg,none_detected,0,
+image_806.jpg,FACE_MALE,0.6001,"[265, 141, 100, 80]"
+image_806.jpg,none_detected,0,
+image_621.jpg,FACE_FEMALE,0.5066,"[390, 260, 73, 66]"
+image_621.jpg,FEET_COVERED,0.4749,"[79, 480, 116, 88]"
+image_621.jpg,none_detected,0,
+image_1298.jpg,FACE_MALE,0.4184,"[317, 205, 63, 54]"
+image_1298.jpg,none_detected,0,
+image_635.jpg,FACE_FEMALE,0.8415,"[116, 0, 522, 578]"
+image_635.jpg,none_detected,0,
+image_1071.jpg,BELLY_EXPOSED,0.7475,"[280, 403, 91, 96]"
+image_1071.jpg,FEMALE_GENITALIA_COVERED,0.7442,"[278, 524, 60, 58]"
+image_1071.jpg,FACE_FEMALE,0.7106,"[328, 225, 76, 78]"
+image_1071.jpg,FEMALE_BREAST_COVERED,0.2621,"[366, 360, 62, 73]"
+image_1071.jpg,none_detected,0,
+image_1059.jpg,FEMALE_BREAST_COVERED,0.2885,"[348, 433, 198, 201]"
+image_1059.jpg,none_detected,0,
+image_351.jpg,FEET_COVERED,0.401,"[491, 74, 104, 81]"
+image_351.jpg,BUTTOCKS_COVERED,0.3996,"[279, 417, 172, 118]"
+image_351.jpg,none_detected,0,
+image_1111.jpg,FACE_FEMALE,0.6357,"[405, 354, 50, 49]"
+image_1111.jpg,none_detected,0,
+image_557.jpg,FEET_COVERED,0.3154,"[251, 498, 49, 73]"
+image_557.jpg,none_detected,0,
+image_1461.jpg,FACE_FEMALE,0.2921,"[277, 177, 46, 50]"
+image_1461.jpg,none_detected,0,
+image_1313.jpg,FEMALE_BREAST_EXPOSED,0.6791,"[292, 0, 137, 91]"
+image_1313.jpg,none_detected,0,
+image_782.jpg,FACE_FEMALE,0.4476,"[278, 120, 64, 62]"
+image_782.jpg,none_detected,0,
+image_769.jpg,FACE_FEMALE,0.8554,"[249, 112, 154, 163]"
+image_769.jpg,ARMPITS_EXPOSED,0.4387,"[256, 396, 57, 68]"
+image_769.jpg,FEMALE_BREAST_COVERED,0.3885,"[282, 388, 127, 132]"
+image_769.jpg,FEMALE_BREAST_COVERED,0.2941,"[156, 420, 156, 157]"
+image_769.jpg,none_detected,0,
+image_755.jpg,FACE_FEMALE,0.7074,"[0, 318, 206, 238]"
+image_755.jpg,none_detected,0,
+image_741.jpg,FACE_FEMALE,0.7118,"[100, 185, 179, 176]"
+image_741.jpg,FACE_FEMALE,0.6773,"[355, 124, 209, 226]"
+image_741.jpg,none_detected,0,
+image_754.jpg,FACE_FEMALE,0.6966,"[226, 161, 201, 194]"
+image_754.jpg,none_detected,0,
+image_797.jpg,FACE_FEMALE,0.5134,"[224, 110, 77, 76]"
+image_797.jpg,FACE_MALE,0.444,"[489, 207, 80, 82]"
+image_797.jpg,FACE_MALE,0.3437,"[60, 84, 69, 70]"
+image_797.jpg,none_detected,0,
+image_967.jpg,FACE_FEMALE,0.6624,"[354, 208, 43, 44]"
+image_967.jpg,none_detected,0,
+image_1474.jpg,FACE_FEMALE,0.8003,"[405, 240, 103, 104]"
+image_1474.jpg,FACE_FEMALE,0.3765,"[181, 226, 140, 127]"
+image_1474.jpg,none_detected,0,
+image_1460.jpg,FACE_FEMALE,0.787,"[405, 240, 102, 105]"
+image_1460.jpg,FACE_FEMALE,0.693,"[119, 268, 164, 158]"
+image_1460.jpg,none_detected,0,
+image_542.jpg,FACE_FEMALE,0.8124,"[227, 193, 334, 322]"
+image_542.jpg,none_detected,0,
+image_224.jpg,FACE_FEMALE,0.8131,"[336, 77, 133, 111]"
+image_224.jpg,FACE_FEMALE,0.7148,"[154, 108, 100, 87]"
+image_224.jpg,none_detected,0,
+image_581.jpg,FEET_COVERED,0.4531,"[108, 550, 69, 89]"
+image_581.jpg,FACE_FEMALE,0.4139,"[387, 193, 60, 53]"
+image_581.jpg,FEET_COVERED,0.3653,"[386, 506, 71, 85]"
+image_581.jpg,none_detected,0,
+image_1138.jpg,FACE_FEMALE,0.2736,"[266, 122, 100, 100]"
+image_1138.jpg,none_detected,0,
+image_436.jpg,FACE_FEMALE,0.7104,"[241, 125, 156, 147]"
+image_436.jpg,FEMALE_BREAST_COVERED,0.6191,"[191, 410, 125, 110]"
+image_436.jpg,FEMALE_BREAST_COVERED,0.4317,"[293, 360, 144, 108]"
+image_436.jpg,none_detected,0,
+image_350.jpg,FACE_FEMALE,0.7215,"[389, 139, 103, 108]"
+image_350.jpg,FEMALE_BREAST_COVERED,0.5678,"[416, 376, 122, 95]"
+image_350.jpg,FEMALE_BREAST_COVERED,0.2889,"[299, 320, 120, 99]"
+image_350.jpg,none_detected,0,
+image_344.jpg,FACE_FEMALE,0.5661,"[296, 231, 36, 36]"
+image_344.jpg,FEET_COVERED,0.4542,"[307, 567, 57, 66]"
+image_344.jpg,FEMALE_BREAST_COVERED,0.3166,"[311, 291, 41, 39]"
+image_344.jpg,FEMALE_BREAST_COVERED,0.2811,"[282, 290, 36, 36]"
+image_344.jpg,none_detected,0,
+image_378.jpg,FACE_FEMALE,0.4674,"[264, 209, 110, 108]"
+image_378.jpg,none_detected,0,
+image_1058.jpg,FEET_COVERED,0.6849,"[212, 497, 62, 71]"
+image_1058.jpg,FACE_MALE,0.4369,"[292, 147, 54, 49]"
+image_1058.jpg,none_detected,0,
+image_387.jpg,FACE_FEMALE,0.7925,"[201, 239, 225, 229]"
+image_387.jpg,FEMALE_BREAST_EXPOSED,0.3162,"[50, 482, 197, 157]"
+image_387.jpg,none_detected,0,
+image_1064.jpg,FACE_FEMALE,0.4912,"[316, 254, 60, 59]"
+image_1064.jpg,none_detected,0,
+image_1299.jpg,FEET_EXPOSED,0.3474,"[3, 177, 320, 307]"
+image_1299.jpg,none_detected,0,
+image_152.jpg,FACE_FEMALE,0.2812,"[164, 308, 130, 152]"
+image_152.jpg,none_detected,0,
+image_634.jpg,BUTTOCKS_EXPOSED,0.432,"[108, 12, 449, 391]"
+image_634.jpg,none_detected,0,
+image_146.jpg,FACE_FEMALE,0.626,"[47, 315, 127, 132]"
+image_146.jpg,FACE_FEMALE,0.438,"[265, 311, 139, 139]"
+image_146.jpg,FACE_FEMALE,0.3928,"[394, 247, 124, 137]"
+image_146.jpg,FACE_FEMALE,0.3782,"[392, 482, 81, 80]"
+image_146.jpg,FACE_MALE,0.3602,"[20, 473, 72, 68]"
+image_146.jpg,none_detected,0,
+image_608.jpg,FACE_FEMALE,0.5937,"[159, 147, 237, 242]"
+image_608.jpg,none_detected,0,
+image_807.jpg,FACE_FEMALE,0.8078,"[229, 298, 187, 166]"
+image_807.jpg,none_detected,0,
+image_1276.jpg,FACE_FEMALE,0.6406,"[346, 182, 58, 55]"
+image_1276.jpg,none_detected,0,
+image_142.jpg,FACE_FEMALE,0.8421,"[132, 188, 268, 308]"
+image_142.jpg,none_detected,0,
+image_618.jpg,FEET_COVERED,0.3031,"[82, 534, 73, 66]"
+image_618.jpg,FACE_MALE,0.2938,"[186, 244, 51, 42]"
+image_618.jpg,none_detected,0,
+image_1048.jpg,FACE_MALE,0.4846,"[218, 141, 39, 38]"
+image_1048.jpg,FEET_COVERED,0.2749,"[164, 440, 50, 83]"
+image_1048.jpg,none_detected,0,
+image_340.jpg,FACE_FEMALE,0.5266,"[196, 182, 148, 185]"
+image_340.jpg,none_detected,0,
+image_368.jpg,FACE_FEMALE,0.7349,"[296, 336, 65, 66]"
+image_368.jpg,FEMALE_BREAST_COVERED,0.5042,"[279, 436, 68, 59]"
+image_368.jpg,FEMALE_BREAST_COVERED,0.3431,"[340, 448, 68, 52]"
+image_368.jpg,none_detected,0,
+image_591.jpg,FACE_FEMALE,0.8172,"[225, 123, 173, 157]"
+image_591.jpg,FEMALE_BREAST_COVERED,0.4177,"[331, 411, 172, 169]"
+image_591.jpg,none_detected,0,
+image_1128.jpg,FACE_FEMALE,0.8248,"[180, 100, 166, 164]"
+image_1128.jpg,ARMPITS_EXPOSED,0.5982,"[214, 339, 55, 75]"
+image_1128.jpg,FEMALE_BREAST_COVERED,0.2706,"[233, 367, 160, 165]"
+image_1128.jpg,none_detected,0,
+image_585.jpg,FACE_FEMALE,0.7036,"[223, 90, 110, 109]"
+image_585.jpg,none_detected,0,
+image_1100.jpg,FACE_FEMALE,0.7092,"[364, 307, 71, 74]"
+image_1100.jpg,ARMPITS_EXPOSED,0.5251,"[415, 425, 36, 40]"
+image_1100.jpg,none_detected,0,
+image_234.jpg,FACE_MALE,0.3881,"[326, 139, 99, 83]"
+image_234.jpg,FEMALE_BREAST_COVERED,0.3658,"[301, 299, 115, 104]"
+image_234.jpg,FEMALE_BREAST_COVERED,0.3466,"[413, 314, 115, 93]"
+image_234.jpg,BELLY_COVERED,0.2877,"[334, 403, 160, 120]"
+image_234.jpg,FEMALE_GENITALIA_COVERED,0.2875,"[398, 553, 79, 74]"
+image_234.jpg,none_detected,0,
+image_1458.jpg,FACE_FEMALE,0.8934,"[194, 159, 274, 286]"
+image_1458.jpg,none_detected,0,
+image_793.jpg,FACE_FEMALE,0.6528,"[295, 155, 286, 300]"
+image_793.jpg,none_detected,0,
+image_787.jpg,FACE_FEMALE,0.7573,"[136, 222, 69, 65]"
+image_787.jpg,ARMPITS_EXPOSED,0.3327,"[238, 258, 37, 45]"
+image_787.jpg,none_detected,0,
+image_750.jpg,FACE_FEMALE,0.5201,"[236, 281, 37, 37]"
+image_750.jpg,none_detected,0,
+image_988.jpg,FACE_FEMALE,0.8018,"[352, 582, 56, 52]"
+image_988.jpg,FACE_FEMALE,0.7808,"[172, 357, 59, 53]"
+image_988.jpg,FACE_FEMALE,0.7781,"[185, 152, 59, 55]"
+image_988.jpg,FACE_FEMALE,0.7779,"[356, 140, 57, 56]"
+image_988.jpg,FACE_FEMALE,0.7696,"[5, 382, 63, 58]"
+image_988.jpg,FACE_FEMALE,0.7636,"[536, 368, 57, 53]"
+image_988.jpg,FACE_FEMALE,0.7548,"[0, 130, 50, 54]"
+image_988.jpg,FACE_FEMALE,0.7266,"[3, 599, 57, 40]"
+image_988.jpg,FACE_FEMALE,0.7263,"[360, 361, 58, 48]"
+image_988.jpg,FACE_FEMALE,0.7223,"[535, 130, 57, 48]"
+image_988.jpg,FACE_MALE,0.5131,"[186, 593, 56, 45]"
+image_988.jpg,FEMALE_BREAST_COVERED,0.471,"[391, 230, 59, 52]"
+image_988.jpg,FEMALE_BREAST_COVERED,0.3102,"[512, 230, 58, 53]"
+image_988.jpg,FEMALE_BREAST_COVERED,0.3082,"[334, 238, 55, 54]"
+image_988.jpg,FEMALE_BREAST_COVERED,0.2991,"[338, 456, 59, 55]"
+image_988.jpg,FEMALE_BREAST_COVERED,0.2715,"[570, 455, 56, 51]"
+image_988.jpg,FEMALE_BREAST_COVERED,0.2597,"[23, 483, 54, 46]"
+image_988.jpg,none_detected,0,
+image_751.jpg,FACE_FEMALE,0.7874,"[233, 171, 153, 162]"
+image_751.jpg,ARMPITS_EXPOSED,0.5708,"[383, 448, 63, 86]"
+image_751.jpg,FEMALE_BREAST_COVERED,0.316,"[274, 450, 140, 124]"
+image_751.jpg,none_detected,0,
+image_786.jpg,FACE_FEMALE,0.7949,"[157, 216, 302, 309]"
+image_786.jpg,none_detected,0,
+image_1459.jpg,FEMALE_BREAST_EXPOSED,0.4205,"[352, 151, 182, 184]"
+image_1459.jpg,none_detected,0,
+image_209.jpg,FACE_FEMALE,0.8287,"[154, 205, 333, 359]"
+image_209.jpg,none_detected,0,
+image_1115.jpg,FEET_EXPOSED,0.3945,"[312, 505, 148, 134]"
+image_1115.jpg,none_detected,0,
+image_1101.jpg,FEET_COVERED,0.6332,"[292, 485, 56, 68]"
+image_1101.jpg,FACE_MALE,0.3142,"[310, 183, 42, 40]"
+image_1101.jpg,none_detected,0,
+image_584.jpg,FACE_FEMALE,0.5139,"[63, 71, 467, 430]"
+image_584.jpg,none_detected,0,
+image_369.jpg,FEET_EXPOSED,0.3038,"[47, 203, 84, 88]"
+image_369.jpg,none_detected,0,
+image_427.jpg,FACE_FEMALE,0.7127,"[107, 59, 441, 410]"
+image_427.jpg,MALE_GENITALIA_EXPOSED,0.3222,"[209, 351, 126, 205]"
+image_427.jpg,none_detected,0,
+image_1075.jpg,FACE_FEMALE,0.8072,"[108, 190, 405, 441]"
+image_1075.jpg,none_detected,0,
+image_396.jpg,FACE_FEMALE,0.7904,"[269, 87, 123, 122]"
+image_396.jpg,none_detected,0,
+image_619.jpg,MALE_GENITALIA_EXPOSED,0.3175,"[106, 442, 209, 132]"
+image_619.jpg,none_detected,0,
+image_157.jpg,FEET_COVERED,0.5105,"[453, 524, 96, 114]"
+image_157.jpg,none_detected,0,
+image_625.jpg,FACE_FEMALE,0.8027,"[232, 166, 127, 126]"
+image_625.jpg,FACE_FEMALE,0.5146,"[394, 90, 128, 125]"
+image_625.jpg,none_detected,0,
+image_816.jpg,FACE_FEMALE,0.2659,"[176, 203, 289, 304]"
+image_816.jpg,none_detected,0,
+image_1263.jpg,FACE_FEMALE,0.6983,"[201, 317, 224, 227]"
+image_1263.jpg,none_detected,0,
+image_802.jpg,FACE_FEMALE,0.8431,"[270, 118, 107, 109]"
+image_802.jpg,FEMALE_BREAST_COVERED,0.3347,"[316, 330, 94, 108]"
+image_802.jpg,none_detected,0,
+image_194.jpg,FACE_FEMALE,0.7021,"[264, 346, 192, 184]"
+image_194.jpg,none_detected,0,
+image_141.jpg,FACE_FEMALE,0.3313,"[205, 100, 222, 247]"
+image_141.jpg,none_detected,0,
+image_10.jpg,FACE_FEMALE,0.7918,"[291, 178, 79, 78]"
+image_10.jpg,FEET_COVERED,0.6284,"[29, 480, 225, 154]"
+image_10.jpg,ARMPITS_EXPOSED,0.321,"[245, 270, 49, 41]"
+image_10.jpg,none_detected,0,
+image_1063.jpg,FACE_FEMALE,0.8335,"[8, 2, 620, 622]"
+image_1063.jpg,none_detected,0,
+image_343.jpg,FACE_FEMALE,0.8244,"[98, 95, 184, 198]"
+image_343.jpg,none_detected,0,
+image_586.jpg,FACE_FEMALE,0.7113,"[41, 186, 393, 398]"
+image_586.jpg,FACE_FEMALE,0.5756,"[339, 275, 279, 293]"
+image_586.jpg,none_detected,0,
+image_592.jpg,FACE_FEMALE,0.6409,"[284, 148, 50, 47]"
+image_592.jpg,none_detected,0,
+image_545.jpg,FACE_FEMALE,0.8578,"[64, 378, 201, 212]"
+image_545.jpg,none_detected,0,
+image_223.jpg,FACE_FEMALE,0.3288,"[259, 267, 80, 79]"
+image_223.jpg,none_detected,0,
+image_784.jpg,FACE_FEMALE,0.7099,"[263, 201, 228, 240]"
+image_784.jpg,none_detected,0,
+image_1315.jpg,FACE_FEMALE,0.6573,"[75, 99, 92, 89]"
+image_1315.jpg,FACE_FEMALE,0.5395,"[385, 57, 91, 83]"
+image_1315.jpg,FEMALE_BREAST_COVERED,0.4963,"[119, 254, 78, 82]"
+image_1315.jpg,none_detected,0,
+image_1473.jpg,FACE_MALE,0.4924,"[574, 82, 57, 51]"
+image_1473.jpg,none_detected,0,
+image_974.jpg,FACE_FEMALE,0.8455,"[140, 136, 260, 256]"
+image_974.jpg,none_detected,0,
+image_1467.jpg,FACE_FEMALE,0.786,"[183, 122, 54, 49]"
+image_1467.jpg,FACE_FEMALE,0.7712,"[509, 157, 82, 76]"
+image_1467.jpg,FACE_FEMALE,0.639,"[413, 198, 82, 76]"
+image_1467.jpg,FACE_FEMALE,0.5942,"[274, 140, 52, 51]"
+image_1467.jpg,FACE_FEMALE,0.5742,"[92, 67, 54, 52]"
+image_1467.jpg,FACE_FEMALE,0.5528,"[364, 87, 56, 50]"
+image_1467.jpg,none_detected,0,
+image_746.jpg,FACE_FEMALE,0.8118,"[81, 269, 158, 163]"
+image_746.jpg,FACE_FEMALE,0.7986,"[346, 219, 179, 189]"
+image_746.jpg,FEMALE_BREAST_COVERED,0.2545,"[410, 580, 169, 59]"
+image_746.jpg,none_detected,0,
+image_1466.jpg,FACE_FEMALE,0.7537,"[218, 93, 141, 135]"
+image_1466.jpg,none_detected,0,
+image_975.jpg,FACE_FEMALE,0.7844,"[196, 79, 57, 55]"
+image_975.jpg,FEET_COVERED,0.7121,"[492, 488, 112, 105]"
+image_975.jpg,FEET_COVERED,0.5319,"[414, 473, 94, 129]"
+image_975.jpg,FEMALE_BREAST_COVERED,0.5038,"[169, 170, 71, 63]"
+image_975.jpg,BUTTOCKS_EXPOSED,0.3189,"[304, 248, 78, 82]"
+image_975.jpg,none_detected,0,
+image_1300.jpg,FACE_FEMALE,0.3533,"[1, 8, 636, 572]"
+image_1300.jpg,none_detected,0,
+image_1472.jpg,FACE_FEMALE,0.2829,"[242, 243, 76, 84]"
+image_1472.jpg,none_detected,0,
+image_791.jpg,FEET_COVERED,0.7202,"[299, 525, 60, 72]"
+image_791.jpg,FEET_COVERED,0.2723,"[273, 359, 90, 91]"
+image_791.jpg,none_detected,0,
+image_785.jpg,FEET_COVERED,0.3505,"[470, 419, 75, 51]"
+image_785.jpg,none_detected,0,
+image_236.jpg,FACE_FEMALE,0.8034,"[204, 157, 91, 96]"
+image_236.jpg,FACE_FEMALE,0.7849,"[89, 76, 89, 96]"
+image_236.jpg,none_detected,0,
+image_1102.jpg,FACE_FEMALE,0.4484,"[214, 87, 129, 127]"
+image_1102.jpg,none_detected,0,
+image_342.jpg,FACE_FEMALE,0.4273,"[282, 259, 77, 79]"
+image_342.jpg,none_detected,0,
+image_11.jpg,FACE_MALE,0.4288,"[312, 137, 52, 48]"
+image_11.jpg,none_detected,0,
+image_381.jpg,FACE_FEMALE,0.4917,"[147, 129, 144, 150]"
+image_381.jpg,none_detected,0,
+image_140.jpg,FACE_FEMALE,0.6661,"[325, 257, 47, 46]"
+image_140.jpg,none_detected,0,
+image_154.jpg,FACE_FEMALE,0.4071,"[287, 138, 34, 32]"
+image_154.jpg,none_detected,0,
+image_801.jpg,FACE_FEMALE,0.599,"[210, 184, 276, 241]"
+image_801.jpg,none_detected,0,
+image_1274.jpg,FACE_FEMALE,0.654,"[281, 221, 78, 71]"
+image_1274.jpg,none_detected,0,
+image_183.jpg,FACE_FEMALE,0.4423,"[445, 91, 47, 42]"
+image_183.jpg,none_detected,0,
+image_1207.jpg,FACE_FEMALE,0.7031,"[232, 95, 147, 134]"
+image_1207.jpg,none_detected,0,
+image_872.jpg,FACE_FEMALE,0.6405,"[119, 38, 81, 78]"
+image_872.jpg,FACE_FEMALE,0.5833,"[408, 39, 80, 75]"
+image_872.jpg,FEET_COVERED,0.3868,"[492, 567, 114, 72]"
+image_872.jpg,none_detected,0,
+image_1213.jpg,FACE_FEMALE,0.361,"[203, 257, 314, 282]"
+image_1213.jpg,none_detected,0,
+image_696.jpg,FACE_FEMALE,0.7908,"[163, 108, 385, 414]"
+image_696.jpg,none_detected,0,
+image_682.jpg,FACE_FEMALE,0.3257,"[105, 280, 49, 52]"
+image_682.jpg,none_detected,0,
+image_641.jpg,FACE_FEMALE,0.4626,"[101, 111, 91, 88]"
+image_641.jpg,none_detected,0,
+image_76.jpg,FEET_COVERED,0.4849,"[352, 441, 46, 53]"
+image_76.jpg,FACE_FEMALE,0.3887,"[336, 144, 45, 42]"
+image_76.jpg,FEET_COVERED,0.2894,"[232, 445, 45, 50]"
+image_76.jpg,none_detected,0,
+image_1005.jpg,FACE_FEMALE,0.6802,"[388, 187, 47, 42]"
+image_1005.jpg,FEMALE_BREAST_COVERED,0.3892,"[414, 261, 58, 50]"
+image_1005.jpg,FEMALE_BREAST_COVERED,0.3007,"[354, 273, 54, 52]"
+image_1005.jpg,none_detected,0,
+image_1011.jpg,FEET_COVERED,0.4446,"[468, 428, 58, 86]"
+image_1011.jpg,FACE_FEMALE,0.3299,"[401, 169, 50, 48]"
+image_1011.jpg,none_detected,0,
+image_62.jpg,FACE_MALE,0.4863,"[259, 273, 102, 100]"
+image_62.jpg,none_detected,0,
+image_1039.jpg,FACE_FEMALE,0.8135,"[288, 176, 246, 244]"
+image_1039.jpg,none_detected,0,
+image_457.jpg,FACE_FEMALE,0.7009,"[277, 240, 52, 50]"
+image_457.jpg,FACE_FEMALE,0.488,"[330, 221, 54, 54]"
+image_457.jpg,none_detected,0,
+image_331.jpg,FACE_FEMALE,0.4163,"[279, 58, 113, 127]"
+image_331.jpg,none_detected,0,
+image_1159.jpg,FACE_FEMALE,0.303,"[294, 286, 49, 42]"
+image_1159.jpg,FACE_MALE,0.2574,"[100, 178, 38, 34]"
+image_1159.jpg,none_detected,0,
+image_523.jpg,FACE_FEMALE,0.4829,"[298, 146, 49, 50]"
+image_523.jpg,none_detected,0,
+image_245.jpg,FACE_FEMALE,0.6923,"[210, 225, 111, 113]"
+image_245.jpg,none_detected,0,
+image_251.jpg,FACE_FEMALE,0.5686,"[452, 293, 48, 44]"
+image_251.jpg,FEET_COVERED,0.4611,"[377, 548, 56, 54]"
+image_251.jpg,none_detected,0,
+image_1401.jpg,FACE_FEMALE,0.3679,"[341, 344, 51, 49]"
+image_1401.jpg,none_detected,0,
+image_1429.jpg,FACE_FEMALE,0.844,"[172, 91, 105, 101]"
+image_1429.jpg,FACE_FEMALE,0.7487,"[286, 144, 113, 97]"
+image_1429.jpg,FEMALE_BREAST_COVERED,0.5163,"[95, 259, 91, 104]"
+image_1429.jpg,none_detected,0,
+image_735.jpg,FACE_FEMALE,0.8113,"[268, 181, 94, 100]"
+image_735.jpg,FEMALE_BREAST_COVERED,0.3021,"[294, 354, 105, 116]"
+image_735.jpg,none_detected,0,
+image_1398.jpg,FACE_FEMALE,0.7911,"[400, 240, 112, 104]"
+image_1398.jpg,FACE_FEMALE,0.4408,"[142, 258, 171, 153]"
+image_1398.jpg,none_detected,0,
+image_1399.jpg,FACE_FEMALE,0.3738,"[0, 245, 63, 67]"
+image_1399.jpg,none_detected,0,
+image_1428.jpg,FACE_FEMALE,0.5668,"[336, 179, 48, 41]"
+image_1428.jpg,FEMALE_BREAST_COVERED,0.5376,"[325, 239, 57, 49]"
+image_1428.jpg,none_detected,0,
+image_913.jpg,FACE_FEMALE,0.8554,"[180, 272, 237, 222]"
+image_913.jpg,none_detected,0,
+image_1400.jpg,FACE_FEMALE,0.4746,"[353, 269, 58, 60]"
+image_1400.jpg,FACE_FEMALE,0.3251,"[397, 335, 65, 64]"
+image_1400.jpg,none_detected,0,
+image_1366.jpg,FEMALE_BREAST_EXPOSED,0.3521,"[181, 0, 362, 347]"
+image_1366.jpg,none_detected,0,
+image_1414.jpg,FACE_FEMALE,0.4803,"[169, 135, 320, 268]"
+image_1414.jpg,none_detected,0,
+image_522.jpg,FACE_FEMALE,0.4791,"[341, 98, 40, 38]"
+image_522.jpg,none_detected,0,
+image_244.jpg,FACE_FEMALE,0.6303,"[297, 128, 48, 50]"
+image_244.jpg,ARMPITS_EXPOSED,0.2825,"[250, 232, 22, 36]"
+image_244.jpg,none_detected,0,
+image_1158.jpg,FACE_FEMALE,0.5219,"[210, 83, 133, 132]"
+image_1158.jpg,none_detected,0,
+image_287.jpg,FACE_FEMALE,0.6309,"[288, 253, 247, 306]"
+image_287.jpg,none_detected,0,
+image_324.jpg,FACE_FEMALE,0.3938,"[229, 118, 111, 127]"
+image_324.jpg,none_detected,0,
+image_442.jpg,FACE_FEMALE,0.8016,"[351, 84, 118, 115]"
+image_442.jpg,none_detected,0,
+image_456.jpg,FACE_FEMALE,0.3272,"[254, 159, 92, 80]"
+image_456.jpg,none_detected,0,
+image_88.jpg,FACE_FEMALE,0.7189,"[235, 256, 155, 129]"
+image_88.jpg,none_detected,0,
+image_318.jpg,BUTTOCKS_COVERED,0.771,"[39, 41, 537, 500]"
+image_318.jpg,none_detected,0,
+image_1010.jpg,FACE_FEMALE,0.3567,"[311, 85, 53, 43]"
+image_1010.jpg,FEET_COVERED,0.3299,"[330, 438, 87, 67]"
+image_1010.jpg,ARMPITS_EXPOSED,0.2701,"[263, 139, 36, 29]"
+image_1010.jpg,none_detected,0,
+image_77.jpg,FACE_FEMALE,0.4686,"[123, 265, 101, 111]"
+image_77.jpg,none_detected,0,
+image_1004.jpg,FEMALE_BREAST_EXPOSED,0.4481,"[243, 218, 51, 61]"
+image_1004.jpg,BELLY_EXPOSED,0.2566,"[254, 271, 79, 78]"
+image_1004.jpg,none_detected,0,
+image_898.jpg,FACE_MALE,0.4868,"[135, 225, 107, 97]"
+image_898.jpg,none_detected,0,
+image_668.jpg,FACE_MALE,0.5944,"[361, 191, 51, 50]"
+image_668.jpg,FEET_COVERED,0.3767,"[558, 456, 49, 70]"
+image_668.jpg,FEET_EXPOSED,0.2807,"[300, 514, 52, 65]"
+image_668.jpg,none_detected,0,
+image_697.jpg,FACE_FEMALE,0.5671,"[304, 121, 114, 106]"
+image_697.jpg,ARMPITS_EXPOSED,0.5332,"[391, 277, 43, 50]"
+image_697.jpg,FEMALE_BREAST_COVERED,0.4257,"[328, 281, 92, 83]"
+image_697.jpg,ARMPITS_EXPOSED,0.3917,"[241, 230, 45, 50]"
+image_697.jpg,BELLY_EXPOSED,0.3732,"[219, 359, 124, 109]"
+image_697.jpg,none_detected,0,
+image_1210.jpg,FEET_COVERED,0.3785,"[386, 432, 117, 106]"
+image_1210.jpg,none_detected,0,
+image_1204.jpg,FEMALE_BREAST_COVERED,0.4016,"[176, 442, 196, 182]"
+image_1204.jpg,FACE_MALE,0.4006,"[278, 76, 173, 190]"
+image_1204.jpg,FEMALE_BREAST_COVERED,0.2864,"[343, 400, 145, 140]"
+image_1204.jpg,none_detected,0,
+image_859.jpg,FACE_FEMALE,0.7765,"[0, 472, 150, 166]"
+image_859.jpg,FACE_MALE,0.7134,"[36, 205, 58, 55]"
+image_859.jpg,FACE_MALE,0.6351,"[437, 12, 65, 54]"
+image_859.jpg,FACE_FEMALE,0.6019,"[344, 127, 92, 75]"
+image_859.jpg,FACE_MALE,0.5934,"[0, 286, 46, 52]"
+image_859.jpg,FACE_MALE,0.5444,"[0, 42, 64, 93]"
+image_859.jpg,FACE_MALE,0.5411,"[294, 52, 58, 48]"
+image_859.jpg,FACE_MALE,0.5256,"[365, 22, 70, 54]"
+image_859.jpg,FACE_MALE,0.4155,"[104, 305, 51, 47]"
+image_859.jpg,FACE_MALE,0.4054,"[105, 241, 49, 46]"
+image_859.jpg,FACE_FEMALE,0.3966,"[259, 385, 58, 52]"
+image_859.jpg,FACE_FEMALE,0.3235,"[374, 567, 51, 46]"
+image_859.jpg,FACE_MALE,0.3218,"[292, 562, 57, 54]"
+image_859.jpg,FACE_FEMALE,0.2912,"[471, 575, 55, 51]"
+image_859.jpg,FACE_FEMALE,0.2801,"[568, 566, 59, 62]"
+image_859.jpg,none_detected,0,
+image_695.jpg,FACE_FEMALE,0.5345,"[267, 107, 103, 106]"
+image_695.jpg,none_detected,0,
+image_1238.jpg,FACE_FEMALE,0.7429,"[275, 235, 123, 144]"
+image_1238.jpg,none_detected,0,
+image_642.jpg,FACE_MALE,0.6359,"[164, 100, 99, 106]"
+image_642.jpg,FEET_COVERED,0.2979,"[61, 555, 99, 84]"
+image_642.jpg,none_detected,0,
+image_1012.jpg,FACE_FEMALE,0.2759,"[283, 205, 43, 37]"
+image_1012.jpg,none_detected,0,
+image_1006.jpg,FACE_FEMALE,0.6595,"[269, 227, 73, 62]"
+image_1006.jpg,none_detected,0,
+image_49.jpg,FACE_FEMALE,0.8287,"[154, 205, 333, 359]"
+image_49.jpg,none_detected,0,
+image_468.jpg,FACE_FEMALE,0.8046,"[246, 48, 147, 137]"
+image_468.jpg,none_detected,0,
+image_332.jpg,FEET_COVERED,0.5486,"[9, 526, 74, 96]"
+image_332.jpg,FACE_FEMALE,0.4768,"[77, 175, 53, 49]"
+image_332.jpg,none_detected,0,
+image_285.jpg,FACE_MALE,0.6082,"[257, 147, 85, 85]"
+image_285.jpg,FEMALE_BREAST_COVERED,0.3701,"[285, 300, 84, 82]"
+image_285.jpg,FEMALE_BREAST_COVERED,0.2544,"[199, 298, 79, 86]"
+image_285.jpg,none_detected,0,
+image_508.jpg,FACE_FEMALE,0.8121,"[226, 194, 337, 322]"
+image_508.jpg,none_detected,0,
+image_534.jpg,FACE_MALE,0.6686,"[138, 128, 52, 50]"
+image_534.jpg,FACE_MALE,0.6558,"[182, 191, 53, 52]"
+image_534.jpg,FACE_FEMALE,0.6508,"[406, 377, 53, 51]"
+image_534.jpg,FACE_MALE,0.6184,"[412, 143, 51, 50]"
+image_534.jpg,FACE_MALE,0.5962,"[496, 284, 50, 50]"
+image_534.jpg,FACE_MALE,0.5839,"[96, 280, 52, 54]"
+image_534.jpg,FACE_MALE,0.5499,"[190, 369, 52, 50]"
+image_534.jpg,FACE_MALE,0.3364,"[378, 205, 49, 39]"
+image_534.jpg,FACE_MALE,0.27,"[265, 152, 48, 44]"
+image_534.jpg,none_detected,0,
+image_252.jpg,FACE_FEMALE,0.709,"[242, 125, 155, 146]"
+image_252.jpg,FEMALE_BREAST_COVERED,0.615,"[191, 410, 123, 109]"
+image_252.jpg,FEMALE_BREAST_COVERED,0.4214,"[293, 361, 143, 106]"
+image_252.jpg,none_detected,0,
+image_1364.jpg,FACE_FEMALE,0.8093,"[155, 287, 156, 168]"
+image_1364.jpg,FACE_FEMALE,0.7633,"[342, 153, 210, 235]"
+image_1364.jpg,none_detected,0,
+image_1416.jpg,FACE_FEMALE,0.7112,"[265, 177, 86, 84]"
+image_1416.jpg,none_detected,0,
+image_1370.jpg,FACE_FEMALE,0.5859,"[28, 210, 241, 203]"
+image_1370.jpg,none_detected,0,
+image_938.jpg,FEMALE_BREAST_EXPOSED,0.4242,"[0, 34, 249, 371]"
+image_938.jpg,none_detected,0,
+image_1371.jpg,FACE_FEMALE,0.8473,"[230, 159, 171, 168]"
+image_1371.jpg,none_detected,0,
+image_1403.jpg,FACE_FEMALE,0.4836,"[83, 0, 344, 210]"
+image_1403.jpg,none_detected,0,
+image_253.jpg,FACE_FEMALE,0.5936,"[365, 456, 50, 45]"
+image_253.jpg,FACE_FEMALE,0.5914,"[364, 85, 52, 44]"
+image_253.jpg,FACE_FEMALE,0.5832,"[225, 271, 50, 45]"
+image_253.jpg,FACE_FEMALE,0.5725,"[226, 84, 49, 44]"
+image_253.jpg,FACE_FEMALE,0.525,"[86, 458, 50, 44]"
+image_253.jpg,FACE_FEMALE,0.5183,"[502, 269, 52, 47]"
+image_253.jpg,FACE_FEMALE,0.4718,"[84, 83, 52, 45]"
+image_253.jpg,FACE_FEMALE,0.4527,"[501, 81, 53, 48]"
+image_253.jpg,FACE_FEMALE,0.4173,"[225, 458, 50, 44]"
+image_253.jpg,FACE_FEMALE,0.3048,"[366, 271, 48, 43]"
+image_253.jpg,none_detected,0,
+image_509.jpg,FACE_FEMALE,0.7497,"[127, 71, 438, 533]"
+image_509.jpg,none_detected,0,
+image_284.jpg,FACE_FEMALE,0.7008,"[316, 95, 77, 88]"
+image_284.jpg,none_detected,0,
+image_290.jpg,BELLY_EXPOSED,0.5196,"[175, 0, 453, 349]"
+image_290.jpg,none_detected,0,
+image_333.jpg,FACE_FEMALE,0.859,"[261, 254, 149, 134]"
+image_333.jpg,none_detected,0,
+image_455.jpg,FACE_FEMALE,0.3337,"[277, 296, 93, 87]"
+image_455.jpg,none_detected,0,
+image_441.jpg,FACE_FEMALE,0.5987,"[227, 331, 111, 99]"
+image_441.jpg,none_detected,0,
+image_327.jpg,FACE_FEMALE,0.8325,"[341, 200, 173, 158]"
+image_327.jpg,ARMPITS_EXPOSED,0.3449,"[403, 507, 52, 75]"
+image_327.jpg,none_detected,0,
+image_469.jpg,FACE_FEMALE,0.5683,"[362, 197, 151, 166]"
+image_469.jpg,none_detected,0,
+image_9.jpg,FACE_MALE,0.3041,"[20, 346, 51, 46]"
+image_9.jpg,none_detected,0,
+image_1013.jpg,FACE_FEMALE,0.8187,"[59, 223, 358, 376]"
+image_1013.jpg,MALE_GENITALIA_EXPOSED,0.5063,"[33, 476, 211, 163]"
+image_1013.jpg,none_detected,0,
+image_643.jpg,FACE_FEMALE,0.2658,"[285, 206, 64, 63]"
+image_643.jpg,none_detected,0,
+image_1239.jpg,FACE_FEMALE,0.3152,"[68, 47, 238, 384]"
+image_1239.jpg,none_detected,0,
+image_858.jpg,FACE_FEMALE,0.4288,"[317, 161, 75, 75]"
+image_858.jpg,FEMALE_BREAST_COVERED,0.2642,"[384, 317, 84, 101]"
+image_858.jpg,none_detected,0,
+image_680.jpg,FACE_FEMALE,0.4533,"[298, 146, 49, 50]"
+image_680.jpg,none_detected,0,
+image_870.jpg,FEET_COVERED,0.4773,"[282, 489, 45, 49]"
+image_870.jpg,FEET_COVERED,0.3725,"[338, 470, 52, 47]"
+image_870.jpg,FACE_FEMALE,0.3055,"[323, 157, 28, 29]"
+image_870.jpg,none_detected,0,
+image_1205.jpg,FACE_FEMALE,0.49,"[222, 58, 50, 50]"
+image_1205.jpg,none_detected,0,
+image_848.jpg,FACE_FEMALE,0.7916,"[239, 154, 139, 116]"
+image_848.jpg,none_detected,0,
+image_1215.jpg,FACE_FEMALE,0.2803,"[304, 146, 51, 48]"
+image_1215.jpg,none_detected,0,
+image_874.jpg,FACE_FEMALE,0.5851,"[279, 239, 47, 41]"
+image_874.jpg,none_detected,0,
+image_647.jpg,FACE_FEMALE,0.7763,"[199, 137, 63, 63]"
+image_647.jpg,FEET_COVERED,0.6546,"[472, 542, 93, 94]"
+image_647.jpg,FEET_COVERED,0.6287,"[417, 531, 71, 106]"
+image_647.jpg,FEMALE_BREAST_COVERED,0.2622,"[236, 239, 66, 65]"
+image_647.jpg,none_detected,0,
+image_121.jpg,FACE_FEMALE,0.7337,"[266, 134, 155, 147]"
+image_121.jpg,none_detected,0,
+image_653.jpg,BELLY_EXPOSED,0.6629,"[4, 0, 408, 234]"
+image_653.jpg,none_detected,0,
+image_64.jpg,FACE_FEMALE,0.4559,"[119, 100, 175, 190]"
+image_64.jpg,none_detected,0,
+image_1003.jpg,FACE_FEMALE,0.8031,"[213, 107, 196, 196]"
+image_1003.jpg,ARMPITS_EXPOSED,0.6008,"[175, 434, 83, 96]"
+image_1003.jpg,none_detected,0,
+image_451.jpg,FACE_FEMALE,0.5549,"[293, 175, 43, 41]"
+image_451.jpg,FEET_COVERED,0.412,"[306, 461, 70, 96]"
+image_451.jpg,BUTTOCKS_EXPOSED,0.3217,"[316, 329, 36, 63]"
+image_451.jpg,FEET_COVERED,0.2849,"[297, 506, 79, 116]"
+image_451.jpg,ARMPITS_EXPOSED,0.2824,"[307, 246, 24, 28]"
+image_451.jpg,none_detected,0,
+image_337.jpg,FACE_FEMALE,0.2827,"[338, 165, 116, 124]"
+image_337.jpg,none_detected,0,
+image_294.jpg,FACE_FEMALE,0.5137,"[429, 116, 69, 61]"
+image_294.jpg,none_detected,0,
+image_1163.jpg,FEET_COVERED,0.4847,"[408, 502, 52, 75]"
+image_1163.jpg,FEET_COVERED,0.4552,"[337, 503, 47, 81]"
+image_1163.jpg,none_detected,0,
+image_257.jpg,FACE_FEMALE,0.658,"[323, 77, 58, 53]"
+image_257.jpg,FEET_EXPOSED,0.3822,"[394, 528, 66, 101]"
+image_257.jpg,none_detected,0,
+image_531.jpg,FACE_FEMALE,0.3127,"[283, 201, 96, 105]"
+image_531.jpg,none_detected,0,
+image_243.jpg,FACE_FEMALE,0.6909,"[369, 168, 97, 87]"
+image_243.jpg,FACE_MALE,0.2747,"[447, 32, 97, 97]"
+image_243.jpg,FEET_COVERED,0.2732,"[29, 101, 93, 98]"
+image_243.jpg,none_detected,0,
+image_1188.jpg,FEET_COVERED,0.5188,"[334, 503, 53, 62]"
+image_1188.jpg,FEET_COVERED,0.3343,"[378, 495, 45, 55]"
+image_1188.jpg,none_detected,0,
+image_519.jpg,FACE_FEMALE,0.5895,"[457, 144, 182, 369]"
+image_519.jpg,none_detected,0,
+image_1407.jpg,FACE_FEMALE,0.8046,"[108, 296, 105, 101]"
+image_1407.jpg,none_detected,0,
+image_1361.jpg,FACE_FEMALE,0.7397,"[33, 160, 87, 75]"
+image_1361.jpg,FACE_FEMALE,0.4771,"[158, 307, 119, 113]"
+image_1361.jpg,none_detected,0,
+image_733.jpg,FACE_FEMALE,0.7001,"[149, 0, 317, 191]"
+image_733.jpg,none_detected,0,
+image_727.jpg,FACE_FEMALE,0.6511,"[89, 238, 221, 229]"
+image_727.jpg,none_detected,0,
+image_1374.jpg,FEMALE_BREAST_EXPOSED,0.6985,"[2, 225, 151, 155]"
+image_1374.jpg,none_detected,0,
+image_901.jpg,FACE_FEMALE,0.7629,"[304, 136, 50, 44]"
+image_901.jpg,none_detected,0,
+image_1360.jpg,FEMALE_BREAST_EXPOSED,0.2848,"[0, 163, 459, 476]"
+image_1360.jpg,none_detected,0,
+image_929.jpg,FACE_FEMALE,0.7736,"[347, 219, 118, 123]"
+image_929.jpg,FACE_FEMALE,0.5404,"[142, 206, 123, 128]"
+image_929.jpg,none_detected,0,
+image_1189.jpg,FEMALE_BREAST_EXPOSED,0.2534,"[168, 160, 451, 386]"
+image_1189.jpg,none_detected,0,
+image_256.jpg,FACE_FEMALE,0.7925,"[201, 239, 225, 229]"
+image_256.jpg,FEMALE_BREAST_EXPOSED,0.3162,"[50, 482, 197, 157]"
+image_256.jpg,none_detected,0,
+image_322.jpg,FACE_FEMALE,0.4645,"[137, 47, 421, 444]"
+image_322.jpg,none_detected,0,
+image_65.jpg,FACE_MALE,0.4794,"[171, 162, 124, 121]"
+image_65.jpg,FACE_FEMALE,0.2808,"[337, 307, 142, 128]"
+image_65.jpg,FACE_FEMALE,0.251,"[360, 193, 126, 125]"
+image_65.jpg,none_detected,0,
+image_108.jpg,FACE_FEMALE,0.3342,"[118, 146, 308, 297]"
+image_108.jpg,none_detected,0,
+image_646.jpg,FACE_FEMALE,0.785,"[275, 0, 361, 295]"
+image_646.jpg,none_detected,0,
+image_1214.jpg,FACE_FEMALE,0.7489,"[276, 298, 131, 140]"
+image_1214.jpg,FEET_COVERED,0.2909,"[425, 119, 162, 165]"
+image_1214.jpg,none_detected,0,
+image_849.jpg,FEMALE_BREAST_COVERED,0.6098,"[530, 242, 55, 49]"
+image_849.jpg,FACE_FEMALE,0.5784,"[68, 265, 46, 43]"
+image_849.jpg,FEET_EXPOSED,0.523,"[209, 562, 60, 61]"
+image_849.jpg,FACE_MALE,0.5081,"[293, 288, 38, 39]"
+image_849.jpg,FACE_MALE,0.4851,"[531, 157, 48, 47]"
+image_849.jpg,FACE_MALE,0.4177,"[414, 209, 38, 36]"
+image_849.jpg,FEET_EXPOSED,0.4152,"[492, 557, 71, 59]"
+image_849.jpg,FACE_MALE,0.3912,"[476, 177, 41, 38]"
+image_849.jpg,FACE_MALE,0.3348,"[332, 176, 36, 38]"
+image_849.jpg,FEMALE_BREAST_COVERED,0.3192,"[102, 314, 54, 53]"
+image_849.jpg,ARMPITS_EXPOSED,0.3055,"[574, 237, 30, 32]"
+image_849.jpg,FACE_FEMALE,0.2762,"[218, 277, 37, 39]"
+image_849.jpg,FEMALE_BREAST_COVERED,0.2516,"[494, 237, 42, 49]"
+image_849.jpg,none_detected,0,
+image_685.jpg,FACE_FEMALE,0.8124,"[227, 193, 334, 322]"
+image_685.jpg,none_detected,0,
+image_1228.jpg,BUTTOCKS_EXPOSED,0.4071,"[533, 67, 106, 284]"
+image_1228.jpg,FACE_FEMALE,0.3883,"[52, 379, 44, 40]"
+image_1228.jpg,FEMALE_BREAST_COVERED,0.2815,"[65, 443, 60, 47]"
+image_1228.jpg,none_detected,0,
+image_687.jpg,FACE_MALE,0.3803,"[224, 355, 158, 131]"
+image_687.jpg,none_detected,0,
+image_1202.jpg,FACE_MALE,0.413,"[406, 127, 47, 51]"
+image_1202.jpg,none_detected,0,
+image_863.jpg,FACE_FEMALE,0.6282,"[72, 3, 565, 571]"
+image_863.jpg,none_detected,0,
+image_888.jpg,FACE_FEMALE,0.843,"[246, 151, 127, 124]"
+image_888.jpg,none_detected,0,
+image_1028.jpg,FACE_FEMALE,0.8596,"[141, 222, 376, 417]"
+image_1028.jpg,none_detected,0,
+image_1000.jpg,FACE_MALE,0.4238,"[443, 277, 61, 57]"
+image_1000.jpg,BUTTOCKS_COVERED,0.3481,"[371, 516, 147, 97]"
+image_1000.jpg,none_detected,0,
+image_67.jpg,FACE_FEMALE,0.8106,"[292, 74, 59, 61]"
+image_67.jpg,FEMALE_BREAST_COVERED,0.4905,"[256, 178, 66, 60]"
+image_67.jpg,FEMALE_BREAST_COVERED,0.3196,"[312, 181, 61, 62]"
+image_67.jpg,none_detected,0,
+image_1014.jpg,FACE_MALE,0.4238,"[443, 277, 61, 57]"
+image_1014.jpg,BUTTOCKS_COVERED,0.3481,"[371, 516, 147, 97]"
+image_1014.jpg,none_detected,0,
+image_334.jpg,FACE_FEMALE,0.7331,"[170, 370, 253, 212]"
+image_334.jpg,none_detected,0,
+image_452.jpg,FACE_MALE,0.4848,"[364, 304, 181, 155]"
+image_452.jpg,none_detected,0,
+image_320.jpg,FEET_COVERED,0.3076,"[348, 404, 79, 77]"
+image_320.jpg,none_detected,0,
+image_308.jpg,FACE_FEMALE,0.8267,"[295, 120, 59, 59]"
+image_308.jpg,FEET_COVERED,0.601,"[203, 484, 65, 85]"
+image_308.jpg,FEMALE_BREAST_COVERED,0.5401,"[305, 244, 72, 66]"
+image_308.jpg,FEMALE_BREAST_COVERED,0.3828,"[368, 235, 53, 56]"
+image_308.jpg,none_detected,0,
+image_283.jpg,FACE_FEMALE,0.7591,"[168, 199, 188, 178]"
+image_283.jpg,FEMALE_BREAST_COVERED,0.3816,"[263, 447, 171, 174]"
+image_283.jpg,none_detected,0,
+image_297.jpg,FACE_FEMALE,0.5686,"[452, 293, 48, 44]"
+image_297.jpg,FEET_COVERED,0.4611,"[377, 548, 56, 54]"
+image_297.jpg,none_detected,0,
+image_1174.jpg,FEMALE_BREAST_COVERED,0.6893,"[334, 252, 97, 96]"
+image_1174.jpg,FEMALE_BREAST_EXPOSED,0.521,"[235, 248, 101, 90]"
+image_1174.jpg,none_detected,0,
+image_532.jpg,FACE_FEMALE,0.5681,"[318, 116, 34, 32]"
+image_532.jpg,ARMPITS_EXPOSED,0.3653,"[345, 168, 20, 23]"
+image_532.jpg,BELLY_EXPOSED,0.328,"[310, 214, 46, 43]"
+image_532.jpg,FEMALE_BREAST_EXPOSED,0.3183,"[312, 168, 35, 36]"
+image_532.jpg,none_detected,0,
+image_254.jpg,FEET_COVERED,0.5271,"[199, 36, 74, 92]"
+image_254.jpg,none_detected,0,
+image_1404.jpg,FACE_FEMALE,0.3426,"[261, 92, 117, 117]"
+image_1404.jpg,FACE_FEMALE,0.3338,"[402, 429, 139, 131]"
+image_1404.jpg,FACE_MALE,0.251,"[28, 290, 91, 96]"
+image_1404.jpg,none_detected,0,
+image_718.jpg,FEET_EXPOSED,0.4178,"[558, 414, 53, 56]"
+image_718.jpg,FACE_FEMALE,0.4096,"[491, 117, 40, 32]"
+image_718.jpg,none_detected,0,
+image_719.jpg,FACE_FEMALE,0.6249,"[0, 73, 179, 426]"
+image_719.jpg,none_detected,0,
+image_725.jpg,FACE_FEMALE,0.7224,"[260, 216, 87, 81]"
+image_725.jpg,none_detected,0,
+image_1363.jpg,FACE_FEMALE,0.5631,"[306, 63, 60, 53]"
+image_1363.jpg,none_detected,0,
+image_1411.jpg,FACE_FEMALE,0.651,"[446, 345, 53, 49]"
+image_1411.jpg,FACE_FEMALE,0.476,"[165, 348, 47, 46]"
+image_1411.jpg,FACE_FEMALE,0.3961,"[294, 336, 49, 48]"
+image_1411.jpg,none_detected,0,
+image_902.jpg,FEMALE_GENITALIA_COVERED,0.2884,"[279, 593, 85, 46]"
+image_902.jpg,none_detected,0,
+image_1377.jpg,FACE_FEMALE,0.7943,"[101, 154, 74, 70]"
+image_1377.jpg,FACE_FEMALE,0.7308,"[517, 162, 94, 86]"
+image_1377.jpg,FACE_FEMALE,0.6936,"[401, 127, 85, 80]"
+image_1377.jpg,FACE_FEMALE,0.6631,"[247, 94, 136, 136]"
+image_1377.jpg,FACE_FEMALE,0.6211,"[12, 177, 77, 76]"
+image_1377.jpg,FACE_FEMALE,0.5405,"[201, 154, 72, 69]"
+image_1377.jpg,FEMALE_BREAST_COVERED,0.3867,"[543, 330, 95, 102]"
+image_1377.jpg,none_detected,0,
+image_1439.jpg,FACE_MALE,0.7868,"[319, 135, 66, 63]"
+image_1439.jpg,none_detected,0,
+image_269.jpg,FACE_FEMALE,0.5594,"[256, 135, 106, 102]"
+image_269.jpg,none_detected,0,
+image_255.jpg,FACE_FEMALE,0.8658,"[260, 160, 176, 172]"
+image_255.jpg,none_detected,0,
+image_241.jpg,FACE_FEMALE,0.4718,"[430, 507, 50, 51]"
+image_241.jpg,FACE_MALE,0.419,"[460, 123, 59, 60]"
+image_241.jpg,FACE_FEMALE,0.2648,"[484, 448, 52, 52]"
+image_241.jpg,none_detected,0,
+image_527.jpg,FACE_FEMALE,0.4555,"[166, 182, 314, 379]"
+image_527.jpg,none_detected,0,
+image_296.jpg,FACE_FEMALE,0.7023,"[48, 196, 106, 98]"
+image_296.jpg,FACE_FEMALE,0.3942,"[416, 150, 161, 140]"
+image_296.jpg,none_detected,0,
+image_1149.jpg,FEMALE_BREAST_COVERED,0.3733,"[177, 289, 149, 131]"
+image_1149.jpg,FACE_FEMALE,0.2518,"[289, 128, 127, 133]"
+image_1149.jpg,none_detected,0,
+image_309.jpg,FACE_MALE,0.4056,"[120, 441, 98, 91]"
+image_309.jpg,none_detected,0,
+image_66.jpg,FACE_FEMALE,0.7299,"[248, 101, 153, 144]"
+image_66.jpg,none_detected,0,
+image_72.jpg,FACE_FEMALE,0.6476,"[278, 132, 105, 116]"
+image_72.jpg,none_detected,0,
+image_1029.jpg,FACE_FEMALE,0.8085,"[193, 221, 173, 178]"
+image_1029.jpg,FEMALE_BREAST_COVERED,0.2927,"[163, 483, 164, 156]"
+image_1029.jpg,none_detected,0,
+image_679.jpg,FEET_COVERED,0.3076,"[552, 574, 42, 34]"
+image_679.jpg,none_detected,0,
+image_645.jpg,FACE_MALE,0.5157,"[227, 246, 60, 60]"
+image_645.jpg,none_detected,0,
+image_651.jpg,FACE_FEMALE,0.4562,"[129, 121, 392, 444]"
+image_651.jpg,none_detected,0,
+image_889.jpg,FEMALE_BREAST_COVERED,0.7218,"[161, 383, 62, 64]"
+image_889.jpg,FACE_FEMALE,0.6999,"[221, 295, 59, 61]"
+image_889.jpg,FEMALE_BREAST_COVERED,0.6225,"[208, 403, 60, 62]"
+image_889.jpg,ARMPITS_EXPOSED,0.4406,"[163, 372, 30, 31]"
+image_889.jpg,none_detected,0,
+image_1232.jpg,FACE_FEMALE,0.6837,"[84, 243, 450, 333]"
+image_1232.jpg,none_detected,0,
+image_57.jpg,FACE_FEMALE,0.7639,"[193, 404, 197, 173]"
+image_57.jpg,none_detected,0,
+image_1024.jpg,FACE_FEMALE,0.341,"[105, 404, 70, 65]"
+image_1024.jpg,none_detected,0,
+image_43.jpg,FACE_MALE,0.5972,"[258, 225, 150, 169]"
+image_43.jpg,none_detected,0,
+image_338.jpg,FACE_FEMALE,0.8021,"[185, 168, 169, 187]"
+image_338.jpg,FEMALE_BREAST_COVERED,0.4081,"[299, 549, 185, 90]"
+image_338.jpg,none_detected,0,
+image_476.jpg,FEMALE_GENITALIA_COVERED,0.3056,"[351, 318, 24, 23]"
+image_476.jpg,BELLY_EXPOSED,0.2524,"[301, 304, 53, 49]"
+image_476.jpg,none_detected,0,
+image_310.jpg,FACE_FEMALE,0.283,"[522, 524, 90, 108]"
+image_310.jpg,none_detected,0,
+image_1150.jpg,FACE_FEMALE,0.8302,"[227, 174, 330, 379]"
+image_1150.jpg,none_detected,0,
+image_502.jpg,FACE_FEMALE,0.5949,"[188, 190, 33, 32]"
+image_502.jpg,none_detected,0,
+image_1352.jpg,FEET_COVERED,0.4041,"[467, 528, 103, 108]"
+image_1352.jpg,FACE_FEMALE,0.36,"[356, 193, 87, 78]"
+image_1352.jpg,none_detected,0,
+image_1434.jpg,FEET_COVERED,0.5678,"[171, 539, 91, 99]"
+image_1434.jpg,FACE_FEMALE,0.4372,"[202, 44, 60, 59]"
+image_1434.jpg,FEET_COVERED,0.2988,"[293, 540, 119, 98]"
+image_1434.jpg,none_detected,0,
+image_728.jpg,BUTTOCKS_EXPOSED,0.4891,"[0, 0, 615, 613]"
+image_728.jpg,none_detected,0,
+image_700.jpg,FACE_MALE,0.7894,"[125, 210, 89, 99]"
+image_700.jpg,FACE_MALE,0.6984,"[274, 258, 107, 103]"
+image_700.jpg,FACE_FEMALE,0.6283,"[0, 245, 84, 121]"
+image_700.jpg,FACE_MALE,0.6065,"[555, 227, 84, 100]"
+image_700.jpg,FACE_FEMALE,0.4066,"[419, 206, 97, 92]"
+image_700.jpg,none_detected,0,
+image_1409.jpg,FACE_FEMALE,0.5789,"[0, 214, 201, 282]"
+image_1409.jpg,none_detected,0,
+image_1347.jpg,FACE_MALE,0.5448,"[354, 236, 62, 64]"
+image_1347.jpg,none_detected,0,
+image_1435.jpg,FEET_COVERED,0.495,"[333, 523, 66, 71]"
+image_1435.jpg,none_detected,0,
+image_271.jpg,FACE_FEMALE,0.762,"[474, 52, 88, 83]"
+image_271.jpg,BELLY_COVERED,0.2522,"[438, 274, 139, 115]"
+image_271.jpg,none_detected,0,
+image_1186.jpg,FACE_FEMALE,0.3119,"[357, 186, 46, 42]"
+image_1186.jpg,FACE_MALE,0.3083,"[416, 110, 71, 64]"
+image_1186.jpg,none_detected,0,
+image_1192.jpg,FACE_FEMALE,0.8527,"[239, 153, 160, 167]"
+image_1192.jpg,FEMALE_BREAST_COVERED,0.4449,"[170, 422, 165, 136]"
+image_1192.jpg,FEMALE_BREAST_COVERED,0.3308,"[316, 443, 169, 167]"
+image_1192.jpg,none_detected,0,
+image_3.jpg,FACE_FEMALE,0.6115,"[240, 245, 148, 147]"
+image_3.jpg,none_detected,0,
+image_675.jpg,FACE_FEMALE,0.3082,"[261, 278, 29, 32]"
+image_675.jpg,none_detected,0,
+image_891.jpg,FACE_FEMALE,0.7959,"[0, 0, 266, 316]"
+image_891.jpg,FACE_FEMALE,0.6049,"[0, 363, 160, 227]"
+image_891.jpg,none_detected,0,
+image_1227.jpg,FACE_FEMALE,0.8196,"[228, 160, 179, 165]"
+image_1227.jpg,FEMALE_BREAST_COVERED,0.6624,"[136, 424, 136, 180]"
+image_1227.jpg,FEMALE_BREAST_COVERED,0.5557,"[226, 475, 205, 164]"
+image_1227.jpg,none_detected,0,
+image_844.jpg,FACE_MALE,0.7489,"[95, 151, 71, 70]"
+image_844.jpg,FACE_MALE,0.6836,"[357, 163, 63, 60]"
+image_844.jpg,FACE_MALE,0.6615,"[285, 160, 67, 70]"
+image_844.jpg,FACE_FEMALE,0.6289,"[240, 335, 75, 73]"
+image_844.jpg,FACE_MALE,0.5128,"[471, 130, 80, 83]"
+image_844.jpg,FACE_FEMALE,0.4195,"[533, 275, 90, 100]"
+image_844.jpg,none_detected,0,
+image_663.jpg,FACE_FEMALE,0.5517,"[283, 443, 83, 78]"
+image_663.jpg,FACE_FEMALE,0.5005,"[477, 142, 88, 91]"
+image_663.jpg,none_detected,0,
+image_677.jpg,FACE_FEMALE,0.4906,"[373, 317, 175, 167]"
+image_677.jpg,none_detected,0,
+image_111.jpg,FACE_FEMALE,0.4429,"[490, 84, 59, 60]"
+image_111.jpg,FEET_COVERED,0.2651,"[345, 530, 85, 83]"
+image_111.jpg,none_detected,0,
+image_1033.jpg,FACE_FEMALE,0.8065,"[108, 126, 429, 477]"
+image_1033.jpg,MALE_GENITALIA_EXPOSED,0.4429,"[448, 298, 186, 289]"
+image_1033.jpg,none_detected,0,
+image_461.jpg,FEET_COVERED,0.4909,"[94, 529, 81, 68]"
+image_461.jpg,none_detected,0,
+image_313.jpg,FACE_FEMALE,0.3169,"[158, 142, 47, 53]"
+image_313.jpg,FEET_COVERED,0.2947,"[176, 477, 67, 92]"
+image_313.jpg,FEET_COVERED,0.2708,"[72, 489, 73, 104]"
+image_313.jpg,none_detected,0,
+image_475.jpg,FACE_FEMALE,0.8647,"[107, 304, 137, 136]"
+image_475.jpg,FACE_FEMALE,0.8386,"[399, 307, 135, 132]"
+image_475.jpg,none_detected,0,
+image_1147.jpg,FACE_MALE,0.6473,"[317, 235, 55, 52]"
+image_1147.jpg,none_detected,0,
+image_529.jpg,FEMALE_BREAST_COVERED,0.6595,"[246, 207, 68, 67]"
+image_529.jpg,FACE_FEMALE,0.6353,"[283, 131, 66, 61]"
+image_529.jpg,FEET_COVERED,0.4213,"[384, 503, 117, 124]"
+image_529.jpg,FEET_COVERED,0.4101,"[200, 477, 60, 73]"
+image_529.jpg,FEMALE_BREAST_COVERED,0.4043,"[302, 212, 63, 58]"
+image_529.jpg,none_detected,0,
+image_1184.jpg,FACE_FEMALE,0.7497,"[186, 157, 267, 258]"
+image_1184.jpg,FEMALE_BREAST_EXPOSED,0.2556,"[141, 469, 157, 165]"
+image_1184.jpg,none_detected,0,
+image_1190.jpg,FACE_FEMALE,0.7359,"[392, 471, 81, 74]"
+image_1190.jpg,none_detected,0,
+image_515.jpg,FACE_FEMALE,0.4274,"[124, 125, 400, 467]"
+image_515.jpg,none_detected,0,
+image_930.jpg,FACE_FEMALE,0.8117,"[287, 282, 113, 110]"
+image_930.jpg,none_detected,0,
+image_1392.jpg,FACE_FEMALE,0.4763,"[211, 214, 62, 59]"
+image_1392.jpg,FACE_FEMALE,0.2898,"[354, 190, 79, 72]"
+image_1392.jpg,none_detected,0,
+image_703.jpg,FEMALE_BREAST_EXPOSED,0.4873,"[312, 553, 222, 86]"
+image_703.jpg,none_detected,0,
+image_702.jpg,FACE_FEMALE,0.5089,"[117, 138, 331, 305]"
+image_702.jpg,none_detected,0,
+image_919.jpg,FEET_COVERED,0.2942,"[213, 566, 64, 58]"
+image_919.jpg,none_detected,0,
+image_1344.jpg,FACE_FEMALE,0.8297,"[429, 90, 91, 95]"
+image_1344.jpg,FACE_MALE,0.5574,"[163, 189, 63, 57]"
+image_1344.jpg,FEMALE_BREAST_COVERED,0.4368,"[476, 245, 109, 99]"
+image_1344.jpg,FEMALE_BREAST_COVERED,0.3039,"[151, 295, 59, 59]"
+image_1344.jpg,FEMALE_BREAST_COVERED,0.2724,"[367, 261, 112, 110]"
+image_1344.jpg,none_detected,0,
+image_1422.jpg,FACE_FEMALE,0.8928,"[0, 0, 612, 640]"
+image_1422.jpg,none_detected,0,
+image_931.jpg,FACE_FEMALE,0.6891,"[372, 156, 159, 147]"
+image_931.jpg,FACE_FEMALE,0.3591,"[215, 141, 153, 140]"
+image_931.jpg,none_detected,0,
+image_1185.jpg,FACE_FEMALE,0.8031,"[213, 107, 196, 196]"
+image_1185.jpg,ARMPITS_EXPOSED,0.6008,"[175, 434, 83, 96]"
+image_1185.jpg,none_detected,0,
+image_1146.jpg,FEMALE_BREAST_COVERED,0.4564,"[340, 197, 107, 109]"
+image_1146.jpg,FEMALE_BREAST_COVERED,0.3156,"[241, 224, 117, 104]"
+image_1146.jpg,none_detected,0,
+image_312.jpg,FACE_FEMALE,0.3177,"[199, 274, 66, 54]"
+image_312.jpg,none_detected,0,
+image_474.jpg,FACE_FEMALE,0.7849,"[144, 146, 357, 416]"
+image_474.jpg,none_detected,0,
+image_460.jpg,FACE_FEMALE,0.6125,"[244, 115, 138, 151]"
+image_460.jpg,none_detected,0,
+image_0.jpg,FACE_FEMALE,0.7751,"[143, 328, 280, 217]"
+image_0.jpg,none_detected,0,
+image_55.jpg,FACE_MALE,0.3734,"[301, 59, 51, 48]"
+image_55.jpg,FEET_COVERED,0.3591,"[245, 440, 72, 72]"
+image_55.jpg,FEET_COVERED,0.3139,"[297, 445, 74, 71]"
+image_55.jpg,none_detected,0,
+image_1032.jpg,FACE_FEMALE,0.8225,"[71, 127, 342, 317]"
+image_1032.jpg,none_detected,0,
+image_104.jpg,FACE_FEMALE,0.705,"[350, 155, 86, 75]"
+image_104.jpg,none_detected,0,
+image_662.jpg,FACE_FEMALE,0.3631,"[331, 270, 133, 130]"
+image_662.jpg,none_detected,0,
+image_892.jpg,FACE_FEMALE,0.8355,"[127, 198, 397, 391]"
+image_892.jpg,none_detected,0,
+image_879.jpg,FACE_FEMALE,0.6244,"[23, 305, 59, 54]"
+image_879.jpg,FACE_FEMALE,0.4552,"[549, 262, 60, 59]"
+image_879.jpg,none_detected,0,
+image_851.jpg,FACE_FEMALE,0.6719,"[254, 218, 127, 107]"
+image_851.jpg,none_detected,0,
+image_1230.jpg,BELLY_EXPOSED,0.4051,"[279, 309, 67, 66]"
+image_1230.jpg,FEMALE_BREAST_EXPOSED,0.3513,"[318, 259, 47, 49]"
+image_1230.jpg,FACE_FEMALE,0.3209,"[300, 158, 60, 58]"
+image_1230.jpg,none_detected,0,
+image_855.jpg,FACE_FEMALE,0.5201,"[236, 281, 37, 37]"
+image_855.jpg,none_detected,0,
+image_114.jpg,FEET_EXPOSED,0.3814,"[232, 411, 229, 152]"
+image_114.jpg,FEET_COVERED,0.3289,"[353, 322, 250, 141]"
+image_114.jpg,none_detected,0,
+image_672.jpg,FACE_FEMALE,0.6281,"[433, 111, 95, 96]"
+image_672.jpg,FACE_FEMALE,0.3626,"[346, 330, 84, 87]"
+image_672.jpg,none_detected,0,
+image_896.jpg,FACE_FEMALE,0.7359,"[68, 34, 214, 222]"
+image_896.jpg,none_detected,0,
+image_1036.jpg,BUTTOCKS_EXPOSED,0.4414,"[31, 57, 575, 528]"
+image_1036.jpg,none_detected,0,
+image_302.jpg,FACE_FEMALE,0.8557,"[180, 90, 285, 311]"
+image_302.jpg,none_detected,0,
+image_464.jpg,FACE_FEMALE,0.6856,"[216, 184, 144, 156]"
+image_464.jpg,none_detected,0,
+image_470.jpg,FACE_FEMALE,0.3643,"[435, 308, 31, 33]"
+image_470.jpg,none_detected,0,
+image_92.jpg,FACE_MALE,0.2864,"[111, 138, 65, 56]"
+image_92.jpg,none_detected,0,
+image_1142.jpg,FACE_FEMALE,0.3439,"[204, 163, 207, 209]"
+image_1142.jpg,none_detected,0,
+image_1156.jpg,FACE_FEMALE,0.5306,"[182, 198, 286, 308]"
+image_1156.jpg,none_detected,0,
+image_276.jpg,FACE_FEMALE,0.4546,"[283, 358, 40, 37]"
+image_276.jpg,none_detected,0,
+image_504.jpg,FEET_COVERED,0.3921,"[358, 423, 44, 39]"
+image_504.jpg,none_detected,0,
+image_262.jpg,FACE_FEMALE,0.5418,"[183, 302, 76, 71]"
+image_262.jpg,none_detected,0,
+image_538.jpg,FACE_FEMALE,0.6869,"[257, 235, 42, 47]"
+image_538.jpg,none_detected,0,
+image_1195.jpg,FACE_FEMALE,0.3367,"[303, 314, 77, 69]"
+image_1195.jpg,none_detected,0,
+image_909.jpg,FACE_FEMALE,0.4802,"[232, 187, 192, 188]"
+image_909.jpg,none_detected,0,
+image_935.jpg,FEET_COVERED,0.6654,"[188, 511, 91, 116]"
+image_935.jpg,FACE_FEMALE,0.4711,"[255, 162, 80, 82]"
+image_935.jpg,FEMALE_BREAST_COVERED,0.4565,"[315, 274, 84, 73]"
+image_935.jpg,BELLY_EXPOSED,0.4387,"[272, 354, 99, 77]"
+image_935.jpg,FEET_COVERED,0.34,"[382, 499, 88, 131]"
+image_935.jpg,FEMALE_BREAST_COVERED,0.2655,"[238, 282, 82, 80]"
+image_935.jpg,none_detected,0,
+image_1426.jpg,FACE_FEMALE,0.4528,"[378, 86, 114, 133]"
+image_1426.jpg,BELLY_EXPOSED,0.3174,"[397, 364, 140, 146]"
+image_1426.jpg,FACE_MALE,0.2822,"[120, 381, 100, 103]"
+image_1426.jpg,none_detected,0,
+image_1340.jpg,FACE_FEMALE,0.7499,"[266, 124, 113, 95]"
+image_1340.jpg,none_detected,0,
+image_921.jpg,FACE_FEMALE,0.3234,"[484, 388, 49, 50]"
+image_921.jpg,none_detected,0,
+image_1397.jpg,FACE_MALE,0.5562,"[365, 139, 120, 114]"
+image_1397.jpg,FACE_MALE,0.3431,"[144, 128, 129, 123]"
+image_1397.jpg,none_detected,0,
+image_713.jpg,FEET_COVERED,0.3381,"[129, 457, 73, 70]"
+image_713.jpg,none_detected,0,
+image_1355.jpg,FACE_FEMALE,0.7178,"[252, 171, 184, 176]"
+image_1355.jpg,none_detected,0,
+image_1433.jpg,FACE_FEMALE,0.7744,"[105, 80, 49, 48]"
+image_1433.jpg,FACE_FEMALE,0.6982,"[467, 263, 55, 54]"
+image_1433.jpg,FACE_FEMALE,0.687,"[273, 124, 46, 41]"
+image_1433.jpg,FACE_FEMALE,0.5761,"[407, 106, 38, 39]"
+image_1433.jpg,FACE_FEMALE,0.5377,"[308, 256, 52, 48]"
+image_1433.jpg,FEMALE_BREAST_EXPOSED,0.5322,"[141, 163, 45, 49]"
+image_1433.jpg,FACE_FEMALE,0.3812,"[464, 80, 45, 48]"
+image_1433.jpg,FEMALE_BREAST_COVERED,0.3032,"[248, 201, 45, 50]"
+image_1433.jpg,FEMALE_BREAST_EXPOSED,0.2865,"[91, 156, 55, 52]"
+image_1433.jpg,none_detected,0,
+image_1427.jpg,FACE_FEMALE,0.6161,"[275, 287, 51, 48]"
+image_1427.jpg,FACE_MALE,0.5092,"[141, 169, 57, 48]"
+image_1427.jpg,FACE_MALE,0.4643,"[339, 151, 58, 48]"
+image_1427.jpg,FACE_FEMALE,0.363,"[422, 296, 59, 53]"
+image_1427.jpg,FEMALE_BREAST_COVERED,0.297,"[378, 384, 73, 59]"
+image_1427.jpg,none_detected,0,
+image_1341.jpg,FACE_MALE,0.3262,"[355, 260, 84, 72]"
+image_1341.jpg,none_detected,0,
+image_908.jpg,FACE_FEMALE,0.2745,"[0, 197, 251, 263]"
+image_908.jpg,none_detected,0,
+image_1194.jpg,FACE_FEMALE,0.2541,"[292, 182, 55, 51]"
+image_1194.jpg,none_detected,0,
+image_1180.jpg,FEET_COVERED,0.2598,"[91, 506, 173, 96]"
+image_1180.jpg,none_detected,0,
+image_505.jpg,FACE_MALE,0.7742,"[244, 182, 61, 52]"
+image_505.jpg,FACE_MALE,0.4998,"[169, 178, 61, 54]"
+image_505.jpg,FACE_FEMALE,0.3097,"[428, 321, 40, 34]"
+image_505.jpg,none_detected,0,
+image_263.jpg,FACE_FEMALE,0.6827,"[392, 157, 53, 59]"
+image_263.jpg,none_detected,0,
+image_277.jpg,FACE_FEMALE,0.8762,"[211, 122, 191, 181]"
+image_277.jpg,none_detected,0,
+image_1143.jpg,FEET_COVERED,0.7202,"[331, 481, 58, 68]"
+image_1143.jpg,FEET_COVERED,0.5768,"[255, 495, 58, 57]"
+image_1143.jpg,none_detected,0,
+image_459.jpg,FACE_FEMALE,0.305,"[21, 193, 164, 168]"
+image_459.jpg,none_detected,0,
+image_303.jpg,FACE_FEMALE,0.5816,"[392, 345, 62, 62]"
+image_303.jpg,none_detected,0,
+image_465.jpg,FACE_FEMALE,0.6309,"[288, 253, 247, 306]"
+image_465.jpg,none_detected,0,
+image_5.jpg,FACE_FEMALE,0.63,"[128, 119, 381, 405]"
+image_5.jpg,none_detected,0,
+image_1023.jpg,FACE_MALE,0.3862,"[300, 249, 43, 49]"
+image_1023.jpg,none_detected,0,
+image_1037.jpg,FACE_FEMALE,0.8881,"[293, 128, 269, 282]"
+image_1037.jpg,none_detected,0,
+image_44.jpg,FACE_FEMALE,0.7299,"[112, 185, 315, 366]"
+image_44.jpg,none_detected,0,
+image_883.jpg,FACE_FEMALE,0.8057,"[260, 103, 88, 88]"
+image_883.jpg,FEMALE_BREAST_COVERED,0.6145,"[297, 248, 95, 95]"
+image_883.jpg,FEMALE_BREAST_COVERED,0.5131,"[229, 242, 81, 89]"
+image_883.jpg,ARMPITS_EXPOSED,0.4889,"[384, 242, 39, 54]"
+image_883.jpg,BELLY_EXPOSED,0.2771,"[258, 334, 91, 98]"
+image_883.jpg,none_detected,0,
+image_115.jpg,FACE_FEMALE,0.7818,"[310, 141, 137, 135]"
+image_115.jpg,none_detected,0,
+image_673.jpg,FACE_FEMALE,0.8112,"[140, 136, 364, 316]"
+image_673.jpg,none_detected,0,
+image_667.jpg,FACE_MALE,0.3924,"[343, 165, 67, 61]"
+image_667.jpg,none_detected,0,
+image_854.jpg,FACE_FEMALE,0.6253,"[450, 190, 104, 114]"
+image_854.jpg,none_detected,0,
+image_856.jpg,FACE_FEMALE,0.7792,"[173, 291, 286, 321]"
+image_856.jpg,none_detected,0,
+image_665.jpg,FEET_EXPOSED,0.2618,"[440, 135, 58, 86]"
+image_665.jpg,none_detected,0,
+image_1009.jpg,FACE_FEMALE,0.754,"[156, 160, 232, 231]"
+image_1009.jpg,none_detected,0,
+image_1021.jpg,FACE_FEMALE,0.8007,"[379, 168, 71, 69]"
+image_1021.jpg,FACE_FEMALE,0.7945,"[173, 196, 76, 73]"
+image_1021.jpg,FEMALE_BREAST_COVERED,0.3111,"[143, 333, 58, 65]"
+image_1021.jpg,none_detected,0,
+image_52.jpg,FACE_FEMALE,0.8569,"[115, 376, 178, 197]"
+image_52.jpg,FACE_FEMALE,0.8026,"[113, 103, 182, 200]"
+image_52.jpg,none_detected,0,
+image_498.jpg,FACE_FEMALE,0.3091,"[219, 313, 45, 51]"
+image_498.jpg,none_detected,0,
+image_1035.jpg,FACE_MALE,0.7123,"[346, 294, 57, 48]"
+image_1035.jpg,FEET_COVERED,0.6472,"[92, 389, 101, 76]"
+image_1035.jpg,FEET_COVERED,0.4077,"[124, 557, 108, 66]"
+image_1035.jpg,none_detected,0,
+image_467.jpg,FACE_FEMALE,0.8493,"[349, 123, 151, 148]"
+image_467.jpg,FEMALE_BREAST_COVERED,0.4975,"[312, 389, 125, 148]"
+image_467.jpg,none_detected,0,
+image_329.jpg,FACE_FEMALE,0.7042,"[268, 88, 108, 114]"
+image_329.jpg,none_detected,0,
+image_1169.jpg,FACE_FEMALE,0.4589,"[378, 87, 154, 148]"
+image_1169.jpg,none_detected,0,
+image_1155.jpg,FACE_FEMALE,0.7538,"[413, 210, 95, 94]"
+image_1155.jpg,FEMALE_BREAST_COVERED,0.3428,"[398, 376, 80, 77]"
+image_1155.jpg,BELLY_COVERED,0.327,"[397, 472, 139, 104]"
+image_1155.jpg,none_detected,0,
+image_507.jpg,FACE_FEMALE,0.7475,"[202, 246, 48, 48]"
+image_507.jpg,ARMPITS_EXPOSED,0.2635,"[248, 299, 24, 36]"
+image_507.jpg,none_detected,0,
+image_1357.jpg,FACE_FEMALE,0.6995,"[266, 121, 124, 107]"
+image_1357.jpg,FACE_MALE,0.6969,"[164, 201, 91, 78]"
+image_1357.jpg,none_detected,0,
+image_1380.jpg,FACE_FEMALE,0.8672,"[480, 297, 113, 102]"
+image_1380.jpg,FACE_FEMALE,0.7989,"[72, 316, 119, 108]"
+image_1380.jpg,none_detected,0,
+image_1381.jpg,FACE_FEMALE,0.7909,"[63, 170, 223, 219]"
+image_1381.jpg,none_detected,0,
+image_738.jpg,FACE_FEMALE,0.678,"[328, 155, 94, 97]"
+image_738.jpg,none_detected,0,
+image_1418.jpg,FACE_FEMALE,0.8326,"[167, 192, 109, 107]"
+image_1418.jpg,FACE_FEMALE,0.8142,"[398, 171, 106, 104]"
+image_1418.jpg,none_detected,0,
+image_512.jpg,FACE_FEMALE,0.6769,"[176, 334, 40, 38]"
+image_512.jpg,FACE_FEMALE,0.5312,"[416, 331, 38, 37]"
+image_512.jpg,FACE_MALE,0.4939,"[293, 298, 43, 47]"
+image_512.jpg,FACE_FEMALE,0.2993,"[67, 353, 32, 33]"
+image_512.jpg,FEET_COVERED,0.2525,"[16, 555, 46, 48]"
+image_512.jpg,none_detected,0,
+image_260.jpg,FACE_FEMALE,0.5683,"[362, 197, 151, 166]"
+image_260.jpg,none_detected,0,
+image_1168.jpg,FACE_FEMALE,0.7736,"[217, 233, 238, 243]"
+image_1168.jpg,none_detected,0,
+image_84.jpg,FACE_FEMALE,0.6317,"[418, 173, 28, 31]"
+image_84.jpg,FEET_COVERED,0.4073,"[475, 470, 45, 40]"
+image_84.jpg,none_detected,0,
+image_328.jpg,FACE_FEMALE,0.5177,"[382, 174, 40, 38]"
+image_328.jpg,none_detected,0,
+image_1034.jpg,FACE_FEMALE,0.5643,"[126, 154, 368, 406]"
+image_1034.jpg,none_detected,0,
+image_1020.jpg,FEET_COVERED,0.3887,"[298, 525, 58, 78]"
+image_1020.jpg,none_detected,0,
+image_1008.jpg,FACE_FEMALE,0.4961,"[249, 154, 181, 179]"
+image_1008.jpg,none_detected,0,
+image_880.jpg,FACE_FEMALE,0.5134,"[224, 110, 77, 76]"
+image_880.jpg,FACE_MALE,0.444,"[489, 207, 80, 82]"
+image_880.jpg,FACE_MALE,0.3437,"[60, 84, 69, 70]"
+image_880.jpg,none_detected,0,
+image_102.jpg,FACE_FEMALE,0.8617,"[128, 153, 285, 325]"
+image_102.jpg,FEMALE_BREAST_EXPOSED,0.572,"[437, 521, 202, 118]"
+image_102.jpg,none_detected,0,
+image_116.jpg,BUTTOCKS_COVERED,0.3335,"[264, 248, 111, 79]"
+image_116.jpg,none_detected,0,
+image_857.jpg,FACE_FEMALE,0.3183,"[259, 110, 52, 52]"
+image_857.jpg,none_detected,0,
+image_830.jpg,BUTTOCKS_EXPOSED,0.3716,"[369, 423, 91, 100]"
+image_830.jpg,none_detected,0,
+image_1251.jpg,FACE_FEMALE,0.6411,"[178, 191, 146, 144]"
+image_1251.jpg,FEMALE_BREAST_COVERED,0.5307,"[155, 452, 168, 151]"
+image_1251.jpg,FEMALE_BREAST_COVERED,0.5067,"[302, 450, 154, 155]"
+image_1251.jpg,FEMALE_BREAST_COVERED,0.2866,"[373, 327, 119, 121]"
+image_1251.jpg,none_detected,0,
+image_1286.jpg,FACE_FEMALE,0.6054,"[213, 341, 238, 206]"
+image_1286.jpg,none_detected,0,
+image_159.jpg,FACE_FEMALE,0.2589,"[374, 264, 106, 109]"
+image_159.jpg,none_detected,0,
+image_171.jpg,FACE_MALE,0.5878,"[266, 275, 68, 70]"
+image_171.jpg,FACE_FEMALE,0.585,"[483, 277, 93, 93]"
+image_171.jpg,FACE_FEMALE,0.334,"[73, 259, 90, 91]"
+image_171.jpg,none_detected,0,
+image_165.jpg,FEET_COVERED,0.311,"[537, 147, 77, 57]"
+image_165.jpg,none_detected,0,
+image_1053.jpg,FEET_COVERED,0.6308,"[415, 540, 77, 98]"
+image_1053.jpg,none_detected,0,
+image_429.jpg,FACE_FEMALE,0.359,"[274, 201, 123, 111]"
+image_429.jpg,none_detected,0,
+image_373.jpg,FACE_FEMALE,0.6995,"[269, 220, 154, 152]"
+image_373.jpg,none_detected,0,
+image_415.jpg,FACE_FEMALE,0.3541,"[63, 8, 563, 619]"
+image_415.jpg,none_detected,0,
+image_401.jpg,FACE_FEMALE,0.8011,"[232, 140, 144, 136]"
+image_401.jpg,none_detected,0,
+image_1133.jpg,FACE_FEMALE,0.8198,"[286, 202, 77, 84]"
+image_1133.jpg,none_detected,0,
+image_575.jpg,FACE_FEMALE,0.735,"[286, 138, 56, 60]"
+image_575.jpg,FEET_COVERED,0.6518,"[164, 471, 90, 100]"
+image_575.jpg,FEET_COVERED,0.5751,"[368, 497, 89, 107]"
+image_575.jpg,none_detected,0,
+image_213.jpg,ARMPITS_EXPOSED,0.587,"[212, 187, 44, 41]"
+image_213.jpg,none_detected,0,
+image_1457.jpg,FACE_FEMALE,0.8287,"[114, 226, 164, 149]"
+image_1457.jpg,FACE_FEMALE,0.8272,"[383, 235, 157, 143]"
+image_1457.jpg,none_detected,0,
+image_1443.jpg,FEMALE_BREAST_COVERED,0.6043,"[437, 429, 80, 76]"
+image_1443.jpg,FEMALE_BREAST_COVERED,0.6019,"[383, 430, 66, 67]"
+image_1443.jpg,FACE_MALE,0.4479,"[397, 318, 76, 80]"
+image_1443.jpg,none_detected,0,
+image_950.jpg,FACE_FEMALE,0.2967,"[270, 393, 115, 93]"
+image_950.jpg,none_detected,0,
+image_788.jpg,FACE_FEMALE,0.6403,"[325, 181, 40, 46]"
+image_788.jpg,FEET_COVERED,0.457,"[360, 483, 69, 101]"
+image_788.jpg,none_detected,0,
+image_987.jpg,FACE_FEMALE,0.5761,"[231, 204, 154, 149]"
+image_987.jpg,none_detected,0,
+image_993.jpg,FACE_FEMALE,0.3883,"[67, 438, 237, 171]"
+image_993.jpg,none_detected,0,
+image_776.jpg,FACE_FEMALE,0.8536,"[316, 172, 140, 145]"
+image_776.jpg,none_detected,0,
+image_762.jpg,FEET_COVERED,0.6996,"[485, 418, 83, 86]"
+image_762.jpg,FEET_COVERED,0.4676,"[444, 358, 70, 85]"
+image_762.jpg,none_detected,0,
+image_1481.jpg,FACE_FEMALE,0.7527,"[339, 286, 86, 84]"
+image_1481.jpg,FEMALE_BREAST_COVERED,0.6435,"[309, 417, 89, 97]"
+image_1481.jpg,FEMALE_BREAST_COVERED,0.6019,"[377, 411, 94, 91]"
+image_1481.jpg,FACE_FEMALE,0.5283,"[198, 259, 115, 105]"
+image_1481.jpg,none_detected,0,
+image_1495.jpg,FACE_FEMALE,0.4327,"[276, 156, 117, 121]"
+image_1495.jpg,none_detected,0,
+image_1318.jpg,FACE_MALE,0.7538,"[457, 234, 50, 47]"
+image_1318.jpg,FACE_MALE,0.6733,"[349, 247, 46, 40]"
+image_1318.jpg,FACE_MALE,0.6222,"[146, 220, 54, 48]"
+image_1318.jpg,FACE_MALE,0.5211,"[270, 373, 56, 53]"
+image_1318.jpg,FEET_COVERED,0.5016,"[108, 526, 64, 66]"
+image_1318.jpg,FACE_MALE,0.492,"[272, 258, 50, 44]"
+image_1318.jpg,FACE_MALE,0.4391,"[389, 338, 54, 45]"
+image_1318.jpg,FEET_COVERED,0.2552,"[173, 505, 71, 65]"
+image_1318.jpg,none_detected,0,
+image_1324.jpg,FACE_FEMALE,0.7574,"[266, 120, 124, 123]"
+image_1324.jpg,none_detected,0,
+image_945.jpg,FACE_FEMALE,0.7683,"[238, 98, 97, 86]"
+image_945.jpg,FEMALE_BREAST_COVERED,0.5452,"[296, 256, 122, 112]"
+image_945.jpg,none_detected,0,
+image_212.jpg,FEMALE_BREAST_COVERED,0.3209,"[290, 161, 84, 79]"
+image_212.jpg,BELLY_EXPOSED,0.2605,"[248, 237, 114, 83]"
+image_212.jpg,none_detected,0,
+image_206.jpg,FACE_FEMALE,0.5963,"[53, 212, 57, 55]"
+image_206.jpg,FACE_MALE,0.5692,"[547, 236, 51, 46]"
+image_206.jpg,none_detected,0,
+image_560.jpg,FACE_FEMALE,0.618,"[257, 122, 127, 127]"
+image_560.jpg,ARMPITS_EXPOSED,0.5677,"[394, 326, 51, 66]"
+image_560.jpg,FEMALE_BREAST_EXPOSED,0.5297,"[286, 342, 140, 156]"
+image_560.jpg,none_detected,0,
+image_548.jpg,MALE_GENITALIA_EXPOSED,0.3945,"[236, 0, 330, 449]"
+image_548.jpg,none_detected,0,
+image_1126.jpg,FEET_COVERED,0.5898,"[242, 511, 77, 67]"
+image_1126.jpg,FEET_COVERED,0.5016,"[341, 528, 49, 74]"
+image_1126.jpg,FACE_MALE,0.4015,"[293, 106, 53, 52]"
+image_1126.jpg,none_detected,0,
+image_1132.jpg,FACE_FEMALE,0.3289,"[261, 205, 124, 122]"
+image_1132.jpg,none_detected,0,
+image_400.jpg,FACE_FEMALE,0.438,"[389, 299, 31, 30]"
+image_400.jpg,FEET_COVERED,0.3488,"[371, 498, 29, 33]"
+image_400.jpg,none_detected,0,
+image_366.jpg,FACE_FEMALE,0.7646,"[118, 166, 334, 361]"
+image_366.jpg,none_detected,0,
+image_1091.jpg,FACE_FEMALE,0.7551,"[173, 240, 159, 165]"
+image_1091.jpg,none_detected,0,
+image_428.jpg,FACE_FEMALE,0.677,"[88, 128, 241, 225]"
+image_428.jpg,none_detected,0,
+image_602.jpg,FACE_FEMALE,0.5236,"[342, 64, 195, 186]"
+image_602.jpg,none_detected,0,
+image_616.jpg,FEET_COVERED,0.5416,"[153, 138, 341, 353]"
+image_616.jpg,none_detected,0,
+image_158.jpg,FACE_FEMALE,0.5332,"[222, 104, 150, 132]"
+image_158.jpg,FEET_COVERED,0.266,"[266, 512, 128, 127]"
+image_158.jpg,none_detected,0,
+image_1287.jpg,FEET_COVERED,0.376,"[272, 489, 78, 88]"
+image_1287.jpg,FEET_COVERED,0.358,"[375, 502, 76, 80]"
+image_1287.jpg,none_detected,0,
+image_1246.jpg,FACE_FEMALE,0.8712,"[150, 4, 181, 187]"
+image_1246.jpg,ARMPITS_EXPOSED,0.6873,"[410, 312, 99, 90]"
+image_1246.jpg,FEMALE_BREAST_COVERED,0.3812,"[87, 351, 142, 127]"
+image_1246.jpg,none_detected,0,
+image_1291.jpg,FACE_FEMALE,0.2913,"[248, 110, 319, 436]"
+image_1291.jpg,none_detected,0,
+image_628.jpg,BUTTOCKS_COVERED,0.2962,"[82, 48, 544, 561]"
+image_628.jpg,none_detected,0,
+image_166.jpg,FACE_FEMALE,0.483,"[197, 90, 118, 113]"
+image_166.jpg,FACE_FEMALE,0.4339,"[377, 51, 101, 90]"
+image_166.jpg,none_detected,0,
+image_23.jpg,FACE_FEMALE,0.3772,"[403, 169, 64, 59]"
+image_23.jpg,none_detected,0,
+image_1044.jpg,FACE_FEMALE,0.8728,"[136, 197, 386, 442]"
+image_1044.jpg,none_detected,0,
+image_1087.jpg,FACE_FEMALE,0.8335,"[8, 2, 620, 622]"
+image_1087.jpg,none_detected,0,
+image_370.jpg,FACE_FEMALE,0.3904,"[188, 160, 100, 105]"
+image_370.jpg,none_detected,0,
+image_589.jpg,FACE_FEMALE,0.3341,"[125, 124, 413, 434]"
+image_589.jpg,none_detected,0,
+image_1130.jpg,FACE_FEMALE,0.7215,"[219, 499, 59, 61]"
+image_1130.jpg,FACE_FEMALE,0.684,"[222, 193, 61, 59]"
+image_1130.jpg,none_detected,0,
+image_210.jpg,FEET_COVERED,0.6588,"[286, 506, 47, 61]"
+image_210.jpg,none_detected,0,
+image_576.jpg,FACE_FEMALE,0.8515,"[243, 116, 160, 145]"
+image_576.jpg,none_detected,0,
+image_1440.jpg,FACE_FEMALE,0.4629,"[237, 316, 45, 41]"
+image_1440.jpg,FEET_COVERED,0.254,"[280, 536, 72, 54]"
+image_1440.jpg,none_detected,0,
+image_1497.jpg,FACE_FEMALE,0.3344,"[260, 284, 101, 104]"
+image_1497.jpg,none_detected,0,
+image_774.jpg,MALE_GENITALIA_EXPOSED,0.332,"[351, 316, 205, 146]"
+image_774.jpg,none_detected,0,
+image_761.jpg,FACE_FEMALE,0.8225,"[247, 234, 163, 165]"
+image_761.jpg,none_detected,0,
+image_775.jpg,FEET_COVERED,0.4767,"[166, 550, 77, 46]"
+image_775.jpg,FACE_FEMALE,0.4388,"[292, 219, 39, 40]"
+image_775.jpg,none_detected,0,
+image_1496.jpg,FACE_FEMALE,0.6709,"[222, 301, 168, 143]"
+image_1496.jpg,none_detected,0,
+image_1455.jpg,FACE_FEMALE,0.8227,"[286, 281, 79, 77]"
+image_1455.jpg,FACE_MALE,0.7963,"[82, 292, 65, 59]"
+image_1455.jpg,FACE_MALE,0.7813,"[421, 224, 85, 75]"
+image_1455.jpg,FACE_MALE,0.7365,"[155, 186, 60, 58]"
+image_1455.jpg,FACE_MALE,0.6796,"[260, 105, 133, 136]"
+image_1455.jpg,FACE_MALE,0.6319,"[167, 327, 73, 66]"
+image_1455.jpg,none_detected,0,
+image_946.jpg,FACE_MALE,0.6523,"[210, 91, 168, 172]"
+image_946.jpg,none_detected,0,
+image_952.jpg,FACE_FEMALE,0.4065,"[292, 294, 57, 59]"
+image_952.jpg,none_detected,0,
+image_563.jpg,FACE_FEMALE,0.2876,"[416, 152, 55, 58]"
+image_563.jpg,none_detected,0,
+image_1119.jpg,FACE_FEMALE,0.7134,"[230, 91, 99, 95]"
+image_1119.jpg,none_detected,0,
+image_1131.jpg,FACE_MALE,0.4188,"[163, 271, 38, 43]"
+image_1131.jpg,FACE_FEMALE,0.2521,"[489, 325, 29, 32]"
+image_1131.jpg,none_detected,0,
+image_1125.jpg,FACE_FEMALE,0.7364,"[275, 234, 126, 146]"
+image_1125.jpg,none_detected,0,
+image_371.jpg,FACE_FEMALE,0.5436,"[332, 254, 31, 30]"
+image_371.jpg,FEET_COVERED,0.2779,"[370, 532, 39, 56]"
+image_371.jpg,FACE_FEMALE,0.265,"[72, 275, 30, 27]"
+image_371.jpg,none_detected,0,
+image_1092.jpg,FACE_FEMALE,0.3446,"[73, 167, 115, 129]"
+image_1092.jpg,none_detected,0,
+image_359.jpg,FACE_MALE,0.2661,"[73, 154, 142, 150]"
+image_359.jpg,none_detected,0,
+image_22.jpg,FACE_FEMALE,0.3488,"[206, 216, 132, 144]"
+image_22.jpg,none_detected,0,
+image_173.jpg,FACE_FEMALE,0.7467,"[119, 48, 90, 101]"
+image_173.jpg,FACE_FEMALE,0.7376,"[438, 78, 78, 96]"
+image_173.jpg,FEET_COVERED,0.281,"[265, 579, 89, 60]"
+image_173.jpg,none_detected,0,
+image_629.jpg,FACE_FEMALE,0.781,"[265, 80, 156, 158]"
+image_629.jpg,none_detected,0,
+image_1290.jpg,FACE_FEMALE,0.705,"[382, 434, 56, 56]"
+image_1290.jpg,FACE_FEMALE,0.6735,"[51, 260, 52, 55]"
+image_1290.jpg,FACE_FEMALE,0.6381,"[294, 51, 49, 50]"
+image_1290.jpg,FACE_FEMALE,0.6131,"[63, 45, 49, 53]"
+image_1290.jpg,FACE_FEMALE,0.5898,"[184, 459, 56, 57]"
+image_1290.jpg,FACE_FEMALE,0.5889,"[511, 59, 64, 61]"
+image_1290.jpg,FEMALE_BREAST_COVERED,0.3217,"[406, 516, 55, 48]"
+image_1290.jpg,none_detected,0,
+image_832.jpg,FEET_EXPOSED,0.5426,"[407, 492, 57, 85]"
+image_832.jpg,FEET_EXPOSED,0.448,"[366, 457, 55, 82]"
+image_832.jpg,FEET_EXPOSED,0.413,"[223, 484, 58, 62]"
+image_832.jpg,none_detected,0,
+image_826.jpg,FACE_FEMALE,0.7634,"[193, 166, 262, 252]"
+image_826.jpg,ARMPITS_EXPOSED,0.2918,"[508, 7, 103, 120]"
+image_826.jpg,none_detected,0,
+image_1257.jpg,FACE_FEMALE,0.8551,"[276, 125, 126, 132]"
+image_1257.jpg,FEMALE_BREAST_COVERED,0.2878,"[293, 318, 125, 124]"
+image_1257.jpg,none_detected,0,
+image_822.jpg,FACE_FEMALE,0.854,"[334, 228, 224, 228]"
+image_822.jpg,none_detected,0,
+image_188.jpg,FACE_FEMALE,0.2973,"[227, 270, 57, 55]"
+image_188.jpg,FACE_FEMALE,0.2725,"[392, 271, 46, 40]"
+image_188.jpg,none_detected,0,
+image_163.jpg,FACE_FEMALE,0.7325,"[73, 305, 162, 231]"
+image_163.jpg,FACE_FEMALE,0.6372,"[406, 304, 169, 206]"
+image_163.jpg,none_detected,0,
+image_1294.jpg,FACE_FEMALE,0.2676,"[145, 226, 45, 39]"
+image_1294.jpg,none_detected,0,
+image_639.jpg,FACE_FEMALE,0.7841,"[103, 189, 286, 305]"
+image_639.jpg,none_detected,0,
+image_1280.jpg,FACE_FEMALE,0.5088,"[251, 176, 193, 163]"
+image_1280.jpg,none_detected,0,
+image_361.jpg,FEMALE_GENITALIA_EXPOSED,0.4691,"[38, 180, 600, 359]"
+image_361.jpg,none_detected,0,
+image_375.jpg,FACE_FEMALE,0.8298,"[212, 122, 227, 218]"
+image_375.jpg,none_detected,0,
+image_215.jpg,FACE_MALE,0.5679,"[256, 230, 50, 55]"
+image_215.jpg,none_detected,0,
+image_229.jpg,FACE_FEMALE,0.713,"[343, 236, 60, 62]"
+image_229.jpg,FACE_MALE,0.6702,"[164, 92, 48, 46]"
+image_229.jpg,FACE_MALE,0.6586,"[267, 60, 44, 42]"
+image_229.jpg,FACE_MALE,0.5889,"[32, 139, 49, 46]"
+image_229.jpg,FACE_MALE,0.5654,"[531, 64, 43, 43]"
+image_229.jpg,FACE_FEMALE,0.5293,"[546, 163, 49, 54]"
+image_229.jpg,FACE_MALE,0.4792,"[117, 198, 62, 58]"
+image_229.jpg,FACE_MALE,0.3756,"[402, 110, 50, 51]"
+image_229.jpg,FEET_COVERED,0.2503,"[504, 579, 59, 59]"
+image_229.jpg,none_detected,0,
+image_1479.jpg,FEET_COVERED,0.7375,"[423, 549, 70, 70]"
+image_1479.jpg,FACE_FEMALE,0.6701,"[247, 86, 41, 34]"
+image_1479.jpg,FACE_FEMALE,0.6223,"[355, 275, 43, 38]"
+image_1479.jpg,FEMALE_BREAST_COVERED,0.5178,"[267, 141, 48, 40]"
+image_1479.jpg,FEMALE_BREAST_COVERED,0.4752,"[226, 141, 48, 45]"
+image_1479.jpg,FEET_COVERED,0.4217,"[473, 485, 64, 63]"
+image_1479.jpg,FEET_COVERED,0.2703,"[87, 477, 157, 98]"
+image_1479.jpg,none_detected,0,
+image_1323.jpg,FACE_MALE,0.3868,"[227, 169, 107, 111]"
+image_1323.jpg,none_detected,0,
+image_1445.jpg,FACE_FEMALE,0.6828,"[225, 164, 107, 117]"
+image_1445.jpg,none_detected,0,
+image_956.jpg,FACE_MALE,0.4376,"[394, 293, 57, 50]"
+image_956.jpg,none_detected,0,
+image_942.jpg,FACE_MALE,0.4228,"[291, 163, 113, 111]"
+image_942.jpg,none_detected,0,
+image_1451.jpg,FEMALE_BREAST_COVERED,0.2511,"[554, 383, 49, 42]"
+image_1451.jpg,none_detected,0,
+image_995.jpg,FACE_FEMALE,0.5823,"[255, 197, 153, 128]"
+image_995.jpg,none_detected,0,
+image_1486.jpg,FACE_FEMALE,0.7893,"[404, 240, 103, 105]"
+image_1486.jpg,none_detected,0,
+image_981.jpg,FACE_FEMALE,0.8273,"[186, 78, 171, 167]"
+image_981.jpg,FEMALE_BREAST_EXPOSED,0.6305,"[211, 329, 198, 187]"
+image_981.jpg,ARMPITS_EXPOSED,0.349,"[159, 292, 64, 84]"
+image_981.jpg,none_detected,0,
+image_980.jpg,FACE_FEMALE,0.5525,"[366, 365, 100, 99]"
+image_980.jpg,none_detected,0,
+image_758.jpg,FACE_FEMALE,0.6991,"[0, 146, 190, 379]"
+image_758.jpg,none_detected,0,
+image_994.jpg,FACE_FEMALE,0.371,"[128, 277, 45, 50]"
+image_994.jpg,none_detected,0,
+image_770.jpg,FACE_MALE,0.3962,"[530, 411, 109, 118]"
+image_770.jpg,none_detected,0,
+image_943.jpg,FACE_MALE,0.3619,"[348, 133, 50, 51]"
+image_943.jpg,none_detected,0,
+image_1444.jpg,FACE_FEMALE,0.8281,"[182, 126, 307, 346]"
+image_1444.jpg,none_detected,0,
+image_228.jpg,FACE_FEMALE,0.6624,"[234, 172, 155, 164]"
+image_228.jpg,none_detected,0,
+image_200.jpg,FEET_COVERED,0.409,"[416, 142, 223, 264]"
+image_200.jpg,none_detected,0,
+image_566.jpg,FACE_FEMALE,0.7608,"[232, 170, 172, 160]"
+image_566.jpg,none_detected,0,
+image_599.jpg,FACE_FEMALE,0.7667,"[135, 103, 342, 343]"
+image_599.jpg,none_detected,0,
+image_1108.jpg,FACE_FEMALE,0.7689,"[144, 223, 358, 372]"
+image_1108.jpg,none_detected,0,
+image_412.jpg,FACE_FEMALE,0.6277,"[251, 283, 46, 46]"
+image_412.jpg,FACE_FEMALE,0.6045,"[448, 327, 44, 49]"
+image_412.jpg,FACE_FEMALE,0.5356,"[349, 310, 43, 43]"
+image_412.jpg,FEMALE_BREAST_COVERED,0.3145,"[227, 349, 46, 44]"
+image_412.jpg,none_detected,0,
+image_27.jpg,FACE_FEMALE,0.7335,"[245, 290, 182, 159]"
+image_27.jpg,none_detected,0,
+image_1054.jpg,FEMALE_BREAST_COVERED,0.5681,"[279, 257, 91, 76]"
+image_1054.jpg,FEMALE_BREAST_COVERED,0.4925,"[360, 271, 80, 75]"
+image_1054.jpg,FACE_MALE,0.3401,"[340, 126, 68, 67]"
+image_1054.jpg,none_detected,0,
+image_1281.jpg,FACE_FEMALE,0.6899,"[272, 49, 60, 54]"
+image_1281.jpg,none_detected,0,
+image_1295.jpg,FACE_FEMALE,0.7936,"[351, 117, 196, 185]"
+image_1295.jpg,none_detected,0,
+image_638.jpg,FACE_FEMALE,0.8341,"[363, 125, 137, 127]"
+image_638.jpg,none_detected,0,
+image_176.jpg,FACE_FEMALE,0.7201,"[359, 222, 95, 99]"
+image_176.jpg,ARMPITS_EXPOSED,0.5071,"[469, 170, 54, 52]"
+image_176.jpg,ARMPITS_EXPOSED,0.3597,"[479, 264, 55, 64]"
+image_176.jpg,FEMALE_BREAST_COVERED,0.3267,"[501, 146, 117, 114]"
+image_176.jpg,none_detected,0,
+image_604.jpg,FACE_MALE,0.2543,"[446, 247, 79, 74]"
+image_604.jpg,none_detected,0,
+image_835.jpg,FEET_COVERED,0.5526,"[185, 508, 94, 118]"
+image_835.jpg,FACE_FEMALE,0.5124,"[256, 161, 79, 84]"
+image_835.jpg,BELLY_EXPOSED,0.4811,"[272, 358, 97, 74]"
+image_835.jpg,FEMALE_BREAST_COVERED,0.4251,"[316, 277, 82, 71]"
+image_835.jpg,FEET_COVERED,0.4201,"[382, 493, 91, 136]"
+image_835.jpg,none_detected,0,
+image_821.jpg,FACE_FEMALE,0.6137,"[136, 93, 176, 174]"
+image_821.jpg,none_detected,0,
+image_31.jpg,FACE_FEMALE,0.6143,"[344, 275, 46, 44]"
+image_31.jpg,none_detected,0,
+image_1042.jpg,FACE_FEMALE,0.8302,"[227, 174, 330, 379]"
+image_1042.jpg,none_detected,0,
+image_376.jpg,FACE_FEMALE,0.7054,"[142, 192, 194, 203]"
+image_376.jpg,FEMALE_BREAST_COVERED,0.3761,"[181, 565, 182, 74]"
+image_376.jpg,none_detected,0,
+image_1081.jpg,FEMALE_GENITALIA_EXPOSED,0.388,"[0, 0, 562, 451]"
+image_1081.jpg,none_detected,0,
+image_202.jpg,FACE_FEMALE,0.8963,"[274, 110, 85, 84]"
+image_202.jpg,FEMALE_BREAST_COVERED,0.6519,"[242, 272, 92, 91]"
+image_202.jpg,FEMALE_BREAST_COVERED,0.506,"[330, 272, 93, 87]"
+image_202.jpg,none_detected,0,
+image_216.jpg,FACE_FEMALE,0.7675,"[315, 61, 75, 79]"
+image_216.jpg,FEET_COVERED,0.7422,"[228, 482, 142, 131]"
+image_216.jpg,BUTTOCKS_COVERED,0.3273,"[171, 367, 87, 134]"
+image_216.jpg,none_detected,0,
+image_570.jpg,FACE_FEMALE,0.636,"[288, 210, 74, 82]"
+image_570.jpg,none_detected,0,
+image_558.jpg,FACE_MALE,0.4024,"[120, 230, 50, 47]"
+image_558.jpg,none_detected,0,
+image_969.jpg,FACE_FEMALE,0.5394,"[228, 274, 26, 27]"
+image_969.jpg,FACE_FEMALE,0.4702,"[385, 264, 27, 25]"
+image_969.jpg,FACE_FEMALE,0.4235,"[310, 261, 26, 28]"
+image_969.jpg,FEET_COVERED,0.3462,"[422, 502, 36, 31]"
+image_969.jpg,FEET_EXPOSED,0.319,"[323, 487, 31, 31]"
+image_969.jpg,FEET_EXPOSED,0.2957,"[277, 485, 28, 30]"
+image_969.jpg,none_detected,0,
+image_1334.jpg,FACE_FEMALE,0.8558,"[294, 135, 71, 75]"
+image_1334.jpg,FEMALE_GENITALIA_COVERED,0.7193,"[295, 492, 60, 46]"
+image_1334.jpg,FEMALE_BREAST_COVERED,0.4049,"[332, 274, 75, 74]"
+image_1334.jpg,BELLY_COVERED,0.3561,"[268, 350, 119, 105]"
+image_1334.jpg,FEMALE_BREAST_COVERED,0.2605,"[259, 276, 76, 73]"
+image_1334.jpg,none_detected,0,
+image_941.jpg,FACE_MALE,0.2754,"[329, 279, 46, 50]"
+image_941.jpg,none_detected,0,
+image_955.jpg,FACE_FEMALE,0.7076,"[327, 258, 49, 41]"
+image_955.jpg,none_detected,0,
+image_1491.jpg,FACE_FEMALE,0.7644,"[180, 96, 140, 125]"
+image_1491.jpg,FACE_FEMALE,0.7641,"[344, 107, 132, 126]"
+image_1491.jpg,FEMALE_BREAST_COVERED,0.2536,"[403, 489, 40, 37]"
+image_1491.jpg,none_detected,0,
+image_983.jpg,BELLY_EXPOSED,0.7005,"[163, 505, 107, 85]"
+image_983.jpg,ARMPITS_EXPOSED,0.4807,"[258, 388, 35, 36]"
+image_983.jpg,FACE_FEMALE,0.4687,"[189, 287, 73, 70]"
+image_983.jpg,FEMALE_BREAST_COVERED,0.2975,"[210, 400, 68, 66]"
+image_983.jpg,FEMALE_BREAST_COVERED,0.2524,"[148, 396, 76, 71]"
+image_983.jpg,none_detected,0,
+image_1490.jpg,FACE_FEMALE,0.7044,"[318, 174, 163, 165]"
+image_1490.jpg,none_detected,0,
+image_767.jpg,FACE_FEMALE,0.7218,"[281, 68, 48, 48]"
+image_767.jpg,FEMALE_GENITALIA_COVERED,0.6851,"[277, 273, 42, 46]"
+image_767.jpg,FEMALE_BREAST_COVERED,0.5429,"[256, 150, 50, 52]"
+image_767.jpg,FEMALE_BREAST_COVERED,0.5422,"[299, 149, 57, 54]"
+image_767.jpg,BELLY_COVERED,0.4644,"[269, 200, 79, 60]"
+image_767.jpg,ARMPITS_EXPOSED,0.2553,"[335, 132, 24, 31]"
+image_767.jpg,none_detected,0,
+image_1453.jpg,FEMALE_GENITALIA_EXPOSED,0.2583,"[7, 38, 574, 557]"
+image_1453.jpg,none_detected,0,
+image_798.jpg,FACE_FEMALE,0.2568,"[194, 0, 261, 228]"
+image_798.jpg,none_detected,0,
+image_559.jpg,FACE_FEMALE,0.4017,"[242, 207, 54, 50]"
+image_559.jpg,FEET_COVERED,0.3549,"[241, 571, 55, 64]"
+image_559.jpg,FEET_COVERED,0.3152,"[259, 577, 68, 62]"
+image_559.jpg,none_detected,0,
+image_217.jpg,FACE_FEMALE,0.3116,"[308, 208, 36, 41]"
+image_217.jpg,none_detected,0,
+image_565.jpg,FEMALE_BREAST_COVERED,0.2814,"[263, 408, 118, 101]"
+image_565.jpg,none_detected,0,
+image_1123.jpg,FACE_FEMALE,0.7773,"[174, 71, 110, 124]"
+image_1123.jpg,none_detected,0,
+image_377.jpg,FACE_FEMALE,0.8472,"[326, 107, 284, 292]"
+image_377.jpg,none_detected,0,
+image_1057.jpg,FACE_FEMALE,0.3831,"[532, 264, 67, 63]"
+image_1057.jpg,FACE_MALE,0.25,"[429, 310, 44, 40]"
+image_1057.jpg,none_detected,0,
+image_388.jpg,FACE_FEMALE,0.7254,"[260, 194, 120, 116]"
+image_388.jpg,FEMALE_BREAST_COVERED,0.4796,"[218, 386, 104, 106]"
+image_388.jpg,FEMALE_BREAST_COVERED,0.3475,"[311, 390, 125, 112]"
+image_388.jpg,ARMPITS_EXPOSED,0.2833,"[196, 359, 47, 61]"
+image_388.jpg,none_detected,0,
+image_149.jpg,FACE_FEMALE,0.7989,"[274, 103, 104, 106]"
+image_149.jpg,FEMALE_BREAST_COVERED,0.5445,"[292, 264, 108, 100]"
+image_149.jpg,none_detected,0,
+image_613.jpg,FACE_FEMALE,0.3749,"[302, 244, 44, 39]"
+image_613.jpg,FEET_COVERED,0.328,"[262, 574, 57, 61]"
+image_613.jpg,none_detected,0,
+image_820.jpg,FEET_COVERED,0.4795,"[338, 527, 68, 80]"
+image_820.jpg,FACE_FEMALE,0.4676,"[277, 66, 60, 60]"
+image_820.jpg,none_detected,0,
+image_1241.jpg,FEET_COVERED,0.3532,"[487, 303, 136, 76]"
+image_1241.jpg,none_detected,0,
+image_1269.jpg,FACE_FEMALE,0.2984,"[193, 113, 230, 214]"
+image_1269.jpg,none_detected,0,
