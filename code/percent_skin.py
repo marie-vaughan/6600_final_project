@@ -4,6 +4,7 @@ import os
 import csv
 import cv2
 import numpy as np
+import pandas as pd
 
 def detect_skin_percentage(image_path):
     # Read the image
@@ -36,15 +37,15 @@ def detect_skin_percentage(image_path):
 # print(f"Percentage of skin in the image: {percentage:.2f}%")
 
 # Folder path
-image_folder = "images"
-output_csv = "skin_percentages.csv"
+image_folder = "data/album_images"
+output_csv = "data/new/skin_percentages.csv"
 
 # Collect results
 results = []
 
 # Loop over all image files
 for filename in os.listdir(image_folder):
-    if filename.lower().endswith(('.jpg', '.jpeg', '.png')):
+    if filename.lower().endswith(('.jpg')):
         image_path = os.path.join(image_folder, filename)
         try:
             percent = detect_skin_percentage(image_path)
@@ -74,3 +75,27 @@ with open(output_csv, "w", newline="") as csvfile:
 print(f"Skin percentage results saved to {output_csv}")
 
 ### Does not do well detecting skin with greyscale images 
+
+
+###### Combine with main dataset and save to albums_colors_nudity.csv
+
+# Load main dataset and new nudity one hot encode dataset
+df_main = pd.read_csv("data/new/albums_colors_nudity.csv")
+df_skin = pd.read_csv("data/new/skin_percentages.csv")
+
+# Strip .jpg from filenames
+df_skin['image'] = df_skin['image'].str.replace('.jpg', '', case=False, regex=False)
+
+print(len(df_main))
+print(len(df_skin))
+
+# Merge datasets 
+df_combined = pd.merge(df_main, df_skin, left_on='album_id', right_on='image', how='left')
+
+# Drop the 'image' column from the merged dataset
+df_combined.drop(columns=['image'], inplace=True)
+
+# Save the combined dataset
+df_combined.to_csv("data/new/albums_colors_nudity_skin.csv", index=False)
+
+print("Merged dataset saved")
