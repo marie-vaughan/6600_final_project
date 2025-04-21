@@ -1,0 +1,861 @@
+artist_name,artist_id,genres,popularity,followers
+Taylor Swift,06HL4z0CvFAxyc27GXpf02,[],98,136112787
+Chris Stapleton,4YLtscXsxbVgi031ovDDdh,['country'],84,8339679
+Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,"['melodic rap', 'emo rap']",89,39820404
+Playboi Carti,699OTQXzgjhIYAHMy9RyPD,['rage rap'],94,14064414
+The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,[],97,103633316
+Adrianne Lenker,4aKWmkWAKviFlyvHYPTNQY,[],76,1085995
+21 Savage,1URnnhqYAYcrqrcwql10ft,[],89,22376663
+King Von,6QtgPSJPSzcnn7dPZ4VINp,['drill'],80,6624237
+Steve Lacy,57vWImR43h4CaDao012Ofp,[],82,5883223
+Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,[],80,11608342
+Bad Bunny,4q3ewBCX7sLwd24euuV69X,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",100,94271022
+Polo G,6AgTAQt8XS6jRWi4sX7w49,[],80,12555306
+Drake,3TVXtAsR1Inumwj472S9r4,"['rap', 'hip hop']",98,97942973
+Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,['r&b'],84,7353556
+Tame Impala,5INjqkS1o8h1imAzPqGZBb,"['indie', 'psychedelic pop']",82,8789265
+Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,['melodic rap'],86,18710851
+Lil Baby,5f7VJjfbwm532GiveGC0ZK,[],88,20284901
+Don Toliver,4Gso3d4CscCijv0lmajZWs,[],87,6539540
+Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,[],77,4448768
+Mac Miller,4LLpKhyESsyAXpc4laK94U,[],85,11711331
+$uicideboy$,1VPmR4DJC1PlOtd0IADAO0,"['dark trap', 'emo rap', 'horrorcore', 'punk rap', 'cloud rap', 'underground hip hop']",86,8421895
+Pop Smoke,0eDvMgVFoNV3TpwtrVCoTj,"['brooklyn drill', 'drill', 'new york drill']",79,15155777
+Gracie Abrams,4tuJ0bMpJh08umKkEXKUI5,[],89,5395590
+Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,['pop'],89,45871460
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,['pop'],95,104933521
+GIVĒON,4fxd5Ee7UefO4CUXgwJ7IP,['r&b'],80,4635394
+Phoebe Bridgers,1r1uxoy19fzMxunt3ONAkG,[],79,2807120
+Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,"['country', 'red dirt']",88,6468584
+The Strokes,0epOFNiUfyON9EYx7Tpr6V,"['garage rock', 'indie rock', 'alternative rock']",78,6233906
+Bryson Tiller,2EMAnMvWE2eb56ToJVfCWs,['r&b'],82,9911261
+Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,[],85,4040766
+Hotel Ugly,35WVTyRnKAoaGExqgktVyb,[],74,950520
+Kali Uchis,1U1el3k54VvEUzo3ybLPlM,[],87,8732985
+Key Glock,0RESbWvOMyua0yuyVrztJ5,['memphis rap'],76,2253452
+Gunna,2hlmm7s2ICUX0LVIhVFlZQ,['melodic rap'],87,9349478
+YoungBoy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,[],83,13925681
+Joji,3MZsBdqDrRTJihTHQrO6Dq,[],80,10187418
+Eminem,7dGJo4pcD2V6oG8kP0tJRR,"['rap', 'hip hop']",92,99839250
+Future,1RyvyyTE3xzB2ZywiAwp0i,['rap'],93,21173355
+Halsey,26VFTg2z8YR0cCuwLzESi2,[],83,22078448
+Rauw Alejandro,1mcTU81TzQhprhouKaTkpq,"['reggaeton', 'urbano latino', 'trap latino', 'latin']",92,28033801
+Timo Krantz,0B4q2xObl8gjNPdq25pARK,[],66,13490
+Ava Max,4npEfmQ6YuiwW1GpUmaq3F,[],80,7456013
+Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,"['corridos tumbados', 'sad sierreño', 'corrido', 'sierreño', 'música mexicana', 'corridos bélicos']",81,6214769
+Charli xcx,25uiPmTg16RbhZWAqwLBy5,"['hyperpop', 'art pop']",86,5335601
+mgk,6TIYQ3jFPwQSRmorSezPxX,[],78,5512013
+Diplo,5fMUXHkw8R8eOP2RNVYEZX,['moombahton'],79,2772486
+Young Dolph,3HiuzBlSW7pGDXlSFMhO2g,"['memphis rap', 'southern hip hop', 'trap']",74,3172015
+Luke Combs,718COspgdWOnwOFpJHRZHS,['country'],86,12583873
+HARDY,5QNm7E7RU2m64l6Gliu8Oy,"['country', 'country rock']",75,1326604
+"Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,[],91,21506651
+Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,"['country', 'acoustic country']",71,2400114
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,[],85,25854964
+5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,[],78,10321853
+NLE Choppa,0ErzCpIMyLcjPiwT4elrtZ,[],79,9561980
+Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,['country'],64,398576
+Rod Wave,45TgXXqMDdF8BkjA83OM7z,[],80,8952802
+Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,['rap'],84,11985474
+Lil Yachty,6icQOAFXDZKsumw3YXyusw,[],80,10645049
+Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,[],80,2086333
+Brandon Lake,1bdnGJxkbIIys5Jhk1T74v,"['worship', 'christian']",76,1112646
+J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,"['reggaeton', 'latin']",89,38201354
+Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,"['melodic rap', 'rap']",85,9217731
+Ken Carson,3gBZUcNeVumkeeJ19CY2sX,['rage rap'],83,2838933
+Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,[],81,10346595
+Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,['pop'],88,52384961
+The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,[],85,20155442
+TV Girl,0Y6dVaC9DZtPNH4591M42W,[],83,10436038
+Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,"['country hip hop', 'country']",81,5328375
+Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,"['metal', 'glam metal', 'heavy metal', 'hard rock']",73,6267626
+Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,"['country', 'pop country']",70,2408367
+Eyedress,3XxNRirzbjfLdDli06zMaB,[],74,2536879
+Junior H,7Gi6gjaWy3DxyilpF1a8Is,"['corridos tumbados', 'corrido', 'corridos bélicos', 'sad sierreño', 'sierreño', 'música mexicana', 'banda']",90,24304218
+Mt. Joy,69tiO1fG8VWduDl3ji2qhI,[],72,596466
+Noah Cyrus,55fhWPvDiMpLnE4ZzNXZyW,[],74,1745779
+Koe Wetzel,1Tie3AZgLQZqYEp8Fv4zOZ,"['red dirt', 'texas country', 'country', 'country rock']",74,946850
+Tems,687cZJR45JO7jhk1LHIbgq,"['afrobeats', 'alté', 'afrobeat']",77,3070732
+Jack Harlow,2LIk90788K0zvyj2JJVwkJ,[],81,4173511
+Lil Durk,3hcs9uc56yIGFCSy9leWe7,['drill'],84,8849498
+Loathe,4G9wSdX0klmoHfjm9i6DLd,"['shoegaze', 'metalcore']",63,434816
+Shoreline Mafia,4tYSBptyGeVyZsk8JC4JHZ,[],73,1315285
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,[],91,81949489
+Penelope Scott,3u6lPufHw4Oww6D88rv6sB,[],63,1230269
+Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['art pop', 'pop']",94,36970585
+Jhené Aiko,5ZS223C6JyBfXasXxrRqOk,['r&b'],81,9141897
+Thundercat,4frXpPxQQZwbCu3eTGnZEw,[],71,1459142
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,[],91,7504167
+Sir Chloe,6rniTPs9zN26kYnkPdFl1U,[],62,865350
+Elevation Worship,3YCKuqpv9nCsIhJ2v8SMix,"['worship', 'christian', 'ccm', 'gospel']",78,4509237
+BTS,3Nrfpe0tUJi4K4DXYWgMUX,['k-pop'],88,78669829
+Sam Smith,2wY79sveU1sp5g7SokKOiI,['soft pop'],84,25685631
+Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,"['metalcore', 'emo', 'screamo', 'rock', 'post-hardcore', 'metal']",80,6371755
+Trippie Redd,6Xgp2XMz1fhVYe7i6yNAax,['melodic rap'],81,10493800
+Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"['country', 'acoustic country']",78,9173466
+Khruangbin,2mVVjNmdjXZZDvhgQWiakk,[],74,2078475
+Kehlani,0cGUm45nv7Z6M6qdXYQGTX,[],77,8188843
+We The Kingdom,5Ye2QWN2Wl9zTn947eaest,"['worship', 'christian', 'ccm', 'christian country', 'pop worship']",63,275756
+Colter Wall,3xYXYzm9H3RzyQgBrYwIcx,"['gothic country', 'country', 'red dirt', 'alt country', 'bluegrass', 'americana']",70,1513000
+Kygo,23fqKkggKUBHNkbKtXEls4,['tropical house'],82,8608106
+blackbear,2cFrymmkijnjDg9SS92EPM,[],75,5033635
+Tory Lanez,2jku7tDXc6XoB6MO2hFuqg,[],83,7663128
+Freddie Gibbs,0Y4inQK6OespitzD6ijMwb,['alternative hip hop'],69,1384079
+BLACKPINK,41MozSoPIsD1dJM0CLPjZF,['k-pop'],80,53596465
+Thee Sacred Souls,0oK5D6uPhGu4Jk2dbZfodU,['retro soul'],73,770878
+Sleepy Hallow,6EPlBSH2RSiettczlz7ihV,"['brooklyn drill', 'new york drill']",77,2424105
+Powfu,6bmlMHgSheBauioMgKv2tn,[],69,1416942
+Maluma,1r4hJ1h58CWwUQe3MxPuau,"['reggaeton', 'latin', 'urbano latino']",87,36686127
+PARTYNEXTDOOR,2HPaUgqeutzr3jx5a9WyDV,['r&b'],88,8872674
+Clams Casino,5vSQUyT33qxr1xAX2Tkf3A,['cloud rap'],72,356752
+wave to earth,5069JTmv5ZDyPeZaCCXiCg,[],76,4307803
+La Adictiva,49EE6lVLgU8sp7dFgPshgM,"['banda', 'norteño', 'corrido', 'grupera', 'corridos bélicos']",74,7050900
+StaySolidRocky,1XLWox9w1Yvbodui0SRhUQ,[],63,341094
+Myke Towers,7iK8PXO48WeuP03g8YR51W,"['reggaeton', 'trap latino', 'urbano latino']",89,19711597
+Will Wood,1VQ8riQ31zVHtlxiCC9EZE,['dark cabaret'],64,527292
+Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,[],81,13014668
+Cleo Sol,3ETLPQkcEd7z4k3IbZmXMq,"['neo soul', 'alternative r&b']",70,909135
+Brent Cobb,26C2AjqgMr5aDzj6Yp2ORz,"['americana', 'alt country', 'red dirt']",62,175865
+SZA,7tYKF4w9nC0nq9CsPZTHyP,['r&b'],94,29153114
+Matt Maltese,12j6dJrPXanCBwY599pZxf,[],69,701885
+Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,"['red dirt', 'country', 'texas country']",67,348785
+Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,"['metal', 'groove metal', 'heavy metal', 'hard rock', 'rock']",75,6741948
+Lauv,5JZ7CnR6gTvEMKX4g70Amv,[],77,6611185
+A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,['melodic rap'],79,8765538
+Coyote Theory,48vmXfV0QPy3ljXBp81Fwn,[],62,236952
+Jdot Breezy,0VSM8D7ibtXjJgukfVR0eZ,[],60,275814
+DaBaby,4r63FhuTkUYltbVAg5TQnk,[],80,12601884
+Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,[],76,10226560
+Kid Cudi,0fA0VVWsXO9YnASrzqfmYu,[],80,7502405
+Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,"['country', 'acoustic country']",67,2494504
+Doechii,4E2rKHVDssGJm2SCDOMMJB,[],88,2768120
+LUCKI,5tQMB0cuNXdCtzovGt55uD,['cloud rap'],79,1567865
+VOILÀ,6NnBBumbcMYsaPTHFhPtXD,[],69,270172
+Cardi B,4kYSro6naA4h99UJvo89HB,[],80,25253680
+Lizzy McAlpine,1GmsPCcpKgF9OhlNXjOsbS,[],76,1276575
+G Herbo,5QdEbQJ3ylBnc3gsIASAT5,['drill'],71,2317018
+Moneybagg Yo,3tJoFztHeIJkJWMrx0td2f,['memphis rap'],77,4942021
+Beach Bunny,2vnB6tuQMaQpORiRdvXF9H,[],69,1742292
+Joyner Lucas,6C1ohJrd5VydigQtaGy5Wa,[],69,2336033
+Anuel AA,2R21vXR83lH98kGeO99Y66,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",89,41697377
+Bee Gees,1LZEQNv7sE11VDY3SdxQeN,['disco'],79,8813173
+SAINt JHN,0H39MdGGX6dbnnQPt6NQkZ,[],70,1122033
+Maddie & Tae,34bhyY8jfKez7uKakMfy4y,['country'],61,1226548
+Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,"['country', 'pop country']",74,1296836
+DJ Scheme,1m7LSAMIB1BErIHYSOn32W,[],59,295218
+$NOT,5IbEL2xjRtKsunfmsahLuO,[],66,1565125
+Jay Wheeler,2cPqdH7XMvwaBJEVjheH8g,['reggaeton'],79,4647247
+Ozuna,1i8SpTcr7yvPOmcqrbnVXY,"['reggaeton', 'trap latino', 'latin', 'urbano latino']",88,38413589
+THE ANXIETY,64H8UqGLbJFHwKtGxiV8OP,[],59,206332
+Cody Carnes,7apN8bBgl19E0Ona9pvPq0,"['worship', 'christian']",66,291328
+Orion Sun,2efrqekWSHlvhATD50AG3m,"['alternative r&b', 'bedroom pop']",63,398681
+Will Paquin,0oouuXi8tdasgUgk520Jy6,[],59,174676
+Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,[],87,33111609
+Lil Darkie,62F9BiUmjqeXbBztCwiX1U,['dark trap'],70,2006134
+YNW Melly,1cNDP5yjU5vjeR8qMf4grg,['melodic rap'],75,11926423
+Deftones,6Ghvu1VvMGScGpOUJBAHNH,"['nu metal', 'alternative metal', 'rap metal', 'shoegaze', 'rock']",83,6810242
+Adelmar Borrego,5bdLiUDd0rIMAkT1y6zLaE,['lullaby'],59,3942
+Wild Rivers,59sBwR0jPSTrbMtuTkRPN5,['folk pop'],66,281121
+JAWNY,25pd339V2rRJo84USlcSRP,['bedroom pop'],64,391682
+Carly Pearce,4sIl4BTo9l9KqEi0Y3RE72,['country'],64,517038
+Stray Kids,2dIgFjalVxs4ThymZ67YCE,['k-pop'],86,18824247
+Sleep Token,2n2RSaZqBuUUukhbLlpnE6,"['progressive metal', 'metalcore']",82,2185687
+Mi Banda El Mexicano,0OhiQFSqbnnmB52NWEpsO5,"['cumbia', 'banda', 'grupera', 'cumbia norteña', 'duranguense', 'cumbia sonidera']",65,892048
+Sturgill Simpson,3vDpQbGnzRbRVirXlfQagB,"['alt country', 'bluegrass', 'americana', 'red dirt', 'country', 'newgrass']",67,971103
+Lil Wayne,55Aa2cqylxrFIXC767Z865,"['rap', 'hip hop']",89,16838347
+Bad Omens,3Ri4H12KFyu98LMjSoij5V,"['metalcore', 'metal']",74,1695878
+Agust D,5RmQ8k4l3HZ8JoPb4mNsML,"['k-pop', 'k-rap']",75,15097649
+Wizkid,3tVQdUvClmAT7URs9V3rsp,"['afrobeats', 'afrobeat', 'afropop', 'azonto', 'afroswing', 'afropiano', 'dancehall']",80,7688024
+Omar Apollo,5FxD8fkQZ6KcsSYupDVoSO,['bedroom pop'],70,1092938
+Panchiko,4KEHIUSoWCcqrk8AddTE1O,['shoegaze'],65,448580
+Hotboii,220xv2aB3dsGxaJI1gGs7l,[],62,727070
+Flo Milli,08PvCOlef4xdOr20jFSTPd,[],73,1443192
+Lil Mosey,5zctI4wO9XSKS8XwcnqEHk,['melodic rap'],68,5822261
+Hermanos Gutiérrez,73mSg0dykFyhvU96tb5xQV,[],70,675997
+Chris Brown,7bXgB6jMjp9ATFy66eO08Z,['r&b'],90,26134292
+Sean Kingston,6S0dmVVn4udvppDhZIWxCr,[],73,3593424
+Sheff G,1tG7s7S4sq2eFFW0QZyLbm,"['brooklyn drill', 'new york drill', 'drill']",67,1182531
+Trevor Daniel,7uaIm6Pw7xplS8Dy06V6pT,[],64,893963
+Camilo,28gNT5KBp7IjEOQoevXf9N,['colombian pop'],83,20046813
+Mild Minds,3Ka3k9K2WStR52UJVtbJZW,['stutter house'],60,82170
+Money Man,3Rx4PJ7SP6unkOk5elPUK7,[],68,751382
+49 Winchester,1JWMpIl0nhqFJNdO3IOQ20,"['red dirt', 'country', 'alt country']",63,148080
+Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,['country'],73,4722167
+Oliver Tree,6TLwD7HPWuiOzvXEa3oCNe,[],70,2535483
+El Alfa,2oQX8QiMXOyuqbcZEFsZfm,"['dembow', 'urbano latino', 'latin']",79,3960003
+Riovaz,1bhZt10yZVCJfp3HaNxJv8,[],62,288677
+Bethel Music,26T4yOaOoFJvUvxR87Y9HO,"['worship', 'christian', 'ccm']",74,2066334
+Maverick City Music,58r1rB5t3VF5X6yXGPequV,"['worship', 'gospel', 'christian']",73,2553305
+Masego,3ycxRkcZ67ALN3GQJ57Vig,[],72,1518297
+Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,[],75,5448540
+All Time Low,46gyXjRIvN1NL1eCB8GBxo,"['pop punk', 'emo', 'emo pop', 'punk']",71,3137511
+iann dior,6ASri4ePR7RlsvIQgWPJpS,['melodic rap'],70,1876713
+Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,['country'],92,12391541
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,[],88,45243119
+Treaty Oak Revival,3444S3C4U9Ts86BnCtSPRV,"['country', 'red dirt', 'texas country', 'country rock']",78,526332
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,[],95,110640960
+Baby Keem,5SXuuuRpukkTvsLuUknva1,[],77,2911253
+PinkPantheress,78rUTD7y6Cy67W1RVzYs7t,['bedroom pop'],78,4050773
+The Marías,2sSGPbdZJkaSE2AbcGOACx,['bedroom pop'],86,2592979
+The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,[],82,6234498
+Lin-Manuel Miranda,4aXXDj9aZnlshx7mzj3W1N,['musicals'],76,772515
+AJR,6s22t5Y3prQHyaHWUN1R1C,[],73,3572541
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,['soft pop'],90,120094181
+J. Cole,6l3HvQ5sa6mXTsMTB19rO5,['rap'],86,26142820
+Faye Webster,5szilpXHcwOqnyKLqGco5j,[],75,1858087
+Jordan Davis,77kULmXAQ6vWer7IIHdGzI,['country'],75,1496859
+Kanye West,5K4W6rqBFWDnAN6FQUkS6x,['rap'],92,29795151
+Adele,4dpARuHxo51G3z768sgnrY,['soft pop'],87,63735730
+Cody Johnson,6zLBxLdl60ekBLpawtT63I,"['texas country', 'country', 'red dirt']",77,1710088
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,[],95,70809668
+Yeat,3qiHUAX7zY4Qnjx8TNUzVx,['rage rap'],81,5748928
+Jordana,5Bw9kFNhy019e4IBCJZlzw,[],65,199246
+Cafuné,581C5Qwl87TskfBEzuoisu,[],70,499363
+Surf Curse,1gl0S9pS0Zw0qfa14rDD3D,['indie'],72,1576400
+Lainey Wilson,6tPHARSq45lQ8BSALCfkFC,['country'],77,1229898
+Lil Tjay,6jGMq4yGs7aQzuGsMgVgZR,"['brooklyn drill', 'melodic rap']",78,9712333
+Summer Walker,57LYzLEk2LcFghVwuWbcuS,['r&b'],80,7566268
+Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],87,44664807
+Lana Del Rey,00FQb4jTyendYWaN8pK0wa,[],92,46749918
+KAROL G,790FomKkXshlbRYZFtlgla,"['reggaeton', 'latin', 'urbano latino']",89,56208847
+Bo Burnham,2Waw2sSbqvAwK8NwACNjVo,['comedy'],67,2039361
+42 Dugg,45gHcnDnMC15sgx3VL7ROG,[],71,1432961
+Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,[],76,12361169
+Ivan Cornejo,6PH3FLQAxtqYy46Zv08bpV,"['sad sierreño', 'corridos tumbados', 'corrido', 'música mexicana', 'sierreño']",80,4161403
+Isaiah Rashad,6aaMZ3fcfLv4tEbmY7bjRM,[],70,1558973
+Spiritbox,4MzJMcHQBl9SIYSjwWn8QW,"['metalcore', 'djent', 'metal']",71,879585
+Mariah the Scientist,7HO5fOXE4gh3lzZn64tX2E,['alternative r&b'],69,798422
+Ashe,6P5NO5hzJbuOqSdyPB7SJM,[],69,2106802
+Charity Gayle,57YsESW6BGZLHQgOg8AiAq,"['worship', 'christian', 'pentecostal']",65,259740
+Laufey,7gW0r5CkdEUMm42w9XpyZO,[],82,7061806
+Ashnikko,3PyJHH2wyfQK3WZrk9rpmP,[],72,2522600
+Pooh Shiesty,5F1aAS1duwlzExnPs3l2Xe,['memphis rap'],70,1954099
+The Rare Occasions,1QfpRUtH14JLoY6F6AYmwt,[],67,559441
+Migos,6oMuImdp5ZcFhWP0ESe6mG,['trap'],77,14392501
+Megan Moroney,5Ppie0uPnbnvGBYRwYmlt0,['country'],77,806043
+BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,['southern hip hop'],83,1521747
+Clairo,3l0CmX0FuQjFxr8SK7Vqag,['bedroom pop'],82,5983045
+bbno$,41X1TR6hrK8Q2ZCpp2EqCz,['meme rap'],79,2152789
+Nardo Wick,0Njy6yR9LykNKYg9yE23QN,[],67,1493076
+John Mayer,0hEurMDQu99nJRq8pTxO14,['singer-songwriter'],78,6168597
+Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,"['texas country', 'red dirt', 'country']",70,616484
+DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,[],76,12003318
+Big Boogie,372IgXgnCt4wlfumrMTIOs,['memphis rap'],66,389885
+Natanael Cano,0elWFr7TW8piilVRYJUe4P,"['corridos tumbados', 'corrido', 'corridos bélicos', 'sad sierreño', 'electro corridos', 'sierreño', 'música mexicana', 'banda']",88,18918208
+Cochren & Co.,50hkKRxo0g8Ck4JqlwoJr4,"['christian', 'worship', 'ccm', 'pop worship', 'christian country', 'christian pop']",62,122472
+Måneskin,0lAWpj5szCSwM4rUMHYmrr,[],80,10260351
+Del Water Gap,0xPoVNPnxIIUS1vrxAYV00,[],64,249802
+Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,[],85,25294274
+Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'banda', 'sierreño', 'electro corridos', 'sad sierreño']",91,15213032
+Japanese Breakfast,7MoIc5s9KXolCBH1fy9kkw,[],65,784851
+Snoh Aalegra,1A9o3Ljt67pFZ89YtPPL5X,"['alternative r&b', 'neo soul']",69,1341940
+Phil Wickham,5d1JhBfyb58upMXCZOdbQu,"['worship', 'christian', 'ccm']",69,1086261
+LeeHi,7cVZApDoQZpS447nHTsNqu,"['k-ballad', 'k-pop']",68,2037468
+KXLLSWXTCH,2VDZoCBGjxbHJbnzSX5nP6,['dark trap'],65,328122
+ZillaKami,4G1zP5i0r57g1c1CxrPhfM,"['dark trap', 'punk rap', 'emo rap', 'horrorcore', 'rage rap', 'rap metal']",65,593184
+Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"['country', 'acoustic country']",78,6839786
+Only The Family,3IaKn0ExWTMPqa0mscUYw3,[],63,692723
+Lord Huron,6ltzsmQQbmdoHHbLZ4ZN25,[],78,1965449
+24kGoldn,6fWVd57NKTalqvmjRd2t8Z,[],69,2267826
+CAIN,2XDaX0gxzE4eCXjPPAREEq,"['christian', 'worship', 'christian country', 'pop worship', 'ccm', 'christian pop']",61,270495
+Caskets,2XIbOWDT5vZPW7jNyzdfcK,"['metalcore', 'post-hardcore']",60,202101
+girl in red,3uwAm6vQy7kWPS2bciKWx9,['bedroom pop'],74,8255483
+Marshmello,64KEffDW9EtZ1y2vBYgq8T,['edm'],84,34190579
+Ice Nine Kills,52qKfVcIV4GS8A8Vay2xtt,"['metalcore', 'metal', 'post-hardcore']",67,1087518
+Men I Trust,3zmfs9cQwzJl575W1ZYXeT,"['bedroom pop', 'indie pop']",74,2172966
+CeCe Winans,3qfrrrSO7utFdJkM2tvMRb,"['gospel', 'worship', 'christian']",67,1484515
+BJ Lips,22jHNXFZFhbCjUcEAm5xl9,[],67,120840
+Young Thug,50co4Is1HCEo8bhOyUWKpn,"['rap', 'melodic rap', 'trap']",86,11621471
+Pale Jay,7H3z77VbkJcCcFilmKqKNM,['retro soul'],63,135679
+Tai Verdes,2kCO8LXN1usaOPL3iEE28I,[],63,834099
+Emile Mosseri,0BNz24TKUn8Ov1ApFkLzA1,[],63,94878
+Parmalee,4TshyQDihSYXSWqvclXl3I,['country'],61,296176
+Greta Van Fleet,4NpFxQe2UvRCAjto3JqlSl,['rock'],67,2696741
+HAIM,4Ui2kfOqGujY81UcPrb5KE,[],69,1394173
+Kay Flock,2AMeiDbfU2vonrTkpXDKUu,"['new york drill', 'drill', 'brooklyn drill']",62,1104391
+EKKSTACY,0ynzbXwyCzxicMKHBoOkSH,[],63,334031
+Colby Acuff,2L9DVKDXY3W8uRl5TwLbMC,"['red dirt', 'country']",56,133236
+OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,['soft pop'],85,18177259
+Big Scarr,579LsvZcRVKtToYjS0tkKz,['memphis rap'],61,594316
+RÜFÜS DU SOL,5Pb27ujIyYb33zBqVysBkj,[],76,2056587
+Alvaro Diaz,5J7rXWjtn5HzUkJ4Jet8Fr,[],78,1255456
+Eladio Carrion,5XJDexmWFLWOkjOEjOVX3e,"['trap latino', 'urbano latino', 'trap']",85,8641519
+YBN Nahmir,3gGUMEwIX6XodWsYEvKSal,[],62,3041835
+ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,['k-pop'],81,11499153
+BoyWithUke,1Cd373x8qzC7SNUg5IToqp,[],74,4505760
+Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"['country', 'acoustic country', 'pop country']",78,4867992
+99zed,7kjqkL4lIUyxO4HLzpRYo9,"['dark trap', 'horrorcore']",59,76452
+Neoni,38wxcfNEqMwuPniHvplin5,[],70,568001
+Elton John,3PhoLpVuITZKcymswpck5b,[],84,14747901
+Lloyd Vaan,3HFWqhd60hrJB8fpyjrTLu,[],59,35079
+mike.,5G9kmDLg3OeUyj8KVBLzbu,[],65,612864
+Toby Fox,57DlMWmbVIf2ssJ8QBpBau,['soundtrack'],73,1754795
+Still Woozy,4iMO20EPodreIaEl8qW66y,['bedroom pop'],67,1073060
+Mike Sherm,3tqosLbNFNekyZyO2KJ6qd,['hyphy'],69,689131
+Mareux,7riQPkkGZBnTh9ve5qIhYo,['darkwave'],65,526632
+Larry Fleet,6MWr1SmTaCU5BJzOZxwJEw,"['christian country', 'country']",61,161277
+Black Gryph0n,4ET82ZtSfAK4utfjDauImD,[],67,389133
+LPB Poody,0wHeZY93Ede0g1jXaWsiFS,[],57,178211
+Pi’erre Bourne,3x3jSlhyv5CiCZDZlaTq0M,['melodic rap'],63,1063263
+Videoclub,3rp4f58JlRHkk8hpdLCer1,"['french indie pop', 'french pop']",68,679845
+H.E.R.,3Y7RZ31TRPVadSFVy1o8os,['r&b'],76,8357619
+Sierra Ferrell,3oVcF3VdpMuvMvLLyHPT4t,"['americana', 'alt country', 'bluegrass']",63,362569
+That Mexican OT,3BAgmPNIK5IJl7zMK1wvMA,[],73,1145559
+KAYTRANADA,6qgnBH6iDM91ipVXv28OMu,[],74,1703999
+beabadoobee,35l9BRT7MXmM8bv2WDQiyB,['bedroom pop'],83,5612034
+Fred again..,4oLeXFyACqeem2VImYeBFe,"['stutter house', 'house']",78,1932186
+Ethel Cain,0avMDS4HyoCEP6RqZJWpY2,[],70,933232
+Madison Beer,2kRfqPViCqYdSGhYSM9R0Q,[],73,7912657
+Peso Pluma,12GqGscKJx3aE4t07u7eVZ,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'sad sierreño', 'electro corridos', 'banda']",92,20970019
+BIG30,4nZmMrwH6LxHnCzQv4IFUE,['memphis rap'],63,690286
+Ryan Mack,5LGo1zHegJTWzqVXgeNplt,[],65,422988
+Niko Moon,6Rw7DRa1dzChBvxGPCpOxU,['country'],58,158598
+Farruko,329e4yvIujISKGKz1BZZbO,"['reggaeton', 'trap latino']",84,16550269
+Gigi Perez,1iCnM8foFssWlPRLfAbIwo,[],80,1109617
+Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,[],87,33777599
+Yung Bleu,3KNIG74xSTc3dj0TRy7pGX,[],65,1624003
+Patrick Stump,0wsdUS0EJ7zHgti2nxTVWR,[],59,149162
+Marc Seguí,5FQ8tBUtIamA2hRtatrYUF,[],68,202579
+Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,[],88,10843446
+Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['hip hop', 'west coast hip hop']",97,40468701
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,[],85,33635114
+Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,[],92,21612219
+The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,['country'],74,831572
+Beyoncé,6vWDO969PvNqNYHIOW5v0m,[],87,40149985
+d4vd,5y8tKLUfMvliMe8IKamR32,[],83,3809146
+Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,[],88,57024908
+Montell Fish,5nvWOyAkfNgVLKESq4fOj2,[],76,1961229
+sign crushes motorist,02vrwnrNEeDRV96o9iPSYP,['slowcore'],67,603431
+JVKE,164Uj4eKjl6zTBKfJLFKKK,[],76,5374268
+Suki Waterhouse,5GGJosGMs08YEmKTZJe1fL,[],72,1126458
+Post Malone,246dkjvS1zLTtiykXe5h60,[],90,46870138
+Benson Boone,22wbnEMDvgVIAGdFeek6ET,[],87,5392401
+Feid,2LRoIwlKmHjgvigdNGBHNo,"['reggaeton', 'urbano latino']",90,17009907
+ERNEST,4GGfAshSkqoxpZdoaHm7ky,['country'],72,271261
+The 1975,3mIj9lX2MWuHmhNCA7LSCW,[],78,7730758
+Frou Frou,6MUyqmIQ35inLjch0YzIEG,[],67,297452
+Bryan Martin,0ChjBYedhZTQnWZWQYg15U,"['country', 'country rock']",69,220921
+Kodak Black,46SHBwWsqBkxI7EeeBEQG7,[],82,11835840
+Caamp,0wyMPXGfOuQzNR54ujR9Ix,"['indie folk', 'folk']",71,684110
+Øneheart,0dgJbQ0bKPyUXco8hEXN7X,"['dark ambient', 'ambient']",75,955437
+Destroy Lonely,1HPW4jeRjXBFRoUnSvBzoD,['rage rap'],74,1555651
+Wyatt Flores,46lEQmDJLJeyltECJYJv1Y,"['country', 'red dirt']",68,383955
+Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,"['country', 'acoustic country']",76,2204191
+David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['edm', 'dance']",90,27059017
+Cults,3Oim8XBPbznAa8Jj8QzNc8,[],71,1128940
+Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,"['country', 'acoustic country']",67,2486085
+Dylan Scott,78YqeIji3mgAS2K1Maca6x,['country'],70,1826611
+Swedish House Mafia,1h6Cn3P4NGzXbaXidqURXs,['edm'],77,3914223
+Teddy Swims,33qOK5uJ8AR2xuQQAhHump,[],88,4573294
+Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,"['country', 'pop country']",76,5664447
+Anne Wilson,75JvBeqW4BJ4xgnbMAq6MN,"['christian country', 'christian', 'worship', 'ccm']",64,344839
+NewJeans,6HvZYsbFfjnjFrWF950C9d,['k-pop'],79,10618988
+keshi,3pc0bOVB5whxmD50W79wwO,[],78,4024112
+Warren Zeiders,7kplJl06UmldxLKseURAYi,['country'],75,953848
+Sean Paul,3Isy6kedDrgPYoTS1dazA9,['dancehall'],84,5105512
+Motionless In White,6MwPCCR936cYfM1dLsGVnl,"['metalcore', 'metal', 'screamo']",70,1873484
+Big Thief,5QdyldG4Fl4TPiOIeMNpBZ,[],71,1139870
+Real Boston Richey,1iwUuIOKYjV7SKIg27v4zi,[],66,287200
+Shaboozey,3y2cIKLjiOlp1Np37WiUdH,[],79,1124429
+La Santa Grifa,1oH2B8tcHn4Gpl2bmmyd4A,"['mexican hip hop', 'latin hip hop', 'sad sierreño']",77,8007522
+Sonder,2ICR2m4hOBPhaYiZB3rnLW,['r&b'],73,1750658
+Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,['country'],78,1689172
+Misa Bee,5JSgVFubDnbqYDUWPzl4tj,[],67,1230
+ThxSoMch,4MvZhE1iuzttcoyepkpfdF,[],68,514500
+Evan Honer,1GERDglQrxe4ynLzcdG6qP,[],65,148378
+GloRilla,2qoQgPAilErOKCwE2Y8wOG,[],81,2082623
+I Prevail,3Uobr6LgQpBbk6k4QGAb3V,"['metalcore', 'metal']",70,1701970
+Hermanos Espinoza,1V0BgbhknuuZIMxKO0M9FV,"['corrido', 'corridos bélicos', 'norteño', 'corridos tumbados', 'música mexicana']",73,408201
+LOVELI LORI,7mcE0EmrnPmyAGU3UBJrFg,[],66,132335
+Yung Gravy,2YOYua8FpudSEiB9s88IgQ,['meme rap'],70,1712160
+Shinedown,70BYFdaZbEKbeauJ670ysI,"['post-grunge', 'alternative metal', 'rock', 'acoustic rock']",74,4360696
+Walker Hayes,7sKxqpSqbIzphAKAhrqvlf,['country'],63,702988
+Denzel Curry,6fxyWrfmjcbj5d12gXeiNV,['punk rap'],73,2781601
+Mike Dimes,6rIaHuCIUu32uj2CjlEBN3,[],60,242506
+Ghost,1Qp56T7n950O3EGMsSl81D,"['metal', 'hard rock']",77,3527430
+Xavier Wulf,3uo0ix4Y67XHVWBhXXIY1S,"['cloud rap', 'dark trap', 'underground hip hop', 'memphis rap', 'emo rap']",71,1093291
+Isabel LaRosa,5arKwJZEvT5uKq4o0JfqR4,[],75,2291908
+Lizzo,56oDRnqbIiwx4mymNEv7dS,[],72,5715284
+Smino,1ybINI1qPiFbwDXamRtwxD,[],68,1023722
+Zach Top,4FGPzWzgjURDNT7JQ8pYgH,['country'],76,526859
+XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,['emo rap'],87,49831406
+Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,"['country', 'red dirt', 'alt country', 'texas country', 'bluegrass']",79,2885287
+Romeo Santos,5lwmRuXgjX8xIwlnauTZIP,"['bachata', 'bachata pop', 'latin']",85,25070379
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,[],78,15707578
+j-hope,0b1sIQumIAsNbqAoIClSpy,"['k-pop', 'k-rap']",83,18389112
+Hovar,3COnOYhmr8nINwgd54Z8wj,[],59,256
+House Of Pain,0AuW7OCyKfFrsMbtHrYgIV,[],63,736788
+jaydes,5zI4LODdVYwnKZHv4mDHRv,[],68,303241
+Fleshwater,6P5ccCJCe8A4s9tDSTNFzF,['shoegaze'],57,245343
+The Backseat Lovers,6p2HnfM955TI1bX34dkLnI,[],69,776783
+Quavo,0VRj0yCOv2FXJNP47XQnx5,[],80,7741179
+Royel Otis,5b5bt4mZQpJMoCRbiQ7diH,['indie'],71,430618
+Evomin,377XEfaskiPevvTMYzJvUb,[],59,498
+Edicion Especial,7DkseLyOZrdRjCuoWFtqFi,"['corrido', 'corridos bélicos', 'norteño', 'sad sierreño', 'corridos tumbados', 'banda']",73,2021662
+Rex Orange County,7pbDxGE6nQSZVfiFdq9lOL,['bedroom pop'],77,6469464
+Alfredo Olivas,5xYNmNkaWRqu3e5F4UXME8,"['banda', 'corrido', 'norteño', 'sierreño', 'corridos bélicos']",80,10285136
+Joey Bada$$,2P5sC9cVZDToPxyomzF1UH,"['hip hop', 'rap']",73,3728264
+Mother Mother,0e86yPdC41PGRkLp2Q1Bph,[],73,4380846
+Frankie Ruiz,4dLvccxeQIM5u80Ri0u9OV,"['salsa', 'salsa romantica', 'merengue']",72,1991652
+Reneé Rapp,2hUYKu1x0UZQXvzCmggvSn,[],67,1019051
+TobyMac,5VX8hxrcfJWwaTLiqGUHG3,"['christian', 'pop worship', 'christian pop', 'ccm', 'christian rock', 'christian hip hop', 'cedm', 'worship', 'christian alternative rock']",69,1460740
+Cris Mj,1Yj5Xey7kTwvZla8sqdsdE,"['reggaeton chileno', 'chilean trap', 'chilean mambo', 'reggaeton']",86,5824953
+Whiskey Myers,26opZSJcXshCmCwxgZQmBc,"['red dirt', 'texas country', 'southern rock', 'country', 'country rock']",70,1021264
+Rema,46pWGuE3dSwY3bMMXGBvVS,"['afrobeats', 'afrobeat', 'afropop', 'afropiano']",79,7065723
+Dean Lewis,3QSQFmccmX81fWCUSPTS7y,[],78,3751779
+Memphis May Fire,7cNNNhdJDrt3vgQjwSavNf,"['metalcore', 'post-hardcore', 'screamo', 'metal']",64,915242
+Nickelback,6deZN1bslXzeGvOLaLMOIF,"['post-grunge', 'rock']",81,7516056
+ROSALÍA,7ltDVBr6mKbRvohxheJ9h1,['latin'],78,8472376
+Mitski,2uYWxilOVlUdk4oV9DvwqK,[],82,10270947
+Muni Long,7tjVFCxJdwT4NdrTmjyjQ6,[],68,825523
+Ado,6mEQK9m2krja6X1cfsAjfl,"['j-pop', 'anime', 'vocaloid', 'j-rock']",78,5903640
+Kameron Marlowe,31n3CN1jSC5ALUJ9dwT8UI,['country'],64,221838
+Dayseeker,5FjQVp1Lb0kltmwIuu5kfj,"['metalcore', 'post-hardcore']",63,388957
+brakence,4kqFrZkeqDfOIEqTWqbOOV,"['hyperpop', 'glitch']",58,277548
+Avenoir,3Z7onAknzpinUu3KtmgeZb,"['alternative r&b', 'r&b']",67,358422
+Nessa Barrett,7pwufEBGfggjoI8twqlsmQ,[],75,1594675
+Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,"['southern hip hop', 'rap', 'trap']",78,5856061
+Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,['baroque pop'],80,7085915
+Klangspiel,2IM5tvnq8r2d8yYY2FTXNX,[],60,667
+Dhruv,70NcAr4ZtA3FAqU16iQZSb,[],66,770495
+Polyphia,4vGrte8FDu062Ntj0RsPiZ,"['math rock', 'djent', 'progressive metal', 'progressive rock']",61,1285722
+Becky G,4obzFoKoKRHIphyHzJ35G3,"['reggaeton', 'latin']",77,16206887
+Baby Smoove,15oLsNy8mZYaIukh4eDhXy,[],65,440690
+David Kushner,33NVpKoXjItPwUJTMZIOiY,[],75,2626280
+Freddie Dredd,0dlDsD7y6ccmDm8tuWCU6F,"['phonk', 'dark trap', 'memphis rap']",69,1913861
+SleazyWorld Go,7FOQfJbC3e4GNoheojERnF,[],60,526947
+jev.,6OmxkansdRyVTvo6BpZzKF,['jazz rap'],61,179331
+Chappell Roan,7GlBOeep6PqTfFi59PTUUN,[],88,5970074
+Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,['rap'],94,38230125
+Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,[],86,9048119
+Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,"['cumbia norteña', 'banda', 'norteño', 'música mexicana', 'corrido', 'corridos tumbados', 'grupera', 'corridos bélicos', 'tejano']",86,6367503
+Hozier,2FXC3k01G6Gw61bmprjgqS,[],86,8698819
+Jung Kook,6HaGTQPmzraVmaVxvz6EUc,['k-pop'],83,17481233
+Nate Smith,4NYMUsIcUUsBHbV9DICa5x,['country'],73,493698
+A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,['rap'],87,16399867
+RAYE,5KKpBU5eC2tJDzf0wmlRp2,[],81,2272948
+Tainy,0GM7qgcRCORpGnfcN2tCiB,['reggaeton'],80,2733689
+Jorge Rivera-Herrans,2kdmTOXncgNHSuYVMhdd5I,['musicals'],83,779116
+Jungle,59oA5WbbQvomJz2BuRG071,[],75,1666910
+Chezile,1EmdfupUQDpXOcb4Nj2mBH,[],72,224953
+Carin Leon,66ihevNkSYNzRAl44dx6jJ,"['banda', 'norteño', 'sierreño', 'corrido', 'grupera', 'ranchera', 'sad sierreño', 'música mexicana']",86,15729836
+Troye Sivan,3WGpXCj9YhhfX11TToZcXP,[],78,9152116
+Sam Barber,08GfvCW09pv2QP4y9sle2a,['country'],78,664510
+boygenius,1hLiboQ98IQWhpKeP9vRFw,[],67,1030889
+Sexyy Red,3DbwFQlvLxRSi2uX8mf81A,[],80,2033917
+Mac DeMarco,3Sz7ZnJQBIHsXLUSo0OQtM,['indie'],82,7333853
+Ole 60,3iXeAZ8862AyoZ5ZGg800O,['country'],66,284543
+Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,[],76,1241572
+Ella Langley,6BRxQ8cD3eqnrVj6WKDok8,['country'],75,385597
+Gregory Alan Isakov,5sXaGoRLSpd7VeyZrLkKwt,"['indie folk', 'folk', 'folk pop']",73,1061212
+Catch Your Breath,2fqPOGxG12nEERj8YG7p22,['metalcore'],64,205999
+Gavin Adcock,5jG6uRqinuI83luutMpW6y,"['country', 'red dirt']",73,322544
+Nicky Youre,7qmpXeNz2ojlMl2EEfkeLs,[],67,304938
+Beach Weather,7I3bkknknQkIiatWiupQgD,[],70,864142
+Rich Amiri,2sF5nNXnrrsCPZlt8ZpyGd,['rage rap'],68,715083
+Riley Green,2QMsj4XJ7ne2hojxt6v5eb,['country'],78,1079692
+Tiësto,2o5jDhtHVPhrJdv3cEQ99Z,"['edm', 'trance', 'big room', 'house']",83,7807202
+Hunxho,508weSx4HBumrGggFmc7br,[],67,511228
+Lauren Spencer Smith,79AyR6ATpj2LTPxfb6FX50,[],69,1637479
+Pecos & the Rooftops,5KbiLoVLLIHM5vZ0RM9WMU,"['red dirt', 'texas country', 'country']",60,196816
+Charles Wesley Godwin,2ErsJAz6qJ5cqjoVAvfvaC,"['red dirt', 'country']",65,218131
+Tyla,3SozjO3Lat463tQICI9LcE,['afrobeats'],79,2856471
+Tyler Hubbard,3BEV5FcxOtkQJ7lLRKMh3V,['country'],64,267520
+Olivia Dean,00x1fYSGhdqScXBRpSj3DW,['pop soul'],74,638151
+LE SSERAFIM,4SpbR6yFEvexJuaBpgAU5p,['k-pop'],82,6972549
+Paul Russell,4zoRNhOhsGX3w8yBAnFSQ8,[],65,242744
+Pierce The Veil,4iJLPqClelZOBCBifm8Fzv,"['emo', 'screamo', 'post-hardcore']",75,3500113
+Snow Strippers,6TsAG8Ve1icEC8ydeHm3C8,"['electroclash', 'witch house']",68,237870
+Dylan Gossett,4H4M0Y4cN39zIVDHvdW53x,['country'],68,379331
+Joey Valence & Brae,1q4618qKswelCGLoanFKQh,[],67,609892
+ILLENIUM,45eNHdiiabvmbp4erw26rg,"['melodic bass', 'future bass', 'edm']",72,1575476
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,['soft pop'],80,13416444
+Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,[],79,22022763
+Old Dominion,6y8XlgIV8BLlIg1tT1R10i,['country'],71,1658790
+Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,"['country', 'texas country']",63,229496
+Oscar Maydon,3l9G1G9MxH6DaRhwLklaf5,"['corridos tumbados', 'corrido', 'corridos bélicos', 'electro corridos', 'sad sierreño', 'banda', 'música mexicana']",85,5164563
+Gorillaz,3AA28KZvwAUcZuOKwyblJQ,[],83,13213518
+Nic D,1XlLhtgJjC4ROQZilBZAvw,[],70,470162
+Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,[],79,5160537
+Clara La San,3u65Tx20y4WqxO7W7khEhj,[],65,328307
+glaive,4cJKDGSv4Dz9QycXYmo565,"['hyperpop', 'glitch']",65,321148
+Forrest Frank,1scVfBymTr3CeZ4imMj1QJ,"['christian hip hop', 'christian pop', 'pop worship', 'christian', 'worship', 'gospel r&b']",78,1250443
+BABY GRAVY,46VgqDxDEn45y1t0zBS7Do,['meme rap'],62,120890
+Wind Walkers,2K2bsaNeuQAFkuVwrrlJe0,"['metalcore', 'post-hardcore']",60,84514
+Michael Marcagi,4j96cMcT8GRi11qbvo1cLQ,[],71,243835
+Leith Ross,4nxKz1dRYXnsGzN1lUURtG,[],61,317602
+Oliver Anthony Music,6IkfE2JyVoKwBZXvuytKX3,['country'],62,923318
+Jalen Ngonda,2kEDso93O2hDgCbnuiSkkZ,['retro soul'],64,236788
+Alek Olsen,27sdgIaFiz55vkR68fBiy8,[],61,124934
+sombr,4G9NDjRyZFDlJKMRL8hx3S,[],80,550885
+Tee Grizzley,6AUl0ykLLpvTktob97x9hO,[],71,3936441
+Leon Thomas,0nnBZ8FXWjG9wZgM2cpfeb,[],76,478785
+Odetari,7ITMCzIU9uII8gwRg8JAhc,"['hyperpop', 'nightcore', 'jersey club']",79,4137234
+BossMan Dlow,23xFbA9rYgRX8mreqysWPc,[],73,654414
+Ludwig Göransson,24eDfi2MSYo3A87hCcgpIL,['soundtrack'],67,381286
+Bakar,3K2Srho6NCF3o9MswGR76H,[],69,687932
+Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,[],77,7714013
+Yng Lvcas,1NNRWkhwmcXRimFYSBpB1y,"['reggaeton mexa', 'reggaeton', 'electro corridos']",73,420974
+Veeze,0B3kMiB21aPQlKumGDr4c7,[],67,265122
+Katy Nichole,4sdhhi6q1Ez9l5PagQsykC,"['christian', 'worship', 'ccm']",60,212992
+FISHER,1VJ0briNOlXRtJUAzoUJdt,"['tech house', 'house', 'techno']",79,1098172
+Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,"['reggaeton', 'latin', 'colombian pop']",84,14953948
+Austin Williams,1VKH3J7gGkVyOX0sEqsFSR,"['country hip hop', 'country']",60,148073
+FIFTY FIFTY,4GJ6xDCF5jaUqD6avOuQT6,['k-pop'],67,1878801
+Larry June,1grN0519h2zYqpRtYbDZAl,[],70,499036
+Paramore,74XFHRwlV6OrjEM0A2NCMF,"['pop punk', 'emo', 'emo pop']",82,9335864
+The Beaches,6ws5XBA70XgeBpnLZhQBoy,[],62,327065
+Autumn!,5delTPpDAtBDsjk60f5xnt,['underground hip hop'],65,599031
+MEDUZA,0xRXCcSX89eobfrshSVdyu,[],74,901977
+OsamaSon,0uj6QiPsPfK8ywLC7uwBE1,"['underground hip hop', 'rage rap']",68,314521
+Tito Double P,5eumcnUkdmGvkvcsx1WFNG,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'música mexicana']",91,6584670
+Alex Warren,0fTSzq9jAh4c36UVb4V7CB,[],86,1207719
+ROSÉ,3eVa5w3URK5duf6eyVDbu9,['k-pop'],85,11079449
+Tucker Wetmore,4sCKpwwEsgReZxjtKFm2A0,['country'],71,372448
+Tommy Richman,1WaFQSHVGZQJTbf0BdxdNo,[],76,879709
+Lola Young,67FB4n52MgexGQIG8s0yUH,[],83,1007830
+Omar Courtz,3E12tRURRvPfHz0hAMCFYc,[],85,1003381
+Chrystal,5bQ3wFgekuIMIcWJuxkqLK,[],74,41178
+Josiah Queen,7yAymwuYh9RcpX84GSNIq2,"['christian folk', 'christian', 'worship', 'pop worship', 'christian pop']",71,399996
+ROLE MODEL,1dy5WNgIKQU6ezkpZs4y8z,['bedroom pop'],76,628835
+Neton Vega,6pV5zH2LzjOUHaAvENdMMa,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos']",91,2003531
+Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['nu metal', 'rap metal', 'rock', 'alternative metal']",90,29674150
+Dasha,7Ez6lTtSMjMf2YSYpukP1I,[],72,333290
+Max McNown,340PS4ZcZ4UCBgyrXzEjcp,[],73,482380
+Jimin,1oSPZhvZMIrWW5I41kPkkY,['k-pop'],83,10091012
+Falling In Reverse,2CmaKO2zEGJ1NWpS1yfVGz,"['emo', 'rap metal']",75,3853153
+Myles Smith,3bO19AOone0ubCsfDXDtYt,[],79,1032115
+Chino Pacas,2rmkQLzj0k4nZdQehOUByO,"['corridos tumbados', 'corrido', 'corridos bélicos', 'música mexicana', 'electro corridos']",80,4053535
+Chance Peña,4lhUHpVOXmkEBGGHV71QCh,[],73,498280
+Malcolm Todd,7eKkW1zo5uzW8kUntiiBvz,[],76,479095
+Ravyn Lenae,5RTLRtXjbXI2lSXc6jxlAz,['alternative r&b'],75,564588
+Flatland Cavalry,4SfGzWmeoNPKIOmiyc7Pav,"['texas country', 'red dirt', 'country']",66,331899
+Dan Kraus,0sHUyRWX6EfKQx2TBGot1z,[],75,4867
+FloyyMenor,7CvTknweLr9feJtRGrpDBy,['reggaeton chileno'],82,1700142
+Redferrin,4oCk0xbmAtqXZFzXtH3AgF,['country'],65,107799
+John Summit,7kNqXtgeIwFtelmRjWv205,"['house', 'tech house']",75,481355
+Xavi,3Me35AWHCGqW4sZ7bWWJt1,"['corridos tumbados', 'corrido', 'corridos bélicos', 'sad sierreño', 'música mexicana', 'banda']",78,7727393
+Calvin Harris,7CajNmpbOovFoOoasH2HaY,['edm'],87,23145552
+Addison Rae,4gvjmrtzydbMpyJaXUtwvP,[],72,808372
+yung kai,6zO1dZ40fTZ5hY9NnnRJSk,[],77,1045711
+Magdalena Bay,1oPRcJUkloHaRLYx0olBLJ,[],69,428559
+Hudson Westbrook,0C4gtx1iHMfuaQ73GKWvtZ,['country'],70,181448
+Nettspend,2jl4qd6UbzeCmImT4nWbtA,"['underground hip hop', 'rage rap']",67,265812
+Gabito Ballesteros,6Sbl0NT50roqWvy746MfVf,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'sad sierreño', 'electro corridos', 'banda']",84,4940294
+Wallows,0NIPkIjTV8mB795yEIiPYL,['indie'],74,2938307
+Alexandre Alekhine,0k7nSc2ynSlqLXx1qwz3Mk,['lullaby'],63,987
+Good Neighbours,52N3KGrTWDRhdQJrgBTofE,[],68,174594
+Mark Ambor,11p2E654TTU8e0nZWBR4AL,[],73,616969
+Wisp,3TJZG17pjOKXwx1ELKJPfm,['shoegaze'],65,529247
+Loe Shimmy,6UIpxj5ggLdOebFVCOxVax,['sexy drill'],67,131368
+Latto,3MdXrJWsbVzdn6fe5JYkSQ,[],77,2015598
+Hanumankind,4nVa6XlBFlIkF6msW57PHp,"['malayalam hip hop', 'desi hip hop']",71,758457
+Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,['dream pop'],86,15508994
+Brooks & Dunn,0XKOBt59crntr7HQXXO8Yz,"['country', 'acoustic country']",74,3154546
+Remi Wolf,0NB5HROxc8dDBXpkIi1v3d,[],68,597590
+Vincent Mason,6QJ5CE7ujPr7oZCURhFZVS,['country'],63,91090
+Cameron Whitcomb,6dhXvR5MsnlwYguRuqoapR,[],73,313852
+Calle 24,6dLuQ5qXxIuWc5urxfIiZR,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'sad sierreño']",78,2094074
+Luh Tyler,1K15GRZZATsCJyGJ4bYiEz,[],65,422757
+Mk.gee,7tr9pbgNEKtG0GQTKe08Tz,[],65,363806
+Lynyrd Skynyrd,4MVyzYMgTwdP7Z49wAZHx0,"['southern rock', 'classic rock', 'rock']",75,5602854
+Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,[],78,6972232
+G-Eazy,02kJSzxNuaWGqwubyUba0Z,[],79,5904485
+Russ,1z7b1Pr1rSlvWRzsW3HOrS,[],76,5361156
+Counting Crows,0vEsuISMWAKNctLlUAhSZC,[],72,1884665
+SiR,3QTDHixorJelOLxoxcjqGx,"['alternative r&b', 'neo soul']",69,1127319
+Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,[],72,1467997
+Hans Zimmer,0YC192cP3KPCRWx8zr8MfZ,['soundtrack'],79,4496114
+Simple Minds,6hN9F0iuULZYWXppob22Aj,['new wave'],69,2212381
+Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,['soft pop'],76,5937748
+Edward Maya,6XwwFnewNgWp81MYMK8zLq,[],70,313273
+SYML,6AyATGg7mDgBlZ4N5uNog0,[],74,902646
+Banda El Recodo,6AcOTCYBMvjKYy4zms0kaC,"['banda', 'norteño', 'música mexicana', 'grupera', 'corrido']",75,4250123
+Haddaway,0Suv0tRrNrUlRzAy8aXjma,['eurodance'],69,438149
+Stromae,5j4HeCoUlzhfWtjAfM1acR,['french pop'],78,3735552
+El Trono de Mexico,5L6QAKAkdJIPLsNbItZ2KF,"['duranguense', 'banda', 'grupera', 'música mexicana']",70,1372423
+Joe Hisaishi,7nzSoJISlVJsn7O0yTeMOB,"['japanese classical', 'anime']",72,1398336
+Sonny Fodera,39B7ChWwrWDs7zXlsu3MoP,"['house', 'tech house']",72,263750
+Grateful Dead,4TMHGUX5WI7OOm53PqSDAT,"['psychedelic rock', 'acid rock']",68,1965389
+Yandel,0eHQ9o50hj6ZDNBt6Ys1sD,"['reggaeton', 'urbano latino', 'latin']",80,8484834
+Ludovico Einaudi,2uFUBdaVGtyMqckSeCl0Qj,"['neoclassical', 'classical']",80,3798367
+Ariis,09cKncAQn28NqTUORLMwSR,"['phonk', 'brazilian phonk']",71,361365
+HUGEL,5PlfkPxwCpRRWQJBxCa0By,"['latin house', 'afro house', 'tech house']",80,461960
+Kolohe Kai,3Je8tRazTtqZxGkbeJDGL8,"['nz reggae', 'reggae']",62,476196
+2hollis,72NhFAGG5Pt91VbheJeEPG,"['hyperpop', 'electroclash']",70,277815
+Morgan Seatree,0GInfEJXl2kGPhSsVqEqXh,['hard house'],72,20144
+Alesso,4AVFqumd2ogHFlRbKIjp1t,['edm'],76,4012442
+Bob Sinclar,5YFS41yoX0YuFY39fq21oN,"['french house', 'disco house']",73,701067
+BABYMETAL,630wzNP2OL7fl4Xl0GnMWq,"['j-rock', 'metal']",70,2462763
+Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,['latin pop'],79,7966657
+1nonly,3ZHU5AKrUmIPnCFfr82QER,['phonk'],69,1110168
+Los Acosta,1sxekzjeHJaqkZbpaaGR9x,"['grupera', 'cumbia', 'cumbia sonidera']",71,2423337
+Gibran Alcocer,5nWYvcpaqKtp08cYxjOfFr,[],72,641415
+K-Paz De La Sierra,1TCSet7pGZCDkcXCOzH359,"['duranguense', 'banda', 'grupera', 'música mexicana', 'norteño']",65,1611007
+Tinlicker,5EmEZjq8eHEC6qFnT63Lza,"['melodic house', 'progressive house', 'melodic techno']",66,248954
+Timmy Trumpet,0CbeG1224FS58EUx4tPevZ,"['melbourne bounce', 'big room']",73,1251223
+Armin van Buuren,0SfsnGyD8FpIN4U4WCkBZ5,"['trance', 'progressive house', 'electronica', 'edm']",77,4534008
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,[],72,4548155
+Olivia Newton-John,4BoRxUdrcgbbq1rxJvvhg9,[],70,1717259
+Clovis Reyes,1rPMCfJhANfBT78l2wf4d6,['phonk'],64,275793
+TheFatRat,3OKg7YbOIatODzkRIbLJR4,[],67,1971726
+Yami Safdie,4RWJOoYwgF978LOn8Fainp,[],72,501490
+Rudimental,4WN5naL3ofxrVBgFpguzKo,[],72,1404334
+R3HAB,6cEuCEZu7PAE9ZSzLLc2oQ,"['slap house', 'edm']",74,2594074
+REDZED,3FCo1sUkVbwKnO2m0Z7Bp9,"['dark trap', 'horrorcore']",61,250996
+iñigo quintero,0jbo7KFNMiIkfBR6ih0yhm,[],67,560767
+Jere Klein,35oGZihZclGoTVuICPXRP9,"['reggaeton chileno', 'chilean mambo', 'chilean trap', 'mambo', 'rkt']",74,2646623
+LBI利比,1xMn0bhYRWHDV01mU8gP1J,"['chinese r&b', 'mandopop', 'c-pop']",68,81690
+Víctor Manuelle,4N5fp4zhTsVITZTVfsXpc2,"['salsa', 'salsa romantica', 'merengue']",66,2152791
+Michael Schulte,21aa4pj9BvbFB2iT8kRpnq,[],63,341290
+Karan Aujla,6DARBhWbfcS9E4yJzcliqQ,"['punjabi pop', 'punjabi hip hop', 'bhangra', 'desi hip hop', 'desi']",81,17689147
+Carlos Rivera,39yVoqm6sYFvvqF1RciUVf,['latin pop'],73,4844396
+De La Rose,54seKvtsZauR1iauN0ptpo,[],81,791023
+MoonDeity,5ja9cfKWW8Zj9aloyK8WuY,"['phonk', 'drift phonk']",62,538073
+The Waterboys,5TnuP42pw475UrjjeabtwZ,['celtic rock'],61,314625
+Blaiz Fayah,2WyypmYjOdaXg0bXDP67j7,"['shatta', 'dancehall', 'moombahton', 'ragga']",67,134692
+Sematary,1GLnyPuL45vOsZPs5iANcC,"['cloud rap', 'witch house', 'horrorcore', 'experimental hip hop']",59,291410
+Yaisel LM,2PxnKk0fTNgMzm5pY6tINL,['dembow'],55,252023
+Hariharan,2NoJ7NuNs9nyj8Thoh1kbu,"['bhajan', 'tamil pop', 'ghazal', 'kollywood', 'devotional', 'telugu pop']",76,6789797
+Elvis Martinez,66U02qGDesTqZImnLSiYeE,"['bachata', 'bachata pop', 'merengue']",52,359533
+Eme MalaFe,4RFrAp13K0fHKH7IpSdKxi,"['reggaeton mexa', 'mexican hip hop']",66,291745
+JONY,2ISiyx4DLCMAMBCvPesCoq,[],67,1871440
+Nicolas Julian,5Y1nFir8L9kJP7n1yZSeYb,"['hypertechno', 'techno', 'hard techno']",64,136856
+MACAN,5VKufGMVAZ6fs111xYNKnU,[],64,1223887
+Keenan Te,6Ge3YISmUWPCUcSVx8VGor,[],63,374826
+Lia Kali,7rFHoDuiSlV0DGHxckjm89,[],69,219082
+Perfume Genius,2ueoLVCXQ948OfhVvAy3Nn,"['art pop', 'chamber pop']",61,415051
+cade clair,0647ep4AirMtU3Iq9YcBXm,"['hyperpop', 'jersey club']",65,362399
+LIZOT,12A83CWwFiyXy90ScLWPIe,"['slap house', 'hypertechno']",65,106096
+Anar,4C5EDmZfgkkSwUVFSvuUNP,"['phonk', 'brazilian phonk']",67,200608
+Maddix,0RMeG9M8QFzss9bAbq99KA,"['big room', 'techno', 'hard techno', 'acid techno', 'hypertechno']",68,192020
+Yeison Jimenez,3SEztK9fNxg81qZ8qETGNT,"['ranchera', 'popular colombian music', 'vallenato']",65,2250764
+NO CIGAR,3XQd5pdqTHayJ1nUL3yqjT,['surf rock'],52,21574
+Luis Alfonso,0GchaVw5KfSVEm0xl0OXEe,"['ranchera', 'popular colombian music', 'vallenato', 'corrido', 'banda']",65,1436125
+Ran-D,7IeovKzVkfcG9mIJGNzTcT,"['hardstyle', 'frenchcore', 'hardcore']",60,260854
+Braaheim,5yczwlOmRZG3wUEtvLiGBg,['slap house'],66,49205
+Carabao,1LCwH85p61LDPxSg2uWUL9,"['phleng phuea chiwit', 'luk thung', 'thai rock', 'southern thai music', 'thai pop']",55,353916
+House of Shem,2ERWeFslDVHB4E9pSSw845,"['nz reggae', 'reggae']",48,94593
+Giggs,3S0tlB4fE7ChxI2pWz8Xip,['grime'],63,542160
+Reykon,3PAwspMN27PDm81WwXDsMf,"['reggaeton', 'trap latino']",62,3167901
+Nina Simone,7G1GBhoKtEPnP86X2PvEYO,"['vocal jazz', 'jazz blues', 'soul', 'soul jazz', 'jazz', 'blues']",70,3112959
+Headie One,6UCQYrcJ6wab6gnQ89OJFh,"['uk drill', 'grime', 'drill']",67,639367
+Alfonso Muñoz,0PQgqflwYTFSjgRG9hBxUT,"['corrido', 'corridos bélicos']",60,22251
+Busy Signal,4RfTXjK9aiiIKDaKUHpL57,"['dancehall', 'reggae', 'lovers rock', 'ragga', 'soca', 'riddim']",63,689461
+T.I BLAZE,1FIsnQiSPsuqA38z48irJC,"['afro adura', 'afrobeat', 'afrobeats', 'afropiano', 'afropop', 'afro soul']",66,848072
+Deepend,0uGApGjjFXKwUOAqYBeX7B,"['tropical house', 'deep house']",65,60200
+Matheus & Kauan,2Z0lRIqr997lIUiPtrpKCr,"['sertanejo', 'sertanejo universitário', 'arrocha', 'agronejo']",80,12079629
+Ferrugem,5ZfBThYiIIhL7jHMG8gDB2,"['pagode', 'samba']",77,5940994
+Mohamed Ramadan,4CflzQprp6nZxKiv0t78tH,"['mahraganat', 'egyptian pop', 'moroccan pop', 'arabic rap', 'egyptian shaabi']",57,1714151
+Stan Walker,7fRw4ouudxR1jHgyrTIKuY,['nz reggae'],52,265746
+Uru,6le80R1opKnTlP4o3KvA2k,"['j-pop', 'anime']",63,1069768
+KVSH,2uGKgNuq7MnKksXiSO6HjB,"['brazilian bass', 'electronic', 'electro']",62,440781
+Gloc-9,7HJDRQAfEcFiARVehhM6qD,"['pinoy hip hop', 'opm', 'pinoy rock', 'pinoy alternative', 'pinoy r&b', 'p-pop']",65,1724281
+Ave Mujica,5BKIH2Kwc6LbetG04Boai7,['j-rock'],56,67944
+Luis Brown,1f7FtdbdaRjeeOr0gK9f3L,['dembow'],59,113545
+Basta,7as5DY4Rz9jac9tgoTrj9H,[],62,1594281
+El Mató a un Policía Motorizado,5rLsN2LxYaEPLa1N7I2mPB,"['argentine rock', 'latin indie', 'latin rock']",60,465102
+Corazón Serrano,4UuICMmKQKNyCJfBg6lFFD,"['cumbia', 'chicha', 'huayno', 'cumbia norteña']",66,1565980
+Nej,3BQ9mWlgFRfMr5EdNfc10a,[],64,1326836
+Tom Gregory,6Rmg5JiRphFMlhkwGNl9Fu,[],57,110034
+Guè,7F2utINZ6tSokSiZTQBE27,['italian trap'],78,2818332
+Nakash Aziz,4kq8z3vydHjPDggxb16ErB,"['bollywood', 'tollywood', 'desi', 'telugu pop', 'hindi pop', 'tamil dance']",70,387334
+Demarco,0af5VM6xubf8EXKvoG35x6,"['dancehall', 'soca', 'riddim', 'ragga', 'reggae', 'bongo flava']",50,378633
+Nina Chuba,2kS9NyuATpYwjeB93h24H5,"['german pop', 'german hip hop']",73,922612
+Mundo Bita,47iSWoNrLjnWCWesR14gL2,"['lullaby', ""children's music""]",66,375510
+Sam C.S.,5VAyiDhBinVfc6RM5RKnLa,"['tamil pop', 'kollywood', 'malayalam hip hop']",64,1211024
+Sid Sriram,7qjJw7ZM2ekDSahLXPjIlN,"['tollywood', 'telugu pop', 'tamil pop', 'kollywood']",77,18334321
+Gorod 312,3gmRhbUWDRrYqk6EHnckrA,[],48,123160
+MIRA,2nMFC7hWK0haX8ilvRpb59,['manele'],55,187389
+alyona alyona,2ic3GGGmkixOZP4qnakSA8,[],52,240748
+Luan Pereira,5kVgcCdPbeUwxBqWxi2Ktl,"['agronejo', 'sertanejo', 'sertanejo universitário', 'piseiro']",76,3002416
+Voyage,6aAXBSjwLUEukyVDhOuKNO,"['synthwave', 'vaporwave', 'chillwave']",48,39500
+Konfuz,0JHx4h8GAtjhmHMQ68iQiU,[],53,166777
+Garry Sandhu,7M3xY5iHSzEtoL3FpqOD75,"['bhangra', 'punjabi pop', 'desi']",65,4966925
+Baby Gang,3LvwPiJQJ0da0GurKMToV0,"['italian trap', 'drill']",74,2347654
+Franglish,4uJNQGa3L2frXDxwgouTIw,['pop urbaine'],71,1718471
+SHY FX,5oDtp2FC8VqBjTx1aT4P5j,"['jungle', 'drum and bass', 'bassline']",59,232967
+Tyson Yoshi,3dayhmhJfL4I8w1PuL9MqQ,"['chinese r&b', 'cantopop', 'chinese hip hop', 'mandopop', 'c-pop', 'taiwanese pop']",54,107082
+Coez,5dXlc7MnpaTeUIsHLVe3n4,['indie'],68,2250790
+Zinoleesky,6Kp3KWPiVgi33DkJqo9T4g,"['afrobeats', 'afro adura', 'afrobeat', 'afropiano', 'afropop', 'amapiano', 'afroswing']",66,1917083
+Roy Kim,3ErHVJMsxTq2lLSmnONBm9,"['k-ballad', 'soundtrack']",52,352324
+LUNAX,7CLsFRcEkn0Amc9VlVOFwR,"['slap house', 'hypertechno']",63,76247
+Leiva,5Hsv8dUHHOdnn72q4XIVz7,[],71,813178
+Loredana Bertè,2XpUprTohaksHpVjUtTvlx,"['italian singer-songwriter', 'italo dance']",54,426757
+Elodie,7GgpsUpkj3olseoaTY7TEY,[],68,977988
+Sonu Nigam,1dVygo6tRFXC8CSWURQJq2,"['kannada pop', 'bollywood', 'sandalwood', 'hindi pop', 'desi', 'marathi pop']",79,20789952
+Alka Yagnik,3gBKY0y3dFFVRqicLnVZYz,"['bollywood', 'hindi pop', 'desi']",83,18118623
+LEE SEUNG YOON,6z4R3mCiiIiLgpicseyNkV,"['k-rock', 'k-ballad', 'soundtrack']",52,24873
+Zeca Pagodinho,3qZ2n5keOAat1SoF6bHwmb,"['samba', 'pagode']",67,1968634
+Zouhair Bahaoui,0CaWnepnGfVPs8uNwOzav6,"['moroccan pop', 'raï', 'moroccan chaabi']",55,1089983
+Dr. Peacock,4RbUYWWjEBb4umwqakOEd3,"['frenchcore', 'hardcore', 'hardstyle', 'gabber', 'tekno', 'hardcore techno', 'speedcore']",61,424967
+reezy,1ul8iLt2WnFe2UIyovjg7q,['german hip hop'],72,651662
+Alla Pugacheva,7lyhSLlB5fWJmU5eB6k84L,[],50,111040
+Eliad,3F78m0H4Y4a1Dvd79TKVvw,['mizrahi'],46,316621
+Sarkodie,01DTVE3KmoPogPZaOvMqO8,"['hiplife', 'azonto', 'afrobeats', 'asakaa', 'afrobeat', 'afropop', 'highlife', 'afropiano']",59,833778
+Lil Kesh,38XiDu0kK3Z5jdHUDqBzNT,"['afrobeats', 'afrobeat', 'afro adura', 'azonto', 'afropop', 'afropiano']",56,777639
+Green Apelsin,4bAoPku7d3g1A0P2MpZGjN,[],45,108799
+L-Gante,4YYxffPVDFe9XoqqbRW6Bq,"['rkt', 'turreo']",66,2351278
+Diogo Nogueira,57xRtfFlssbpntpRQOBodd,"['samba', 'pagode']",62,936512
+SQWOZ BAB,5U2ISoieRzT6TaqiXumcXl,[],54,169282
+Bensoul,09vo12hHajgG2cZzq0rGmE,"['gengetone', 'rumba congolaise', 'bongo flava', 'afro soul', 'afropop']",51,367779
+Lynda,32iQCp9tclqO3C99hRpAUR,['latin pop'],46,206644
+Natte Visstick,5hUbXqyif2dZ3ArU1v9Rli,"['hard techno', 'techno', 'tekno', 'gabber', 'hardcore techno']",57,77276
+Genezio,0PcU18DNfkn3pmbjy5yMFz,['pop urbaine'],66,200034
+C JAMM,2ZT3bnHPOdErwCLdP5aHqR,['k-rap'],44,70470
+Jorge Aragão,2cAooeeHKk2UvzUgIxpS0y,"['samba', 'pagode']",64,1010616
+Interplanetary Criminal,6uJ51uV5rYzu1MJkC4CceI,"['uk garage', 'breakbeat']",62,64006
+MC Ryan SP,75i9GaW2MJUgt4BkdUnuUY,"['funk', 'funk consciente', 'brazilian funk', 'trap funk']",83,6904430
+Mayorkun,3DNCUaKdMZcMVJIS7yTskd,"['afrobeats', 'afrobeat', 'afropop', 'afropiano', 'hiplife', 'azonto', 'afroswing']",57,1743315
+Mahmoud Al Turky,1GVRoyErxhZGdvmOKGO7W7,['khaleeji'],48,696320
+Crystal Rock,7eehGkMnqCS6Hp7HJIXH9e,['slap house'],59,25756
+GSPD,1K21aU29xAqoKoqbFgpPUt,[],51,208330
+Niphkeys,6vAWSq2hKcuItyByR5krQV,"['afro adura', 'afrobeats', 'afropiano', 'afrobeat', 'afropop']",52,50943
+GREGO,4v4g6B3AmczdtPlNE4t39X,"['piseiro', 'forró', 'agronejo']",62,248045
+Victor Leksell,6RJXSfbIkEMoCJ8GAg2dVO,[],66,185797
+Aaliyah,0urTpYCsixqZwgNTkPJOJ4,['r&b'],68,4837098
+Paula Abdul,4PpmBoqphQusNFsxuVKb6j,[],54,1165178
+Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,[],80,8914104
+Fiona Apple,3g2kUQ6tHLLbmkV7T4GPtL,"['art pop', 'chamber pop']",66,1696258
+Tori Amos,1KsASRNugxU85T0u6zSg32,"['singer-songwriter', 'art pop']",56,841210
+Joan Armatrading,1bdAJUX6JPsnYHbTl5jbk6,['singer-songwriter'],51,297947
+Melissa Auf der Maur,1icaufOGQKlDwcb5vhYHkP,[],33,40231
+Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,[],78,11670460
+Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,['christmas'],80,11323849
+Cher,72OaDtakiy6yFqkt4TsiFt,[],72,3639158
+Céline Dion,4S9EykWXhStSc15wEx8QFK,['variété française'],77,9726991
+Aretha Franklin,7nwUJBm0HE4ZxD3f5cy5ok,"['soul', 'motown', 'jazz blues']",71,3656941
+Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,[],79,11095500
+Janet Jackson,4qwGe91Bz9K2T8jXTZ815W,['new jack swing'],71,4040834
+Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,"['r&b', 'neo soul']",80,12534296
+Diana Ross,3MdG05syQeRYPPcClLaUGl,"['motown', 'disco']",68,2067249
+Shakira,0EmeFodog0BfCgMzAIvKQp,['latin pop'],89,37685627
+Annie Lennox,5MspMQqdVbdwP6ax3GXqum,['synthpop'],72,1668766
+Patti Smith,0vYkHhJ48Bs3jWcvZXvOrP,['proto-punk'],59,1215792
+Joni Mitchell,5hW4L92KnC6dX9t7tYM4Ve,"['folk', 'singer-songwriter', 'folk rock']",65,1587155
+Norah Jones,2Kx7MNY7cI1ENniW7vT30N,[],74,3301522
+Erykah Badu,7IfculRW2WXyzNQ8djX8WX,"['neo soul', 'r&b']",70,3117992
+Ms. Lauryn Hill,2Mu5NfyYm8n5iTomuKAEHl,['neo soul'],74,3298369
+Björk,7w29UYBi0qsHi5RTcv3lmA,"['art pop', 'trip hop']",65,2313662
+Brandy,05oH07COxkXKIMt6mIPRee,['r&b'],68,3926180
+Kesha,6LqNN22kT3074XbTVUrhzX,[],81,8647000
+Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,"['progressive rock', 'psychedelic rock', 'classic rock', 'symphonic rock', 'art rock', 'rock']",82,21888797
+Madonna,6tbjWDEIzxoDsBA1FuhfPW,[],81,8492553
+Sia,5WUlDfRSoLAfcVSX1WnrxN,[],86,29742098
+Solange,2auiVi8sUZo17dLy1HwrTU,"['alternative r&b', 'neo soul']",63,2137710
+Saweetie,6cK3NBO6uP7hh0oyuVELFl,[],70,2511519
+Iggy Azalea,5yG7ZAZafVaAlMTeBybKAL,[],71,6762184
+Janelle Monáe,6ueGR6SWhUJfvEhqkvMsVs,['alternative r&b'],69,1493380
+M.I.A.,0QJIPDAEDILuo8AIq3pMuU,[],70,1444767
+Amy Winehouse,6Q192DXotxtaysaqNPy5yR,[],79,9540514
+Florence Welch,0IROOdQ2fQUcoaEPqt1Isg,[],62,50578
+Nina Simone,7G1GBhoKtEPnP86X2PvEYO,"['vocal jazz', 'jazz blues', 'soul', 'soul jazz', 'jazz', 'blues']",70,3112959
+Robyn,6UE7nl9mha6s8z0wFQFIZ2,[],64,865257
+JoJo,5xuNBZoM7z1Vv8IQ6uM0p6,[],65,2429293
+Ashanti,5rkVyNGXEgeUqKkB5ccK83,['r&b'],74,3399341
+Jessie J,2gsggkzM5R49q6jpPvazou,[],74,12040918
+Tinashe,0NIIxcxNHmOoyBx03SfTCD,['alternative r&b'],72,2995350
+Charli xcx,25uiPmTg16RbhZWAqwLBy5,"['hyperpop', 'art pop']",86,5335601
+Demi Lovato,6S2OmqARrzebs0tKUEyXyp,[],78,27134445
+Rihanna,5pKCCKE2ajJHZ9KAiaK11H,[],92,66640434
+Lucy Dacus,07D1Bjaof0NFlU32KXiqUP,[],72,590811
+Snail Mail,4QkSD9TRUnMtI8Fq1jXJJe,['indie'],47,395658
+Arlo Parks,4kIwETcbpuFgRukE8o7Opx,[],58,639237
+Victoria Monét,63XBtGSEZINSyXylZxEUbv,['alternative r&b'],66,1209510
+Jazmine Sullivan,7gSjFKpVmDgC2MMsnN8CYq,"['r&b', 'neo soul']",64,2148060
+Sabrina Claudio,30DhU7BDmF4PH0JVhu8ZRg,[],63,1699184
+ROSALÍA,7ltDVBr6mKbRvohxheJ9h1,['latin'],78,8472376
+NATHY PELUSO,3VHAySZQPlfGlNLslzXYpN,['latin hip hop'],69,1294025
+Original Koffee,1gWjcmBsveEYMxOZ0VRi32,"['dancehall', 'afrobeats', 'reggae', 'afrobeat']",60,762785
+Aya Nakamura,7IlRNXHjoOCgEAWN5qYksg,['pop urbaine'],72,5228773
+Angèle,3QVolfxko2UyCOtexhVTli,"['french pop', 'variété française', 'chanson', 'french indie pop']",67,2767385
+Zaz,1mbgj8ERPs8lWi7t5cYrdy,"['chanson', 'french pop', 'french jazz']",66,1638466
+Lorde,163tK9Wjr9P9DmM0AVK7lm,[],79,10228583
+FKA twigs,6nB0iY1cjSY1KyhYyuIIKH,"['art pop', 'alternative r&b']",69,1395252
+BANKS,2xe8IXgCTpwHE3eA9hTs4n,[],62,1085999
+Bat For Lashes,6l77PmL5iuEEcYjGl8K6s7,"['art pop', 'dream pop']",47,386200
+Natalie Imbruglia,0dlOr0VIysztGWvU1dpjmP,[],66,1108979
+Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,[],79,4389276
+Alanis Morissette,6ogn9necmbUdCppmNnGOdi,[],71,3052657
+Tove Lo,4NHQUGzhtTLFvgF5SZesLK,[],75,3678453
+Kate Bush,1aSxMhuvixZ8h9dK9jIDwL,"['art pop', 'baroque pop', 'art rock']",71,2353346
+Tracey Thorn,7xFnmid57ZE6iWEXdEXO3b,[],48,65745
+Debbie Harry,7FxMjqH6DH056sdsstGeVl,[],42,51321
+Courtney Love,4vI0xGbQl2cMnMiagUEBOj,['grunge'],41,256632
+Dolores O'Riordan,55s643XPig11NyYM8do64C,[],37,173074
+Nico,0IwlY33zbBXN7zlS9DP2Cj,"['proto-punk', 'art rock']",60,367703
+PJ Harvey,12VaqyEhgwDRuFfEqbnrpz,"['art pop', 'singer-songwriter']",60,1166299
+Hope Sandoval,7zS53Xa6sVgfoh00kckgyV,[],51,34258
+Feist,6CWTBjOJK75cTE8Xv8u1kj,['chamber pop'],60,793943
+Michelle Branch,5rScKX1Sh1U67meeUyTGwk,[],60,675518
+Vanessa Carlton,5ILrArfIV0tMURcHJN8Q07,[],66,682689
+Jewel,6FbDoZnMBTdhhhLuJBOOqP,[],59,823645
+LeAnn Rimes,2d3VHzlOEwXvmBdS4pzOPL,[],66,1493235
+Faith Hill,25NQNriVT2YbSW80ILRWJa,['country'],64,1915008
+Kacey Musgraves,70kkdajctXSbqSMJbQO424,[],76,1558386
+Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,['country'],73,6093267
+Reba McEntire,02rd0anEWfMtF7iMku9uor,['country'],63,2165058
+Trisha Yearwood,3XlIhgydjvC4EniPFZT20j,['country'],58,1213390
+Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,['country'],70,3672534
+Martina McBride,3P33qFNGBVXl86yQYWspFj,['country'],57,1393723
+Sara Evans,7qvsLYsYP0MHD7jkdv6DAG,"['country', 'christian country']",55,1174120
+Shania Twain,5e4Dhzv426EvQe3aDb64jL,['country'],74,3261312
+Bonnie Raitt,4KDyYWR7IpxZ7xrdYbKrqY,['blues'],60,778768
+Pat Benatar,43mhFhQ4JAknA7Ik1bOZuV,['album rock'],65,1881905
+Stevie Nicks,7crPfGd2k81ekOoSqQKWWz,[],67,1926601
+Linda Ronstadt,1sXbwvCQLGZnaH0Jp2HTVc,"['country rock', 'mariachi']",63,1032088
+Joan Jett & the Blackhearts,1Fmb52lZ6Jv7FMWXXTPO3K,['rock'],66,1000280
+Cyndi Lauper,2BTZIqw0ntH9MvilQ3ewNY,[],73,3082259
+Belinda Carlisle,7xkAwz0bQTGDSbkofyQt3U,[],64,928244
+Susanna Hoffs,2Sc4ukCRllIu02LZfHF0RL,['power pop'],57,29366
+Kim Deal,4JzQKxgdLmyqbplHxVL8xY,[],42,42269
+Corin Tucker Band,6IvVPfDsjtFwxwFzybIbWC,[],4,1657
+Kathleen Hanna,0NXQFDQVqS7ffqT8yLKUAM,[],13,3950
+Kim Gordon,3n8qeKQViV1waeCzZmS4Tx,['noise rock'],34,91804
+Jenny Lewis,5cMVRrisBpDkXCVG48epED,[],47,202641
+Sharon Van Etten,2wJ4vsxWd7df7dRU4KcoDe,[],59,569943
+Cat Power,6G7OerKc3eBO9sVkRNopFC,"['slowcore', 'singer-songwriter']",56,783647
+Julien Baker,12zbUHbPHL5DGuJtiUfsip,[],68,516536
+St. Vincent,7bcbShaqKdcyjnmv4Ix8j6,['art pop'],64,946753
+Ani DiFranco,0AiTwNtYX8m4uhfU7rJ8RD,['singer-songwriter'],49,260256
+Lucinda Williams,60ht0hWRy1yjUDfNsLuHuP,"['alt country', 'americana', 'singer-songwriter', 'folk']",52,266562
+Emmylou Harris,5s6TJEuHTr9GR894wc6VfP,"['country rock', 'americana', 'folk', 'alt country', 'bluegrass', 'singer-songwriter']",61,406128
+Brandi Carlile,2sG4zTOLvjKG1PSoOyf5Ej,"['folk', 'americana']",68,887189
+Allison Russell,3JBmecDGXTll46ygrnGTM6,['folk'],52,110906
+Rhiannon Giddens,1EI0NtLHoh9KBziYCeN1vM,"['folk', 'americana']",51,163852
+Sandy Denny,1kYd37riIExqdm9g0juqGJ,"['folk rock', 'folk']",34,64764
+Laura Marling,7B2edU3Q7btJoNsoHCNohM,"['singer-songwriter', 'chamber pop', 'folk', 'indie folk']",56,530542
+Joan Baez,1EevBGfUh3RSQSGpluxgBm,"['folk', 'folk rock', 'singer-songwriter']",63,778508
+Judy Collins,5yzE49FicYiSxN61oaxkNn,"['folk', 'folk rock']",48,272691
+Barbra Streisand,7jmTilWYlKOuavFfmQAcu6,['adult standards'],64,1627844
+Linda Perry,5tfiJ40SRxluWNgA6ruvSo,[],40,54500
+Neneh Cherry,3JxCEqL9zjKnDJgUhRuRJD,[],58,173458
+Lisa Lisa & Cult Jam,1vgjN6nIPNKiiQGE9PtzTT,"['freestyle', 'funk melody']",47,374187
+Coko,5tdfMErqfwoDib2Pq3n2z5,"['gospel', 'gospel r&b']",32,28035
+Monica,6nzxy2wXs6tLgzEtqOkEi2,['r&b'],65,2760506
+Tamar Braxton,1MT1Wz4G9Z9EVOg4L5zZMS,['r&b'],53,1265630
+Toni Braxton,3X458ddYA2YcVWuVIGGOYe,['r&b'],66,4374716
+Tamia,0le01dl1WllSHhjEXRl4in,['r&b'],65,1951240
+Deborah Cox,601893mmW5hl1FBOykWZHG,[],52,907152
+Angie Stone,2hWr3AjjKOCVmWcwvuT4uM,"['neo soul', 'soul']",58,703581
+Kelly Rowland,3AuMNF8rQAKOzjYppFNAoB,[],71,3587271
+Michelle Williams,6t7nbFAc2dUa7oNu7kBOui,"['gospel', 'gospel r&b']",46,266394
+Fantasia,7xAcVHPiirnUqfdqo0USb1,['r&b'],58,2179122
+Jennifer Hudson,35GL8Cu2GKTcHzKGi75xl5,[],57,2011029
+Corinne Bailey Rae,29WzbAQtDnBJF09es0uddn,[],66,836542
+Nao,7aFTOGFDEqDtJUCziLVsVC,['alternative r&b'],58,675070
+India.Arie,7Gf3LSwa5hh8Cjo60WhVjC,['neo soul'],56,924240
+Yuna,3kHVioJpVxlazAAKQ64pC1,"['malay', 'malaysian pop']",65,451633
+Hikaru Utada,7lbSsjYACZHn1MSDXPxNF2,"['j-pop', 'j-r&b', 'anime']",69,3878562
+BoA,4muJrGMndyYWqZtfk8OWy4,"['k-pop', 'j-pop', 'j-r&b']",55,838997
+IU,3HqSLMAZ3g3d5poNaI7GOU,"['k-pop', 'k-ballad']",71,9158119
+CL,0tzSBCPJZmHTdOA3ZV2mN3,"['k-pop', 'k-rap']",56,1236176
+SUNMI,6MoXcK2GyGg7FIyxPU5yW6,['k-pop'],57,2635993
+Heize,5dCvSnVduaFleCnyy98JMo,"['k-ballad', 'k-pop']",60,1250649
+Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,[],76,1241572
+TAEYEON,3qNVuliS40BLgXGxhdBdqu,"['k-pop', 'k-ballad']",67,3069937
+HyunA,3UwlejyX2b458azZ7eCnHb,['k-pop'],50,2250821
+LISA,5L1lO4eRHmJ7a0Q6csE5cT,['k-pop'],83,11495702
+JISOO,6UZ0ba50XreR4TM8u322gs,['k-pop'],73,5775488
+JENNIE,250b0Wlc5Vk0CoUsaCY84M,['k-pop'],89,9922510
+ROSÉ,3eVa5w3URK5duf6eyVDbu9,['k-pop'],85,11079449
