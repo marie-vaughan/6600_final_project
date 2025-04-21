@@ -77,7 +77,7 @@ print(f"Skin percentage results saved to {output_csv}")
 ### Does not do well detecting skin with greyscale images 
 
 
-###### Combine with main dataset and save to albums_colors_nudity.csv
+###### Combine with main dataset and save to albums_colors_nudity_skin.csv
 
 # Load main dataset and new nudity one hot encode dataset
 df_main = pd.read_csv("data/new/albums_colors_nudity.csv")
